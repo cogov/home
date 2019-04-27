@@ -1,0 +1,23 @@
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; 
+} 
+
+body {
+    // height: 100%;
+    font-family: 'Avenir', 'Raleway', sans-serif;
+    box-sizing: border-box; 
+    font-weight: 400;
+    line-height: 1.6; 
+    overflow-x: hidden; 
+    outline: none;
+    letter-spacing: .5px;
+}
