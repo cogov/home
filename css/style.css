@@ -25,6 +25,12 @@ body {
   align-items: center;
   border-bottom: 1px solid purple; }
   .nav__logo--container {
-    height: 4rem; }
+    height: 4rem;
+    display: flex;
+    align-items: center; }
   .nav__logo--image {
     height: 100%; }
+  .nav__logo--text {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: .75rem; }

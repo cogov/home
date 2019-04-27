@@ -10,13 +10,22 @@
 
     &__logo {
 
+
         &--container {
             height: 4rem;
+            display: flex;
+            align-items: center;            
         }
 
         &--image {
             height: 100%;
 
+        }
+
+        &--text {
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: .75rem;
         }
 
         
