@@ -17,6 +17,18 @@ module.exports = {
           'css-loader'
         ],
       },
+
+      {
+        test: /\.(mov|mp4)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: 'sacred-geo.mp4'
+            }  
+          }
+        ]
+      },      
       {
         test: /\.scss$/,
         use: [

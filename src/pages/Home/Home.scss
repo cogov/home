@@ -1,0 +1,37 @@
+
+.home {
+    margin-top: 7rem;
+    height: 100%;
+    width: 100%;
+
+    &__backdrop {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        height: 95vh;
+        width: 100vw;
+
+        &--cover {
+            position: absolute;
+            top: 0;
+            left: 0;
+    
+            height: 95vh;
+            width: 100vw;
+            background-image: linear-gradient(to right, $cogov-primary, $cogov-grey);
+            opacity: .75;
+            z-index: 200;
+        }
+
+        &--video {
+            background-color: grey; 
+            height: 100%;
+            width: 100%;
+            object-fit: fill;
+            z-index: 10;
+        
+            
+        }
+    }
+}
