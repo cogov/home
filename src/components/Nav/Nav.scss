@@ -1,18 +1,23 @@
 
 .nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+
     height: 7rem;
     background-color: white;
     display: flex;
     padding: 0 1.5rem; 
     align-items: center;
+    justify-content: space-between;
 
-    border-bottom: 1px solid purple;
+    border-bottom: 1px solid $cogov-primary;
 
     &__logo {
-
-
         &--container {
-            height: 4rem;
+            height: 3rem;
             display: flex;
             align-items: center;            
         }
@@ -23,11 +28,27 @@
         }
 
         &--text {
-            font-size: 20px;
+            font-size: 17px;
             font-weight: 500;
             margin-left: .75rem;
+            color: $cogov-grey;
         }
+    }
 
-        
+    &__items {
+        display: flex;
+    }
+
+    &__item {
+        margin-left: 2rem;
+        font-size: 14px;
+        font-weight: 400;
+        color: #555;
+        cursor: pointer;
+        transition: all .2s;
+
+        &:hover {
+            color: $cogov-primary;
+        }
     }
 }
