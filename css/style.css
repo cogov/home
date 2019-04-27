@@ -16,3 +16,15 @@ body {
   overflow-x: hidden;
   outline: none;
   letter-spacing: .5px; }
+
+.nav {
+  height: 7rem;
+  background-color: white;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  border-bottom: 1px solid purple; }
+  .nav__logo--container {
+    height: 4rem; }
+  .nav__logo--image {
+    height: 100%; }

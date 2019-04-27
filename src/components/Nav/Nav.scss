@@ -1,0 +1,24 @@
+
+.nav {
+    height: 7rem;
+    background-color: white;
+    display: flex;
+    padding: 0 1.5rem; 
+    align-items: center;
+
+    border-bottom: 1px solid purple;
+
+    &__logo {
+
+        &--container {
+            height: 4rem;
+        }
+
+        &--image {
+            height: 100%;
+
+        }
+
+        
+    }
+}
