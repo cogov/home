@@ -1,18 +1,14 @@
-# cogov
+# Welcome to CoGov
 
-> A Vue.js project
+> We are enmpowering the rapid creation of new social systems.
 
-## Build Setup
+## Stay on top of the latest happenings
 
-``` bash
-# install dependencies
-npm install
+# Pull the latest version from the master branch
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Install dependencies 
+  npm install
+ 
+# Serve latest CoGov version
+  npm run dev
+  
