@@ -17,6 +17,32 @@ body {
   outline: none;
   letter-spacing: .5px; }
 
+.home {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%; }
+  .home__backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 95vh;
+    width: 100vw; }
+    .home__backdrop--cover {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 95vh;
+      width: 100vw;
+      background-image: linear-gradient(to right, #805691, #333);
+      opacity: .75;
+      z-index: 200; }
+    .home__backdrop--video {
+      background-color: grey;
+      height: 100%;
+      width: 100%;
+      object-fit: fill;
+      z-index: 10; }
+
 .nav {
   position: fixed;
   top: 0;
