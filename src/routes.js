@@ -1,6 +1,6 @@
 
-import Hi from './Hi.vue'
+import Home from './pages/Home/Home.vue'
 
 export const routes = [
-    { path: '/', component: Hi },
+    { path: '/', component: Home },
 ]
