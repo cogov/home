@@ -1,29 +1,24 @@
 
 <template>
     <div class="home">
+        <!-- navigation -->
         <cogov-nav></cogov-nav>
-        <div class="home__backdrop--cover"></div>                
 
-        <div class="home__backdrop">
-                <video class="home__backdrop--video" playsinline autoplay muted loop>
-                    <source src="./../../assets/videos/sacred-geo.mp4" type="video/mp4">
-                </video>            
-        </div>
-        <!-- <div class="home__cover">
-            <video class="home__video" playsinline autoplay muted loop>
-                <source src="./../../assets/videos/sacred-geo.mp4" type="video/mp4">
-            </video>
-        </div> -->
+
+        <!-- home header -->
+        <cogov-home-header></cogov-home-header>
 
     </div>
 </template>
 
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
+    import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
 
     export default {
         components: {
-            cogovNav
+            cogovNav,
+            cogovHomeHeader
         }
     }
 </script>
