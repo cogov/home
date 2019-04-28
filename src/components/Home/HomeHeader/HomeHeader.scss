@@ -1,0 +1,82 @@
+.homeHeader {
+    
+    &__backdrop {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        height: 95vh;
+        width: 100vw;
+
+        &--cover {
+            position: absolute;
+            top: 0;
+            left: 0;
+    
+            height: 95vh;
+            width: 100vw;
+            background-image: linear-gradient(to right, $cogov-primary, $cogov-grey);
+            opacity: .9;
+            z-index: 200;
+        }
+
+        &--video {
+            background-color: grey; 
+            height: 100%;
+            width: 100%;
+            object-fit: fill;
+            z-index: 10;
+        
+            
+        }
+    }
+
+    &__content {
+        position: absolute;
+        top: 24%;
+        left: 10%;
+        // background-color: blue;
+        z-index: 300;
+
+        height: 50rem;
+        width: 50vw;
+    }
+
+    &__title {
+        color: white;
+        font-size: 4rem;
+        font-weight: 600;
+    }
+
+    &__subtitle {
+        color: white;
+        font-size: 3.3rem;
+        font-weight: 500;
+    }
+
+    &__description {
+        color: white;
+        font-size: 1.7rem;
+        margin-bottom: 2rem;
+    }
+
+    &__action {
+        border: 2px solid white;
+        border-radius: 2px;
+        color: white;
+        font-size: 17px;
+        font-weight: 500;
+        background-color: transparent;
+        padding: 1rem 2rem;
+
+        cursor: pointer;
+        transition: all .2s;
+
+        &:hover {
+            border: 2px solid #333; 
+            background-color: #333;
+
+        }
+
+    }
+}
