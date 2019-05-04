@@ -7,8 +7,11 @@
         <!-- home header -->
         <cogov-home-header></cogov-home-header>
 
+        <!-- home collaborators -->
         <cogov-home-collaborators></cogov-home-collaborators>
 
+        <!-- home about -->
+        <cogov-home-about></cogov-home-about>
     </div>
 </template>
 
@@ -16,12 +19,14 @@
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
     import cogovHomeCollaborators from '../../components/Home/HomeCollaborators/HomeCollaborators.vue'
+    import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
 
     export default {
         components: {
             cogovNav,
             cogovHomeHeader,
-            cogovHomeCollaborators
+            cogovHomeCollaborators,
+            cogovHomeAbout
         }
     }
 </script>

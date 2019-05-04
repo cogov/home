@@ -1,7 +1,7 @@
 
 <template>
     <div class="homeCollaborators">
-        <h2 class="homeCollaborators__title">Organizations using CoGov to create scalable human enterprise</h2>
+        <!-- <h2 class="homeCollaborators__title">Organizations using CoGov to create scalable human enterprise</h2> -->
         <div class="homeCollaborators__collaborators">
             <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="https://www.onenation.party/1" target="blank">            

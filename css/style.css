@@ -117,7 +117,7 @@ body {
       background-color: #333; }
 
 .homeCollaborators {
-  padding: 5rem 0;
+  padding: 4rem 0;
   width: 100vw;
   background-color: white; }
   .homeCollaborators__title {
@@ -137,8 +137,26 @@ body {
     text-decoration: none;
     color: #333; }
     .homeCollaborators__collaborator--logo {
-      height: 10rem;
+      height: 8rem;
       margin-bottom: 1.5rem; }
     .homeCollaborators__collaborator--text {
       font-size: 1.4rem;
       font-weight: 500; }
+
+.homeAbout {
+  margin: 4rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .homeAbout__title {
+    text-align: center;
+    font-size: 2.7rem;
+    color: #805691;
+    margin-bottom: 1.5rem; }
+  .homeAbout__subtitle {
+    text-align-last: center;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #333;
+    padding: 0 30rem; }
