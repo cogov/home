@@ -133,7 +133,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    cursor: pointer; }
+    cursor: pointer;
+    text-decoration: none;
+    color: #333; }
     .homeCollaborators__collaborator--logo {
       height: 10rem;
       margin-bottom: 1.5rem; }

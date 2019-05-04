@@ -21,6 +21,8 @@
         align-items: center;
 
         cursor: pointer;
+        text-decoration: none;
+        color: $cogov-grey; 
 
         &--logo {
             height: 10rem;
