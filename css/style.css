@@ -161,7 +161,8 @@ body {
     margin-bottom: 6rem; }
   .homeAbout__items {
     display: flex;
-    justify-content: center; }
+    justify-content: center;
+    margin-bottom: 4rem; }
   .homeAbout__item {
     display: flex;
     flex-direction: column;
@@ -180,3 +181,13 @@ body {
       font-weight: 500;
       color: #333;
       text-align: center; }
+  .homeAbout__learnmore {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    background-color: transparent;
+    color: #805691;
+    border: 1.5px solid currentColor;
+    font-weight: 600;
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+    cursor: pointer; }

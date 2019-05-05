@@ -27,6 +27,8 @@
     &__items {
         display: flex;
         justify-content: center; 
+
+        margin-bottom: 4rem; 
     }
 
     &__item {
@@ -53,5 +55,18 @@
             text-align: center; 
 
         }
+    }
+
+    &__learnmore {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        background-color: transparent;
+        color: $cogov-primary;
+        border: 1.5px solid currentColor;
+        font-weight: 600;
+        font-size: 1.4rem; 
+        padding: 1rem 2rem; 
+
+        cursor: pointer;
     }
 }

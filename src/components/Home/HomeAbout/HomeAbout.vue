@@ -12,10 +12,9 @@
                 <img src="" alt="" class="homeAbout__item--icon">
                 <h2 class="homeAbout__item--title">Scalability</h2>
                 <p class="homeAbout__item--description">
-                    New forms of community and business are arising. but unless they can 
-                    create economies of scale, they can’t compete with the old systems and 
-                    attract people out of the old systems. CoGov enables that scalability 
-                    out of the box.                    
+                    To compete with the old systems and attract people out of them, 
+                    new forms of community and business must create economies of 
+                    scale. CoGov enables that scalability out of the box.                    
                 </p>
             </div>
 
@@ -24,9 +23,8 @@
                 <h2 class="homeAbout__item--title">Rapid Iteration</h2>
                 <p class="homeAbout__item--description">
                     We enable people to not just participate in 
-                    systems, but participate in the DESIGN of those systems, 
-                    and redesign them and tweak the design of those systems over and over 
-                    until they get it right.                    
+                    systems, but in the DESIGN of those systems, 
+                    and redesign them over and over until they get it right.                    
                 </p>
             </div>
 
@@ -35,13 +33,13 @@
                 <h2 class="homeAbout__item--title">Interoperability</h2>
                 <p class="homeAbout__item--description">
                     A whole new era of software interoperability is coming forth 
-                    thanks to Holochain. There is no longer a need for clunky and 
-                    burdensome APIs to allow applications to connect with each other. 
-                    CoGov ensures that the same level of interoperability exists between 
-                    Collectives and their Currencies.                    
+                    thanks to Holochain. Built on Holochain, CoGov ensures that the same 
+                    level of interoperability exists between Collectives and their Currencies.                    
                 </p>
             </div>   
         </div>
+
+        <button class="homeAbout__learnmore">CoGov In Depth</button>
                      
     </div>
 </template>
