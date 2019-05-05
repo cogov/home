@@ -12,6 +12,9 @@
 
         <!-- home about -->
         <cogov-home-about></cogov-home-about>
+
+        <!-- contact -->
+        <cogov-contact></cogov-contact>
     </div>
 </template>
 
@@ -20,13 +23,15 @@
     import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
     import cogovHomeCollaborators from '../../components/Home/HomeCollaborators/HomeCollaborators.vue'
     import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
+    import cogovContact from '../../components/Contact/Contact.vue'
 
     export default {
         components: {
             cogovNav,
             cogovHomeHeader,
             cogovHomeCollaborators,
-            cogovHomeAbout
+            cogovHomeAbout,
+            cogovContact
         }
     }
 </script>

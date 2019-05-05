@@ -33,7 +33,7 @@
                 <h2 class="homeAbout__item--title">Interoperability</h2>
                 <p class="homeAbout__item--description">
                     A whole new era of software interoperability is coming forth 
-                    thanks to Holochain. Built on Holochain, CoGov ensures that the same 
+                    thanks to Holochain. Powered by Holochain, CoGov ensures that the same 
                     level of interoperability exists between Collectives and their Currencies.                    
                 </p>
             </div>   
