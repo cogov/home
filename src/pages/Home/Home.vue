@@ -4,21 +4,44 @@
         <!-- navigation -->
         <cogov-nav></cogov-nav>
 
-
         <!-- home header -->
         <cogov-home-header></cogov-home-header>
 
+        <!-- home collaborators -->
+        <cogov-home-collaborators></cogov-home-collaborators>
+
+        <!-- home about -->
+        <cogov-home-about></cogov-home-about>
+
+        <!-- home details -->
+        <!-- <cogov-home-details></cogov-home-details> -->
+
+        <!-- contact -->
+        <cogov-contact></cogov-contact>
+
+        <!-- footer -->
+        <cogov-footer></cogov-footer>         
     </div>
 </template>
 
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
+    import cogovHomeCollaborators from '../../components/Home/HomeCollaborators/HomeCollaborators.vue'
+    import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
+    import cogovHomeDetails from '../../components/Home/HomeDetails/HomeDetails.vue'
+    import cogovContact from '../../components/Contact/Contact.vue'
+    import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
         components: {
             cogovNav,
-            cogovHomeHeader
+            cogovHomeHeader,
+            cogovHomeCollaborators,
+            cogovHomeAbout,
+            cogovHomeDetails,
+            cogovContact,
+            cogovFooter
         }
     }
 </script>
