@@ -41,7 +41,7 @@
             <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="http://www.fwii.net/" target="blank">            
                     <img src="../../../assets/images/cogov__fourworlds.png" alt="" class="homeCollaborators__collaborator--logo">
-                    <p class="homeCollaborators__collaborator--text">Four Worlds International Institute</p>                
+                    <p class="homeCollaborators__collaborator--text">Four Worlds <br>International Institute</p>                
                 </a>
             </div>                                                             
         </div>
