@@ -1,6 +1,34 @@
 
 .homeDetails {
-    height: 40rem;
     width: 100%;
-    background-color: #eee;
+    background-color: #fbfbfb;
+    padding: 5% 20%;
+
+    &__title {
+        font-size: 3.3rem;
+        font-weight: 600;
+        color: $cogov-primary;
+        text-align: center;
+
+        margin-bottom: 1rem;
+    }
+
+    &__subtitle {
+        font-size: 2rem;
+        font-weight: 500;
+        text-align: center; 
+        margin-bottom: 4rem;
+    }
+
+    &__types {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__type {
+        height: 30rem;
+        width: 24rem;
+        background-color: white;
+        box-shadow: 0 .2rem .2rem rgba(0, 0, 0, .2);
+    }
 }
