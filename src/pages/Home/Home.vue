@@ -20,7 +20,7 @@
         <cogov-home-details></cogov-home-details>        
 
         <!-- contact -->
-        <cogov-contact></cogov-contact>
+        <cogov-consciousness></cogov-consciousness>
 
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -34,7 +34,7 @@
     import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
     import cogovHomeDetails from '../../components/Home/HomeDetails/HomeDetails.vue'
     import cogovHomePoweredBy from '../../components/Home/HomePoweredBy/HomePoweredBy.vue'
-    import cogovContact from '../../components/Contact/Contact.vue'
+    import cogovConsciousness from '../../components/Consciousness/Consciousness.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -45,7 +45,7 @@
             cogovHomeAbout,
             cogovHomeDetails,
             cogovHomePoweredBy,
-            cogovContact,
+            cogovConsciousness,
             cogovFooter
         }
     }
