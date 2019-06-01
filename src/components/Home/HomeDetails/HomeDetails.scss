@@ -37,10 +37,21 @@
         position: relative;
         width: 100%;
         height: 60%;
-        background-image: linear-gradient(to right, $cogov-primary, $cogov-primary-light);
+        background-size: cover; 
+
+        &--developer {
+            background-image: url('../../../../src/assets/images/cogov__developer.jpg');
+        }
+
+        &--philosopher {
+            background-image: url('../../../../src/assets/images/cogov__philosopher.jpg');
+        }
+
+        &--creator {
+            background-image: url('../../../../src/assets/images/cogov__creator.jpg');
+        }
 
         &--title {
-
             color: white;
             font-size: 2rem;
             font-weight: 600;
