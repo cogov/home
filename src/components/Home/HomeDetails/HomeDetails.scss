@@ -71,13 +71,14 @@
         transform: translateX(-50%);
         background-color: transparent; 
         border: 1.5px solid #222;
+        color: #222;
 
         transition: all .2s; 
         cursor: pointer;
 
         &:hover {
-            border: 1.5px solid $cogov-primary-light;
-            background-color: $cogov-primary-light;
+            border: 1.5px solid $cogov-secondary;
+            background-color: $cogov-secondary;
             color: white; 
         }
     }

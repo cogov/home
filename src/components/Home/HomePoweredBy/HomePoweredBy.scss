@@ -40,13 +40,19 @@
             padding: 1rem 2rem;
             font-size: 1.4rem;
             font-weight: 600;
-            color: $cogov-primary;
-            background-color: white;
-            border: none;
-            box-shadow: 0 .2rem .2rem rgba(0, 0, 0, .2);
+            color: #222;
+            background-color: transparent;
+            border: 1.5px solid #222;
             align-self: flex-start;
 
-            cursor: pointer; 
+            transition: all .2s;
+            cursor: pointer;    
+
+            &:hover {
+                color: white;
+                background-color: $cogov-secondary;
+                border: 1.5px solid $cogov-secondary;
+            }
         }
     }
 
