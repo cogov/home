@@ -9,24 +9,23 @@
                 <div class="homeDetails__header homeDetails__header--developer">
                     <p class="homeDetails__header--title">DEVELOPER</p>
                 </div>
-
-                &nbsp;
+                <button class="homeDetails__cta">Get Trained</button> 
+                
             </div>
 
             <div class="homeDetails__type">
                 <div class="homeDetails__header homeDetails__header--philosopher">
                     <p class="homeDetails__header--title">PHILOSOPHER</p>
-                </div>                
+                </div>               
 
-                &nbsp;
+                <button class="homeDetails__cta">Collaborate</button>                 
             </div>
 
             <div class="homeDetails__type">
                 <div class="homeDetails__header homeDetails__header--creator">
                     <p class="homeDetails__header--title">CREATOR</p>
                 </div>                
-
-                &nbsp;
+                <button class="homeDetails__cta">Hire Us</button>                 
             </div>                        
         </div>
 
