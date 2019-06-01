@@ -60,16 +60,23 @@
         }
     }
 
-    &__learnmore {
+    &__learnmore {  
         margin-left: 50%;
         transform: translateX(-50%);
         background-color: transparent;
-        color: $cogov-primary;
+        color: #222;
         border: 1.5px solid currentColor;
         font-weight: 600;
         font-size: 1.4rem; 
         padding: 1rem 2rem; 
 
+        transition: all .2s;
         cursor: pointer;
+
+        &:hover {
+            background-color: $cogov-secondary;
+            border: 1.5px solid $cogov-secondary;
+            color: white;
+        }
     }
 }

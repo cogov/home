@@ -1,6 +1,78 @@
 
 .footer {
-    height: 36rem;
+    height: 27rem; 
     width: 100%; 
     background-color: #222;
+    padding: 3rem 1.5rem; 
+
+    display: flex;
+    justify-content: space-between;
+
+    &__left {
+        height: 100%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    &__right {
+        height: 100%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;        
+    }
+
+    &__logo {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        &--image {
+            height: 5rem; 
+            margin-right: 1rem; 
+        }
+
+        &--text {
+            color: white;
+            font-size: 2.7rem; 
+            font-weight: 500; 
+        }
+    }
+
+    &__copyright {
+        font-size: 1.2rem;
+        font-weight: 500;
+        color: white;
+    }
+
+    &__socials {
+        height: 100%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+
+    &__social {
+        display: flex;
+        margin-bottom: 1.5rem;
+        cursor: pointer;       
+
+        &:hover > &--text {
+            text-decoration: underline;
+        }
+        &--icon {
+            height: 2rem;
+            margin-right: 1rem; 
+        }
+        &--text {
+            font-size: 1.4rem;
+            color: white;
+            font-weight: 500;     
+
+            &:hover {
+               text-decoration: underline;
+            }                     
+        }
+    }
 }
