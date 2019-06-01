@@ -2,7 +2,7 @@
 .homeDetails {
     width: 100%;
     background-color: #fbfbfb;
-    padding: 5% 20%;
+    padding: 5% 15%;
 
     &__title {
         font-size: 3.3rem;
@@ -40,15 +40,15 @@
         background-size: cover; 
 
         &--developer {
-            background-image: url('../../../../src/assets/images/cogov__developer.jpg');
+            background-image: linear-gradient(to right, rgba(#222, .5), rgba(#222, .5)), url('../../../../src/assets/images/cogov__developer.jpg');
         }
 
         &--philosopher {
-            background-image: url('../../../../src/assets/images/cogov__philosopher.jpg');
+            background-image: linear-gradient(to right, rgba(#222, .5), rgba(#222, .5)), url('../../../../src/assets/images/cogov__philosopher.jpg');
         }
 
         &--creator {
-            background-image: url('../../../../src/assets/images/cogov__creator.jpg');
+            background-image: linear-gradient(to right, rgba(#222, .5), rgba(#222, .5)), url('../../../../src/assets/images/cogov__creator.jpg');
         }
 
         &--title {
