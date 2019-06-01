@@ -226,11 +226,11 @@ body {
     height: 75%;
     background-size: cover; }
     .homeDetails__header--developer {
-      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__developer.jpg"); }
+      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__developer.png"); }
     .homeDetails__header--philosopher {
-      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__philosopher.jpg"); }
+      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__philosopher.png"); }
     .homeDetails__header--creator {
-      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__creator.jpg"); }
+      background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__creator.png"); }
     .homeDetails__header--title {
       color: white;
       font-size: 2rem;
