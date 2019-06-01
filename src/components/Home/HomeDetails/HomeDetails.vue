@@ -6,16 +6,25 @@
         </p>
         <div class="homeDetails__types">
             <div class="homeDetails__type">
+                <div class="homeDetails__header">
+                    <p class="homeDetails__header--title">DEVELOPER</p>
+                </div>
 
                 &nbsp;
             </div>
 
             <div class="homeDetails__type">
+                <div class="homeDetails__header">
+                    <p class="homeDetails__header--title">PHILOSOPHER</p>
+                </div>                
 
                 &nbsp;
             </div>
 
             <div class="homeDetails__type">
+                <div class="homeDetails__header">
+                    <p class="homeDetails__header--title">CREATOR</p>
+                </div>                
 
                 &nbsp;
             </div>                        

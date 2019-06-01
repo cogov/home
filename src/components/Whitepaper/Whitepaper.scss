@@ -1,0 +1,52 @@
+
+.whitepaper {
+    background-image: linear-gradient(to right, $cogov-primary, $cogov-primary-light);
+    padding: 8rem 12%;
+
+    display: flex;
+    justify-content: center;
+    
+    &__image {
+        width: 50%;
+        height: 45rem; 
+        position: relative;
+        margin-right: 5rem;
+
+        &--photo {
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 45rem;
+
+        }
+    }
+
+    &__text {
+        width: 50%; 
+        margin-left: 5rem; 
+        color: white;
+        display: flex;
+        flex-direction: column;
+
+        &--title {
+            font-size: 2.7rem;
+            font-weight: 600;
+        }
+
+        &--body {
+            font-size: 1.7rem;
+            font-weight: 500;
+            margin-bottom: 2rem; 
+        }
+
+        &--button {
+            align-self: flex-start;
+            padding: 1rem 2rem; 
+            background-color: transparent;
+            border: 2px solid white;
+            color: white; 
+            font-size: 1.2rem;
+            font-weight: 600; 
+        }
+    }
+}
