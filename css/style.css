@@ -327,6 +327,27 @@ body {
       font-weight: 600; }
 
 .footer {
-  height: 36rem;
+  height: 24rem;
   width: 100%;
-  background-color: #222; }
+  background-color: #222;
+  padding: 3rem 1.5rem; }
+  .footer__left {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    justify-content: space-between; }
+  .footer__logo {
+    display: flex;
+    align-items: center; }
+    .footer__logo--image {
+      height: 5rem;
+      margin-right: 1rem; }
+    .footer__logo--text {
+      color: white;
+      font-size: 2.7rem;
+      font-weight: 500; }
+  .footer__copyright {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: white; }
