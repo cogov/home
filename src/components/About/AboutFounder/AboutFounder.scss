@@ -1,0 +1,62 @@
+
+.aboutFounder {
+    padding: 4rem 12%; 
+    background-color: white;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+
+    &__left {
+        width: 50%;
+        position: relative;
+        margin-right: 4rem;
+
+        &--image {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    }
+
+    &__right {
+        width: 50%;
+        margin-left: 4rem;
+    }
+
+    &__container {
+        margin-bottom: 2rem;
+    }
+
+    &__title {
+        font-size: 2rem;
+        font-weight: 500;
+        color: #333;
+        text-transform: uppercase;
+        margin-bottom: .5rem;
+    }
+
+    &__body {
+        font-size: 1.7rem;
+        color: #333; 
+    }
+
+    &__contact {
+        padding: 1rem 2rem;
+        border: 1.5px solid #222;
+        color: #222;
+        font-size: 1.2rem;
+        font-weight: 600;
+        background-color: transparent;
+
+        transition: all .2s;
+        cursor: pointer;
+
+        &:hover {
+            border: 1.5px solid $cogov-secondary;
+            background-color: $cogov-secondary;
+            color: white;
+        }
+    }
+}

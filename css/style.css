@@ -324,6 +324,49 @@ body {
     color: #333;
     font-weight: 400; }
 
+.aboutFounder {
+  padding: 4rem 12%;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  display: flex; }
+  .aboutFounder__left {
+    width: 50%;
+    position: relative;
+    margin-right: 4rem; }
+    .aboutFounder__left--image {
+      width: 100%;
+      position: absolute;
+      top: 0;
+      right: 0; }
+  .aboutFounder__right {
+    width: 50%;
+    margin-left: 4rem; }
+  .aboutFounder__container {
+    margin-bottom: 2rem; }
+  .aboutFounder__title {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: .5rem; }
+  .aboutFounder__body {
+    font-size: 1.7rem;
+    color: #333; }
+  .aboutFounder__contact {
+    padding: 1rem 2rem;
+    border: 1.5px solid #222;
+    color: #222;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: transparent;
+    transition: all .2s;
+    cursor: pointer; }
+    .aboutFounder__contact:hover {
+      border: 1.5px solid #195C89;
+      background-color: #195C89;
+      color: white; }
+
 .whitepaper {
   background-image: linear-gradient(to right, #683B7A, #195C89);
   padding: 8rem 12%;
