@@ -3,6 +3,7 @@
  
 // pages
 @import './../src/pages/Home/Home';
+@import './../src/pages/About/About';
 
 // components
 @import './../src/components/Nav/Nav';
@@ -12,7 +13,11 @@
 @import './../src/components/Home/HomeDetails/HomeDetails';
 @import './../src/components/Home/HomePoweredBy/HomePoweredBy';
 
+@import './../src/components/About/AboutQuote/AboutQuote';
+@import './../src/components/About/AboutFounder/AboutFounder';
+
 @import './../src/components/Whitepaper/Whitepaper';
 @import './../src/components/Footer/Footer';
+
 
 

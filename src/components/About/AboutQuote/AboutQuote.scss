@@ -1,0 +1,23 @@
+
+.aboutQuote {
+    background-color: white;
+    width: 100%;
+    padding: 4rem 25%;
+    text-align: center;
+
+    &__text {
+        font-size: 2rem;
+        color: #333;
+        font-weight: 500;
+    }
+
+    &__founder {
+
+        &--name {
+            font-size: 1.4rem;
+            color: #333;
+            font-weight: 400;
+        }
+    }
+
+}
