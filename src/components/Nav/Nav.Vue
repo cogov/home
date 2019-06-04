@@ -12,7 +12,7 @@
                 <a href='/about' class="removelink">About</a>
             </div>
             <div class="nav__item">
-                <a href='/' class="removelink">Holochain</a>
+                <a href='/holochain' class="removelink">Holochain</a>
             </div>
             <div class="nav__item">
                 <a href='/' class="removelink">Whitepaper</a>
