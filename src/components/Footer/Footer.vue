@@ -2,10 +2,14 @@
 <template>
     <section class="footer">
         <div class="footer__left">
-            <div class="footer__logo">
-                <img class="footer__logo--image" src="../../assets/images/cogov__logo--white.png" alt="">
-                <p class="footer__logo--text">CoGov</p>
-            </div>
+                <div class="footer__logo">
+                    <a href="/" class="removelink footer__logo--image">
+                        <img class="footer__logo--image" src="../../assets/images/cogov__logo--white.png" alt="">
+                    </a>
+                    <a href="/" class="removelink footer__logo--text">
+                        <p class="footer__logo--text">CoGov</p>
+                    </a>
+                </div>
 
             <p class="footer__copyright">Copyright 2019 CoGov, All Rights Reserved.</p>
         </div>
