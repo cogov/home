@@ -4,6 +4,8 @@
 // pages
 @import './../src/pages/Home/Home';
 @import './../src/pages/About/About';
+@import './../src/pages/Holochain/Holochain';
+@import './../src/pages/Whitepaper/Whitepaper';
 
 // components
 @import './../src/components/Nav/Nav';
@@ -18,6 +20,10 @@
 
 @import './../src/components/Whitepaper/Whitepaper';
 @import './../src/components/Footer/Footer';
+
+@import './../src/components/Holochain/HolochainHeader/HolochainHeader';
+@import './../src/components/Holochain/HolochainBullets/HolochainBullets';
+@import './../src/components/Holochain/HolochainCoGov/HolochainCoGov';
 
 
 
