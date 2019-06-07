@@ -1,6 +1,6 @@
 # Welcome to CoGov
 
-> We are enmpowering the rapid creation of new social systems.
+> We are empowering the rapid creation of new social systems.
 
 ## Stay on top of the latest happenings
 
