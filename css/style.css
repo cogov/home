@@ -467,3 +467,23 @@ body {
       font-weight: 500; }
       .footer__social--text:hover {
         text-decoration: underline; }
+
+.holochainHeader {
+  display: flex;
+  padding: 4rem 12%; }
+  .holochainHeader__left {
+    margin-right: 4rem;
+    width: 50%; }
+  .holochainHeader__video {
+    width: 100%;
+    height: 100%; }
+  .holochainHeader__right {
+    width: 50%;
+    margin-left: 4rem; }
+  .holochainHeader__title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #805691; }
+  .holochainHeader__body {
+    font-size: 1.7rem;
+    font-weight: 100500; }
