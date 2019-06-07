@@ -487,3 +487,32 @@ body {
   .holochainHeader__body {
     font-size: 1.7rem;
     font-weight: 100500; }
+
+.holochainBullets {
+  height: 45rem;
+  display: flex;
+  padding: 0 12%; }
+  .holochainBullets__left {
+    width: 50%; }
+  .holochainBullets__right {
+    width: 50%; }
+  .holochainBullets__title {
+    color: #805691;
+    font-size: 2.2rem;
+    font-weight: 600; }
+  .holochainBullets__body {
+    font-size: 1.7rem;
+    font-weight: 500; }
+
+.holochainCoGov {
+  padding: 4rem 17%; }
+  .holochainCoGov__title {
+    text-align: center;
+    color: #805691;
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-bottom: 2rem; }
+  .holochainCoGov__body {
+    text-align-last: center;
+    font-size: 1.7rem;
+    font-weight: 500; }
