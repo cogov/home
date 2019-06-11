@@ -40,7 +40,13 @@ body {
   width: 100%;
   position: relative; }
 
-.whitepaper {
+.whitepaperPage {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
+.connect {
   margin-top: 7rem;
   height: 100%;
   width: 100%;
