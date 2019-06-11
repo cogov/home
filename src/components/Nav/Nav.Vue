@@ -18,7 +18,7 @@
                 <a href='/whitepaper' class="removelink">Whitepaper</a>
             </div>
             <div class="nav__item">
-                <a href='/' class="removelink">Connect</a>
+                <a href='/connect' class="removelink">Connect</a>
             </div>
         </div>
 

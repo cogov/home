@@ -9,7 +9,7 @@
 
         <div class="homeAbout__items">
             <div class="homeAbout__item">
-                <img src="" alt="" class="homeAbout__item--icon">
+                <img src="../../../assets/images/cogov__scalability.png" alt="" class="homeAbout__item--icon">
                 <h2 class="homeAbout__item--title">Scalability</h2>
                 <p class="homeAbout__item--description">
                     To compete with the old systems and attract people out of them, 
@@ -19,7 +19,7 @@
             </div>
 
             <div class="homeAbout__item">
-                <img src="" alt="" class="homeAbout__item--icon">
+                <img src="../../../assets/images/cogov__iteration.png" alt="" class="homeAbout__item--icon">
                 <h2 class="homeAbout__item--title">Rapid Iteration</h2>
                 <p class="homeAbout__item--description">
                     We enable people to not just participate in 
@@ -29,7 +29,7 @@
             </div>
 
             <div class="homeAbout__item">
-                <img src="" alt="" class="homeAbout__item--icon">
+                <img src="../../../assets/images/cogov__interoperability.png" alt="" class="homeAbout__item--icon">
                 <h2 class="homeAbout__item--title">Interoperability</h2>
                 <p class="homeAbout__item--description">
                     A whole new era of software interoperability is coming forth 
@@ -39,7 +39,7 @@
             </div>   
         </div>
 
-        <button class="homeAbout__learnmore">CoGov In Depth</button>
+        <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink"><button class="homeAbout__learnmore">Read Our Whitepaper</button></a>
                      
     </div>
 </template>
