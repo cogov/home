@@ -10,7 +10,7 @@
                 Through this, CoGov ensures that the same level of interoperability exists 
                 between Collectives and their Currencies.
             </p>
-            <button class="homePoweredBy__right--more">More on Holochain</button>
+            <a href="/holochain" class="removelink"><button class="homePoweredBy__right--more">More on Holochain</button></a>
 
         </div>
 

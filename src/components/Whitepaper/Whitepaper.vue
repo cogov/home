@@ -9,9 +9,9 @@
             <p class="whitepaper__text--body">We're excited to share the CoGov Whitepaper with you.
                 This Whitepaper introduces new breakthroughs in distributed governance, 
                 software interoperability, and methods to achieve greater organizational
-                capacity and higher consciousness.
+                capacity.
             </p>
-            <button class="whitepaper__text--button">READ THE WHITEPAPER</button>
+            <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink"><button class="whitepaper__text--button">GET THE WHITEPAPER</button></a>
         </div>
     </div>
 </template>

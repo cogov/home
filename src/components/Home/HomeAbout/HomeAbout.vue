@@ -39,7 +39,7 @@
             </div>   
         </div>
 
-        <button class="homeAbout__learnmore">CoGov In Depth</button>
+        <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink"><button class="homeAbout__learnmore">Read Our Whitepaper</button></a>
                      
     </div>
 </template>
