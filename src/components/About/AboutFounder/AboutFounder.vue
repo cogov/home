@@ -24,7 +24,7 @@
                 </p>
             </div>
 
-            <button class="aboutFounder__contact">Get in touch</button>
+            <a href="/connect" class="removelink"><button class="aboutFounder__contact">Get in touch</button></a>
 
         </div>
     </div>

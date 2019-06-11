@@ -309,6 +309,9 @@ body {
       font-weight: 500;
       color: #333;
       text-align: center; }
+    .homeAbout__item--icon {
+      height: 4rem;
+      margin-bottom: 2rem; }
   .homeAbout__learnmore {
     margin-left: 50%;
     transform: translateX(-50%);
@@ -495,7 +498,8 @@ body {
   .holochainHeader__title {
     font-size: 2.4rem;
     font-weight: 600;
-    color: #805691; }
+    color: #805691;
+    margin-bottom: 1rem; }
   .holochainHeader__body {
     font-size: 1.7rem;
     font-weight: 100500; }
