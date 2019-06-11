@@ -8,23 +8,26 @@
 @import './../src/pages/Whitepaper/Whitepaper';
 @import './../src/pages/Connect/Connect';
 
-// components
+// Global components
 @import './../src/components/Nav/Nav';
+@import './../src/components/Whitepaper/Whitepaper';
+@import './../src/components/Footer/Footer';
+
+// Home components
 @import './../src/components/Home/HomeHeader/HomeHeader';
 @import './../src/components/Home/HomeCollaborators/HomeCollaborators';
 @import './../src/components/Home/HomeAbout/HomeAbout';
 @import './../src/components/Home/HomeDetails/HomeDetails';
 @import './../src/components/Home/HomePoweredBy/HomePoweredBy';
 
+// About components
 @import './../src/components/About/AboutQuote/AboutQuote';
 @import './../src/components/About/AboutFounder/AboutFounder';
 
-@import './../src/components/Whitepaper/Whitepaper';
-@import './../src/components/Footer/Footer';
-
+// Holochain components
 @import './../src/components/Holochain/HolochainHeader/HolochainHeader';
 @import './../src/components/Holochain/HolochainBullets/HolochainBullets';
 @import './../src/components/Holochain/HolochainCoGov/HolochainCoGov';
 
-
-
+// Connect components
+@import './../src/components/Connect/ConnectHeader';
