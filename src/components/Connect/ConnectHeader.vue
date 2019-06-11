@@ -19,7 +19,7 @@
             </div>               
         </div>
         <div class="connectHeader__right">
-            <img src="../../assets/images/cogov__mandala.png" class="connectHeader__mandala" alt="">
+            <img src="../../assets/images/cogov__mandala--three.png" class="connectHeader__mandala" alt="">
 
         </div>
     </div>
