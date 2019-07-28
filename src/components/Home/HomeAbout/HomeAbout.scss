@@ -1,10 +1,12 @@
 
 .homeAbout {
     width: 100%;    
-    padding: 12rem 10%;
+    padding: 0 10%;
 
 
     &__header {
+        padding: 12rem 0;
+        background-color: white;
         display: flex;
         flex-direction: column;
 
@@ -28,19 +30,20 @@
     }
 
     &__items {
+        // background-color: #eee;
         display: flex;
         flex-direction: column; 
     }
 
     &__item {
         display: flex;
-        margin-bottom: 4rem; 
+        margin-bottom:8rem; 
 
         &--photo {
             background-position: center;
             background-size: cover;
-            height: 30vw;
-            width: 60vw;      
+            height: 20vw;
+            width: 40vw;      
             
             &--one {
                 background-image: url('../../../../src/assets/images/cogov__unenclosability.png');
@@ -59,13 +62,22 @@
             }
             
             &--five {
-                background-image: url('../../../../src/assets/images/cogov__scalability.png');
+                background-image: url('../../../../src/assets/images/cogov__interoperability.png');
             }            
         }
 
         &--text {
-            margin-left: 4rem;
             width: 40vw;
+
+            &--right {
+                margin-left: 6rem;
+
+            }
+
+            &--left {
+                margin-right: 6rem;
+
+            }
         }
 
         &--title {

@@ -7,6 +7,8 @@
         <!-- home header -->
         <cogov-home-header></cogov-home-header>
 
+        
+
         <!-- home collaborators -->
         <!-- <cogov-home-collaborators></cogov-home-collaborators> -->
 
@@ -17,7 +19,10 @@
         <!-- <cogov-home-powered-by></cogov-home-powered-by> -->
 
         <!-- home details -->
-        <!-- <cogov-home-details></cogov-home-details>         -->
+        <cogov-home-details></cogov-home-details>        
+
+        <cogov-home-collaborators></cogov-home-collaborators>
+
 
         <!-- contact -->
         <!-- <cogov-whitepaper></cogov-whitepaper> -->

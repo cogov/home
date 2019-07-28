@@ -10,12 +10,12 @@
 
         </div>
    
-<!--  
+
 
         <div class="homeAbout__items">
             <div class="homeAbout__item">
                 <div class="homeAbout__item--photo homeAbout__item--photo--one">&nbsp;</div>
-                <div class="homeAbout__item--text">
+                <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
                         The Earth’s air is an unenclosable carrier. It cannot be owned or 
@@ -31,8 +31,7 @@
             </div>
 
             <div class="homeAbout__item">
-                <div class="homeAbout__item--photo homeAbout__item--photo--two">&nbsp;</div>
-                <div class="homeAbout__item--text">
+                <div class="homeAbout__item--text homeAbout__item--text--left">
                     <h2 class="homeAbout__item--title">Scalability</h2>
                     <p class="homeAbout__item--body">
                         New forms of community and business are arising. 
@@ -40,12 +39,14 @@
                         they can’t compete with the old systems and attract people out 
                         of the old systems. CoGov enables that scalability out of the box.                  
                     </p>
-                </div>
+                </div>                
+                <div class="homeAbout__item--photo homeAbout__item--photo--two">&nbsp;</div>
+
             </div>
 
             <div class="homeAbout__item">
-                <div class="homeAbout__item--photo homeAbout__item--photo--three">&nbsp;</div>
-                <div class="homeAbout__item--text">
+                <div class="homeAbout__item--photo homeAbout__item--photo--five">&nbsp;</div>
+                <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Transparency</h2>
                     <p class="homeAbout__item--body">
                         CoGov offers a fully transparent interoperability layer that 
@@ -58,35 +59,32 @@
             </div>     
 
             <div class="homeAbout__item">
-                <div class="homeAbout__item--photo homeAbout__item--photo--four">&nbsp;</div>
-                <div class="homeAbout__item--text">
+                <div class="homeAbout__item--text homeAbout__item--text--left">
                     <h2 class="homeAbout__item--title">Rapid Iteration</h2>
                     <p class="homeAbout__item--body">
-                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
-                        controlled. With air, we can communicate with others because we 
-                        can speak and be heard by others. Unenclosable communication is 
-                        critical to cohesive group interactions because it means that 
-                        humans have the ability to interact directly with each other—to 
-                        feel and see and know each other and to empathize from our shared 
-                        experience of humanness. Holochain is the world's first and only digital, 
-                        unenclosable carrier.                        
+                        A massive shift in human consciousness is upon us. Along with that 
+                        we must exponentially increase out ability to coordinate at scale. 
+                        That means people get to not just participate in systems, but 
+                        they get to participate in the DESIGN of those systems, and 
+                        redesign them and tweak the design of those systems over and 
+                        over until we get it right.                      
                     </p>
-                </div>
+                </div>                
+                <div class="homeAbout__item--photo homeAbout__item--photo--four">&nbsp;</div>
+
             </div>     
 
             <div class="homeAbout__item">
-                <div class="homeAbout__item--photo">&nbsp;</div>
-                <div class="homeAbout__item--text">
-                    <h2 class="homeAbout__item--title">Transparency</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FJL3ibnZlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
+                <!-- <div class="homeAbout__item--photo homeAbout__item--photo--five">&nbsp;</div> -->
+                <div class="homeAbout__item--text homeAbout__item--text--right">
+                    <h2 class="homeAbout__item--title">Holochain</h2>
                     <p class="homeAbout__item--body">
-                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
-                        controlled. With air, we can communicate with others because we 
-                        can speak and be heard by others. Unenclosable communication is 
-                        critical to cohesive group interactions because it means that 
-                        humans have the ability to interact directly with each other—to 
-                        feel and see and know each other and to empathize from our shared 
-                        experience of humanness. Holochain is the world's first and only digital, 
-                        unenclosable carrier.                        
+                        A whole new era of software interoperability is coming forth thanks to Holochain. 
+                        There is no longer a need for clunky and burdensome APIs to 
+                        allow applications to connect with each other. CoGov ensures 
+                        that the same level of interoperability exists between 
+                        Collectives and their Currencies.                  
                     </p>
                 </div>
             </div>                                                

@@ -64,7 +64,7 @@ body {
   padding: 0 1.5rem;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #195C89; }
+  border-bottom: 1px solid #eee; }
   .nav__logo--container {
     height: 3rem;
     display: flex;
@@ -230,12 +230,14 @@ body {
     font-size: 1.7rem;
     margin-bottom: 2rem; }
   .homeHeader__action {
+    border: 3px solid white;
     border-radius: 100px;
     color: #195C89;
+    color: white;
     font-size: 17px;
     font-weight: 600;
     text-transform: uppercase;
-    background-color: white;
+    background-color: transparent;
     padding: 1.5rem 3rem;
     cursor: pointer;
     transition: all .2s; }
@@ -245,7 +247,7 @@ body {
 .homeCollaborators {
   padding: 4rem 0;
   width: 100vw;
-  background-color: white; }
+  background-color: #fbfbfb; }
   .homeCollaborators__title {
     text-align: center;
     margin-bottom: 5rem;
@@ -272,8 +274,10 @@ body {
 
 .homeAbout {
   width: 100%;
-  padding: 12rem 10%; }
+  padding: 0 10%; }
   .homeAbout__header {
+    padding: 12rem 0;
+    background-color: white;
     display: flex;
     flex-direction: column; }
   .homeAbout__title {
@@ -292,12 +296,12 @@ body {
     flex-direction: column; }
   .homeAbout__item {
     display: flex;
-    margin-bottom: 4rem; }
+    margin-bottom: 8rem; }
     .homeAbout__item--photo {
       background-position: center;
       background-size: cover;
-      height: 30vw;
-      width: 60vw; }
+      height: 20vw;
+      width: 40vw; }
       .homeAbout__item--photo--one {
         background-image: url("../../../../src/assets/images/cogov__unenclosability.png"); }
       .homeAbout__item--photo--two {
@@ -307,10 +311,13 @@ body {
       .homeAbout__item--photo--four {
         background-image: url("../../../../src/assets/images/cogov__iteration.png"); }
       .homeAbout__item--photo--five {
-        background-image: url("../../../../src/assets/images/cogov__scalability.png"); }
+        background-image: url("../../../../src/assets/images/cogov__interoperability.png"); }
     .homeAbout__item--text {
-      margin-left: 4rem;
       width: 40vw; }
+      .homeAbout__item--text--right {
+        margin-left: 6rem; }
+      .homeAbout__item--text--left {
+        margin-right: 6rem; }
     .homeAbout__item--title {
       font-size: 2.4rem;
       font-weight: 500;
@@ -323,14 +330,15 @@ body {
 .homeDetails {
   width: 100%;
   background-color: #fbfbfb;
-  padding: 5% 15%; }
+  padding: 5% 12%; }
   .homeDetails__title {
     font-size: 3.3rem;
     font-weight: 600;
-    color: #195C89;
+    color: #333;
     text-align: center;
     margin-bottom: 1rem; }
   .homeDetails__subtitle {
+    padding: 0 15%;
     font-size: 2rem;
     font-weight: 500;
     text-align: center;
@@ -340,14 +348,12 @@ body {
     justify-content: space-between; }
   .homeDetails__type {
     margin: 0 2rem;
-    height: 30rem;
-    min-width: 27rem;
-    background-color: white;
-    box-shadow: 0 0.2rem 0.2rem rgba(0, 0, 0, 0.2); }
+    height: 27rem;
+    width: 27rem; }
   .homeDetails__header {
     position: relative;
     width: 100%;
-    height: 75%;
+    height: 100%;
     background-size: cover; }
     .homeDetails__header--developer {
       background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__developer.png"); }
@@ -369,8 +375,8 @@ body {
     margin-top: 1.875rem;
     transform: translateX(-50%);
     background-color: transparent;
-    border: 1.5px solid #222;
-    color: #222;
+    border: 1.5px solid white;
+    color: white;
     transition: all .2s;
     cursor: pointer; }
     .homeDetails__cta:hover {
