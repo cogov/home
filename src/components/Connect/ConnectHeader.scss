@@ -3,7 +3,7 @@
     width: 100%;
     background-color: white;
 
-    padding: 4rem 12%;
+    padding: 8rem 12%;
     display: flex;
 
     &__left {
@@ -13,7 +13,7 @@
     &__title {
         color: $cogov-grey;
         font-size: 3.3rem;
-        font-weight: 500;
+        font-weight: 600;
         margin-bottom: 1rem;        
     }
 
@@ -42,17 +42,6 @@
         margin-bottom: 2rem; 
     }
 
-    &__headshot {
-        height: auto;
-        width: 12rem;
-        margin-right: 1.5rem;
-
-        &--photo {
-            height: 100%;
-            width: 100%; 
-        }
-    }
-
     &__button {
         font-weight: 500; 
         padding: 1rem 0; 
@@ -66,20 +55,36 @@
         transition: all .2s;
 
         &:hover {
-            background-color: $cogov-secondary;
-            border: 2px solid $cogov-secondary;
-            color: white;
+            transform: scale(1.05);
         }
 
     }
     &__right {
         width: 50%;
+        height: 36rem;
+        position: relative;
     }     
 
+    &__headshot {
+        height: auto;
+        width: 24rem;
+        margin-right: 1.5rem;
+        z-index: 100;
+
+        position: absolute;
+        top: 0;
+        left: 10rem;
+
+        &--photo {
+            height: 100%;
+            width: 100%; 
+        }
+    }
+
     &__mandala {
-        margin-left: 50%; 
         height: 36rem;
         width: auto;
+        margin-left: 50%;
         transform: translateX(-50%);
     }
 

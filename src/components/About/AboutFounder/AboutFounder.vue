@@ -16,6 +16,9 @@
 
                     Through the writing of code, as well as identifying and bringing together the most talented engineers and systems architects on the planet to synchronize their efforts, one of Ray’s fundamental goals is to unify people through the creation of new standards of action and interaction that more closely align with natural patterns inherent in the fabric of the Universe.
                     <br><br>
+                    
+                    Becoming an entrepreneur and obtaining success as a young man, in parallel with awakening to the reality of a world filled with oppression, Ray set out to create true inner wealth beyond money. He has been a pioneer in truly defining sovereignty, and revealing how from that place, people can create environments of true synergistic co-creation.
+                    <br><br>
 
                     From capitalist, to activist, Ray has been bringing awareness to what was really going on in the world since 2007. When Ray became a father, he was pushed him even further along in the discovery of how to create profound changes in our political, social, and economical systems.
                     <br><br>

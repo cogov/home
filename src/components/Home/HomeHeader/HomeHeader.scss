@@ -1,13 +1,13 @@
 .homeHeader {
     position: relative;
-    height: 90vh;
+    height: 98vh;
 
     &__backdrop {
         position: absolute;
         top: 0;
         left: 0;
 
-        height: 90vh;
+        height: 98vh;
         width: 100vw;
 
         &--cover {
@@ -15,7 +15,7 @@
             top: 0;
             left: 0;
     
-            height: 90vh;
+            height: 98vh;
             width: 100vw;
             background-image: linear-gradient(to right, $cogov-primary, $cogov-grey);
             opacity: .9;
@@ -35,7 +35,7 @@
 
     &__content {
         position: absolute;
-        top: 25%;
+        top: 33%;
         left: 50%;
         transform: translateX(-50%);
         text-align: center;

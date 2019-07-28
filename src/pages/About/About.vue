@@ -10,9 +10,6 @@
         <!-- founder -->
         <cogov-about-founder></cogov-about-founder>        
 
-        <!-- contact -->
-        <cogov-whitepaper></cogov-whitepaper>
-
         <!-- footer -->
         <cogov-footer></cogov-footer>         
     </div>
