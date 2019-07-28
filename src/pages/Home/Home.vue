@@ -8,19 +8,19 @@
         <cogov-home-header></cogov-home-header>
 
         <!-- home collaborators -->
-        <cogov-home-collaborators></cogov-home-collaborators>
+        <!-- <cogov-home-collaborators></cogov-home-collaborators> -->
 
         <!-- home about -->
         <cogov-home-about></cogov-home-about>
 
         <!-- home powered by -->
-        <cogov-home-powered-by></cogov-home-powered-by>
+        <!-- <cogov-home-powered-by></cogov-home-powered-by> -->
 
         <!-- home details -->
-        <cogov-home-details></cogov-home-details>        
+        <!-- <cogov-home-details></cogov-home-details>         -->
 
         <!-- contact -->
-        <cogov-whitepaper></cogov-whitepaper>
+        <!-- <cogov-whitepaper></cogov-whitepaper> -->
 
         <!-- footer -->
         <cogov-footer></cogov-footer>         

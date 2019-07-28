@@ -35,27 +35,29 @@
 
     &__content {
         position: absolute;
-        top: 15rem;
-        left: 10%;
+        top: 25%;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
         // background-color: blue;
         z-index: 300;
 
         height: 50rem;
-        width: 50vw;
+        width: 55vw;
     }
 
     &__title {
         color: white;
-        font-size: 4rem;
+        font-size: 6rem;
         font-weight: 600;
     }
 
     &__subtitle {
         color: white;
         font-size: 3.3rem;
-        font-weight: 500;
+        font-weight: 400;
 
-        margin-bottom: 1rem; 
+        margin-bottom: 2rem; 
     }
 
     &__description {
@@ -65,20 +67,19 @@
     }
 
     &__action {
-        border: 2px solid white;
-        border-radius: 2px;
-        color: white;
+        border-radius: 100px;
+        color: $cogov-primary;
         font-size: 17px;
-        font-weight: 500;
-        background-color: transparent;
-        padding: 1rem 2rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        background-color: white;
+        padding: 1.5rem 3rem;
 
         cursor: pointer;
         transition: all .2s;
 
         &:hover {
-            border: 2px solid $cogov-secondary; 
-            background-color: $cogov-secondary;
+            transform: scale(1.02);
 
         }
 

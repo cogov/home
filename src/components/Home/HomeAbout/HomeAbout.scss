@@ -1,87 +1,84 @@
 
 .homeAbout {
-    margin: 4rem 0; 
     width: 100%;    
-    padding: 0 10%;
+    padding: 12rem 10%;
 
-    // display: flex;
-    // flex-direction: column;
-    // align-items: center;
+
+    &__header {
+        display: flex;
+        flex-direction: column;
+
+    }
 
     &__title {
-        text-align: center;
-        font-size: 3.3rem;  
-        color: $cogov-primary; 
-        margin-bottom: 1.5rem;
+        font-size: 1.7rem;  
+        color: $cogov-grey; 
     }
 
     &__subtitle  {
-        text-align: center;
-        font-size: 2rem;
-        font-weight: 500; 
-        color: $cogov-grey;
-        width: 60%;
-
-        margin-left: 50%;
-        transform: translateX(-50%);
-        margin-bottom: 6rem; 
-
+        font-size: 4.2rem;
+        font-weight: 600; 
+        color: $cogov-primary;
     }
+
+    &__body {
+        font-size: 2rem;
+        font-weight: 400;
+        color: $cogov-grey;
+    }
+
     &__items {
         display: flex;
-        justify-content: center; 
-
-        margin-bottom: 4rem; 
+        flex-direction: column; 
     }
 
     &__item {
         display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 0 4rem; 
-        width: 27rem; 
+        margin-bottom: 4rem; 
+
+        &--photo {
+            background-position: center;
+            background-size: cover;
+            height: 30vw;
+            width: 60vw;      
+            
+            &--one {
+                background-image: url('../../../../src/assets/images/cogov__unenclosability.png');
+            }
+
+            &--two {
+                background-image: url('../../../../src/assets/images/cogov__scalability.png');
+            }
+
+            &--three {
+                background-image: url('../../../../src/assets/images/cogov__transparency.png');
+            }
+            
+            &--four {
+                background-image: url('../../../../src/assets/images/cogov__iteration.png');
+            }
+            
+            &--five {
+                background-image: url('../../../../src/assets/images/cogov__scalability.png');
+            }            
+        }
+
+        &--text {
+            margin-left: 4rem;
+            width: 40vw;
+        }
 
         &--title {
-            font-size:  1.7rem;
-            font-weight: 600;
-            text-transform: uppercase; 
+            font-size: 2.4rem;
+            font-weight: 500;
             color: $cogov-grey;
-            text-align: center;
-            margin-bottom: 1.5rem; 
-
+            text-transform: uppercase;
         }
 
-        &--description   {
-            font-size: 1.4rem;
-            font-weight: 500; 
-            color: $cogov-grey;
-            text-align: center; 
-
-        }
-
-        &--icon {
-            height: 4rem; 
-            margin-bottom: 2rem;
+        &--body {
+            font-size: 1.7rem;
+            font-weight: 400;
         }
     }
 
-    &__learnmore {  
-        margin-left: 50%;
-        transform: translateX(-50%);
-        background-color: transparent;
-        color: #222;
-        border: 1.5px solid currentColor;
-        font-weight: 600;
-        font-size: 1.4rem; 
-        padding: 1rem 2rem; 
-
-        transition: all .2s;
-        cursor: pointer;
-
-        &:hover {
-            background-color: $cogov-secondary;
-            border: 1.5px solid $cogov-secondary;
-            color: white;
-        }
-    }
 }

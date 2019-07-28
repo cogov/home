@@ -1,45 +1,103 @@
 
 <template>
     <div class="homeAbout">
-        <h2 class="homeAbout__title">What We Do</h2>
-        <h3 class="homeAbout__subtitle">CoGov enables rapid structure iteration so people 
-            can easily test multiple methods of decision making, structuring agreements,
-            conflict resolution, and value exchange.
-        </h3>    
+        <div class="homeAbout__header">
+            <h2 class="homeAbout__title">The Cogov Mission</h2>
+            <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
+            <h3 class="homeAbout__body">CoGov fosters a new era of rapid iterations of software solutions that enhance social coordinative capacity at all scales. By allowing people to easily test multiple methods of decision making,
+                conflict resolution, and value exchange, CoGov enables people and groups to experiment with new ways of social coordination and empower themselves.      
+            </h3>   
+
+        </div>
+   
+<!--  
 
         <div class="homeAbout__items">
             <div class="homeAbout__item">
-                <img src="../../../assets/images/cogov__scalability.png" alt="" class="homeAbout__item--icon">
-                <h2 class="homeAbout__item--title">Scalability</h2>
-                <p class="homeAbout__item--description">
-                    To compete with the old systems and attract people out of them, 
-                    new forms of community and business must create economies of 
-                    scale. CoGov enables that scalability out of the box.                    
-                </p>
+                <div class="homeAbout__item--photo homeAbout__item--photo--one">&nbsp;</div>
+                <div class="homeAbout__item--text">
+                    <h2 class="homeAbout__item--title">Unenclosability</h2>
+                    <p class="homeAbout__item--body">
+                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
+                        controlled. With air, we can communicate with others because we 
+                        can speak and be heard by others. Unenclosable communication is 
+                        critical to cohesive group interactions because it means that 
+                        humans have the ability to interact directly with each other—to 
+                        feel and see and know each other and to empathize from our shared 
+                        experience of humanness. Holochain is the world's first and only digital, 
+                        unenclosable carrier.                        
+                    </p>
+                </div>
             </div>
 
             <div class="homeAbout__item">
-                <img src="../../../assets/images/cogov__iteration.png" alt="" class="homeAbout__item--icon">
-                <h2 class="homeAbout__item--title">Rapid Iteration</h2>
-                <p class="homeAbout__item--description">
-                    We enable people to not just participate in 
-                    systems, but in the DESIGN of those systems, 
-                    and redesign them over and over until they get it right.                    
-                </p>
+                <div class="homeAbout__item--photo homeAbout__item--photo--two">&nbsp;</div>
+                <div class="homeAbout__item--text">
+                    <h2 class="homeAbout__item--title">Scalability</h2>
+                    <p class="homeAbout__item--body">
+                        New forms of community and business are arising. 
+                        but unless they can create economies of scale, 
+                        they can’t compete with the old systems and attract people out 
+                        of the old systems. CoGov enables that scalability out of the box.                  
+                    </p>
+                </div>
             </div>
 
             <div class="homeAbout__item">
-                <img src="../../../assets/images/cogov__interoperability.png" alt="" class="homeAbout__item--icon">
-                <h2 class="homeAbout__item--title">Interoperability</h2>
-                <p class="homeAbout__item--description">
-                    A whole new era of software interoperability is coming forth 
-                    thanks to Holochain. Powered by Holochain, CoGov ensures that the same 
-                    level of interoperability exists between Collectives and their Currencies.                    
-                </p>
-            </div>   
-        </div>
+                <div class="homeAbout__item--photo homeAbout__item--photo--three">&nbsp;</div>
+                <div class="homeAbout__item--text">
+                    <h2 class="homeAbout__item--title">Transparency</h2>
+                    <p class="homeAbout__item--body">
+                        CoGov offers a fully transparent interoperability layer that 
+                        opens up the doorway for organizations to use any number of 
+                        business or organizational governance models and interfaces, 
+                        and/or seamlessly transition between them, while minimizing 
+                        (or even removing) difficulties of the transition.                
+                    </p>
+                </div>
+            </div>     
 
-        <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink"><button class="homeAbout__learnmore">Read Our Whitepaper</button></a>
+            <div class="homeAbout__item">
+                <div class="homeAbout__item--photo homeAbout__item--photo--four">&nbsp;</div>
+                <div class="homeAbout__item--text">
+                    <h2 class="homeAbout__item--title">Rapid Iteration</h2>
+                    <p class="homeAbout__item--body">
+                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
+                        controlled. With air, we can communicate with others because we 
+                        can speak and be heard by others. Unenclosable communication is 
+                        critical to cohesive group interactions because it means that 
+                        humans have the ability to interact directly with each other—to 
+                        feel and see and know each other and to empathize from our shared 
+                        experience of humanness. Holochain is the world's first and only digital, 
+                        unenclosable carrier.                        
+                    </p>
+                </div>
+            </div>     
+
+            <div class="homeAbout__item">
+                <div class="homeAbout__item--photo">&nbsp;</div>
+                <div class="homeAbout__item--text">
+                    <h2 class="homeAbout__item--title">Transparency</h2>
+                    <p class="homeAbout__item--body">
+                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
+                        controlled. With air, we can communicate with others because we 
+                        can speak and be heard by others. Unenclosable communication is 
+                        critical to cohesive group interactions because it means that 
+                        humans have the ability to interact directly with each other—to 
+                        feel and see and know each other and to empathize from our shared 
+                        experience of humanness. Holochain is the world's first and only digital, 
+                        unenclosable carrier.                        
+                    </p>
+                </div>
+            </div>                                                
+
+        </div> -->
+
+
+
+        <!-- <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink"><button class="homeAbout__learnmore">Read Our Whitepaper</button></a> -->
                      
     </div>
 </template>
+
+

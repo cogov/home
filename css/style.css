@@ -64,7 +64,7 @@ body {
   padding: 0 1.5rem;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #805691; }
+  border-bottom: 1px solid #195C89; }
   .nav__logo--container {
     height: 3rem;
     display: flex;
@@ -86,10 +86,10 @@ body {
     cursor: pointer;
     transition: all .2s; }
     .nav__item:hover {
-      color: #805691; }
+      color: #195C89; }
 
 .whitepaper {
-  background-image: linear-gradient(to right, #683B7A, #195C89);
+  background-image: linear-gradient(to right, #683B7A, #805691);
   padding: 8rem 12%;
   display: flex;
   justify-content: center; }
@@ -127,8 +127,8 @@ body {
       transition: all .2s;
       cursor: pointer; }
       .whitepaper__text--button:hover {
-        border: 2px solid #195C89;
-        background-color: #195C89; }
+        border: 2px solid #805691;
+        background-color: #805691; }
 
 .footer {
   height: 27rem;
@@ -198,7 +198,7 @@ body {
       left: 0;
       height: 90vh;
       width: 100vw;
-      background-image: linear-gradient(to right, #805691, #333);
+      background-image: linear-gradient(to right, #195C89, #333);
       opacity: .9;
       z-index: 200; }
     .homeHeader__backdrop--video {
@@ -209,37 +209,38 @@ body {
       z-index: 10; }
   .homeHeader__content {
     position: absolute;
-    top: 15rem;
-    left: 10%;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
     z-index: 300;
     height: 50rem;
-    width: 50vw; }
+    width: 55vw; }
   .homeHeader__title {
     color: white;
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: 600; }
   .homeHeader__subtitle {
     color: white;
     font-size: 3.3rem;
-    font-weight: 500;
-    margin-bottom: 1rem; }
+    font-weight: 400;
+    margin-bottom: 2rem; }
   .homeHeader__description {
     color: white;
     font-size: 1.7rem;
     margin-bottom: 2rem; }
   .homeHeader__action {
-    border: 2px solid white;
-    border-radius: 2px;
-    color: white;
+    border-radius: 100px;
+    color: #195C89;
     font-size: 17px;
-    font-weight: 500;
-    background-color: transparent;
-    padding: 1rem 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: white;
+    padding: 1.5rem 3rem;
     cursor: pointer;
     transition: all .2s; }
     .homeHeader__action:hover {
-      border: 2px solid #195C89;
-      background-color: #195C89; }
+      transform: scale(1.02); }
 
 .homeCollaborators {
   padding: 4rem 0;
@@ -270,63 +271,54 @@ body {
       text-align-last: center; }
 
 .homeAbout {
-  margin: 4rem 0;
   width: 100%;
-  padding: 0 10%; }
+  padding: 12rem 10%; }
+  .homeAbout__header {
+    display: flex;
+    flex-direction: column; }
   .homeAbout__title {
-    text-align: center;
-    font-size: 3.3rem;
-    color: #805691;
-    margin-bottom: 1.5rem; }
+    font-size: 1.7rem;
+    color: #333; }
   .homeAbout__subtitle {
-    text-align: center;
+    font-size: 4.2rem;
+    font-weight: 600;
+    color: #195C89; }
+  .homeAbout__body {
     font-size: 2rem;
-    font-weight: 500;
-    color: #333;
-    width: 60%;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    margin-bottom: 6rem; }
+    font-weight: 400;
+    color: #333; }
   .homeAbout__items {
     display: flex;
-    justify-content: center;
-    margin-bottom: 4rem; }
+    flex-direction: column; }
   .homeAbout__item {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 4rem;
-    width: 27rem; }
+    margin-bottom: 4rem; }
+    .homeAbout__item--photo {
+      background-position: center;
+      background-size: cover;
+      height: 30vw;
+      width: 60vw; }
+      .homeAbout__item--photo--one {
+        background-image: url("../../../../src/assets/images/cogov__unenclosability.png"); }
+      .homeAbout__item--photo--two {
+        background-image: url("../../../../src/assets/images/cogov__scalability.png"); }
+      .homeAbout__item--photo--three {
+        background-image: url("../../../../src/assets/images/cogov__transparency.png"); }
+      .homeAbout__item--photo--four {
+        background-image: url("../../../../src/assets/images/cogov__iteration.png"); }
+      .homeAbout__item--photo--five {
+        background-image: url("../../../../src/assets/images/cogov__scalability.png"); }
+    .homeAbout__item--text {
+      margin-left: 4rem;
+      width: 40vw; }
     .homeAbout__item--title {
-      font-size: 1.7rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      color: #333;
-      text-align: center;
-      margin-bottom: 1.5rem; }
-    .homeAbout__item--description {
-      font-size: 1.4rem;
+      font-size: 2.4rem;
       font-weight: 500;
       color: #333;
-      text-align: center; }
-    .homeAbout__item--icon {
-      height: 4rem;
-      margin-bottom: 2rem; }
-  .homeAbout__learnmore {
-    margin-left: 50%;
-    transform: translateX(-50%);
-    background-color: transparent;
-    color: #222;
-    border: 1.5px solid currentColor;
-    font-weight: 600;
-    font-size: 1.4rem;
-    padding: 1rem 2rem;
-    transition: all .2s;
-    cursor: pointer; }
-    .homeAbout__learnmore:hover {
-      background-color: #195C89;
-      border: 1.5px solid #195C89;
-      color: white; }
+      text-transform: uppercase; }
+    .homeAbout__item--body {
+      font-size: 1.7rem;
+      font-weight: 400; }
 
 .homeDetails {
   width: 100%;
@@ -335,7 +327,7 @@ body {
   .homeDetails__title {
     font-size: 3.3rem;
     font-weight: 600;
-    color: #805691;
+    color: #195C89;
     text-align: center;
     margin-bottom: 1rem; }
   .homeDetails__subtitle {
@@ -382,8 +374,8 @@ body {
     transition: all .2s;
     cursor: pointer; }
     .homeDetails__cta:hover {
-      border: 1.5px solid #195C89;
-      background-color: #195C89;
+      border: 1.5px solid #805691;
+      background-color: #805691;
       color: white; }
 
 .homePoweredBy {
@@ -406,7 +398,7 @@ body {
     .homePoweredBy__right--title {
       font-size: 3.3rem;
       font-weight: 600;
-      color: #805691;
+      color: #195C89;
       margin-bottom: .5rem; }
     .homePoweredBy__right--text {
       font-size: 1.7rem;
@@ -423,8 +415,8 @@ body {
       cursor: pointer; }
       .homePoweredBy__right--more:hover {
         color: white;
-        background-color: #195C89;
-        border: 1.5px solid #195C89; }
+        background-color: #805691;
+        border: 1.5px solid #805691; }
 
 .aboutQuote {
   background-color: white;
@@ -479,8 +471,8 @@ body {
     transition: all .2s;
     cursor: pointer; }
     .aboutFounder__contact:hover {
-      border: 1.5px solid #195C89;
-      background-color: #195C89;
+      border: 1.5px solid #805691;
+      background-color: #805691;
       color: white; }
 
 .holochainHeader {
@@ -498,7 +490,7 @@ body {
   .holochainHeader__title {
     font-size: 2.4rem;
     font-weight: 600;
-    color: #805691;
+    color: #195C89;
     margin-bottom: 1rem; }
   .holochainHeader__body {
     font-size: 1.7rem;
@@ -513,7 +505,7 @@ body {
   .holochainBullets__right {
     width: 50%; }
   .holochainBullets__title {
-    color: #805691;
+    color: #195C89;
     font-size: 2.2rem;
     font-weight: 600; }
   .holochainBullets__body {
@@ -524,7 +516,7 @@ body {
   padding: 4rem 17%; }
   .holochainCoGov__title {
     text-align: center;
-    color: #805691;
+    color: #195C89;
     font-size: 2.4rem;
     font-weight: 600;
     margin-bottom: 2rem; }
@@ -578,8 +570,8 @@ body {
     cursor: pointer;
     transition: all .2s; }
     .connectHeader__button:hover {
-      background-color: #195C89;
-      border: 2px solid #195C89;
+      background-color: #805691;
+      border: 2px solid #805691;
       color: white; }
   .connectHeader__right {
     width: 50%; }
