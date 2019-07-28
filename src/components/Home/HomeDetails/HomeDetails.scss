@@ -2,18 +2,19 @@
 .homeDetails {
     width: 100%;
     background-color: #fbfbfb;
-    padding: 5% 15%;
+    padding: 4rem 12%;
 
     &__title {
         font-size: 3.3rem;
         font-weight: 600;
-        color: $cogov-primary;
+        color: $cogov-grey;
         text-align: center;
 
         margin-bottom: 1rem;
     }
 
     &__subtitle {
+        padding: 0 15%;
         font-size: 2rem;
         font-weight: 500;
         text-align: center; 
@@ -27,16 +28,15 @@
 
     &__type {
         margin: 0 2rem; 
-        height: 30rem;
-        min-width: 27rem;
-        background-color: white;
-        box-shadow: 0 .2rem .2rem rgba(0, 0, 0, .2);
+        height: 27rem;
+        width: 27rem    ;
+        // box-shadow: 0 .2rem .2rem rgba(0, 0, 0, .2);
     }
 
     &__header {
         position: relative;
         width: 100%;
-        height: 75%;
+        height: 100%;
         background-size: cover; 
 
         &--developer {
@@ -70,8 +70,8 @@
         margin-top: 1.875rem; 
         transform: translateX(-50%);
         background-color: transparent; 
-        border: 1.5px solid #222;
-        color: #222;
+        border: 1.5px solid white;
+        color: white;
 
         transition: all .2s; 
         cursor: pointer;

@@ -13,9 +13,6 @@
         <!-- holochain cogov -->
         <cogov-holochain-cogov></cogov-holochain-cogov>        
 
-        <!-- contact -->
-        <cogov-whitepaper></cogov-whitepaper>
-
         <!-- footer -->
         <cogov-footer></cogov-footer>         
     </div>

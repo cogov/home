@@ -6,10 +6,7 @@
 
         <!-- connect header -->
         <cogov-connect-header></cogov-connect-header>
-
-        <!-- contact -->
-        <cogov-whitepaper></cogov-whitepaper>
-
+    
         <!-- footer -->
         <cogov-footer></cogov-footer>         
     </div>

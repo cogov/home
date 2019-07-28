@@ -1,23 +1,23 @@
 
 <template>
-    <div class="nav">
+    <div class="navhome">
         <a href="/" class="removelink">
-            <div class="nav__logo--container">
-                <img class="nav__logo--image" src="../../assets/images/cogov__logo--blue.png" alt="">
-                <p class="nav__logo--text">CoGov</p>            
+            <div class="navhome__logo--container">
+                <img class="navhome__logo--image" src="../../assets/images/cogov__logo--white.png" alt="">
+                <p class="navhome__logo--text">CoGov</p>            
             </div>        
         </a>
-        <div class="nav__items">
-            <div class="nav__item">
+        <div class="navhome__items">
+            <div class="navhome__item">
                 <a href='/about' class="removelink">About</a>
             </div>
-            <div class="nav__item">
+            <div class="navhome__item">
                 <a href='/holochain' class="removelink">Holochain</a>
             </div>
-            <div class="nav__item">
+            <div class="navhome__item">
                 <a href='/whitepaper' class="removelink">Whitepaper</a>
             </div>
-            <div class="nav__item">
+            <div class="navhome__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
         </div>

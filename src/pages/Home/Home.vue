@@ -2,25 +2,30 @@
 <template>
     <div class="home">
         <!-- navigation -->
-        <cogov-nav></cogov-nav>
+        <cogov-nav-home></cogov-nav-home>
 
         <!-- home header -->
         <cogov-home-header></cogov-home-header>
 
+        
+
         <!-- home collaborators -->
-        <cogov-home-collaborators></cogov-home-collaborators>
+        <!-- <cogov-home-collaborators></cogov-home-collaborators> -->
 
         <!-- home about -->
         <cogov-home-about></cogov-home-about>
 
         <!-- home powered by -->
-        <cogov-home-powered-by></cogov-home-powered-by>
+        <!-- <cogov-home-powered-by></cogov-home-powered-by> -->
 
         <!-- home details -->
         <cogov-home-details></cogov-home-details>        
 
+        <cogov-home-collaborators></cogov-home-collaborators>
+
+
         <!-- contact -->
-        <cogov-whitepaper></cogov-whitepaper>
+        <!-- <cogov-whitepaper></cogov-whitepaper> -->
 
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -28,7 +33,7 @@
 </template>
 
 <script>
-    import cogovNav from '../../components/Nav/Nav.vue'
+    import cogovNavHome from '../../components/NavHome/NavHome.vue'
     import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
     import cogovHomeCollaborators from '../../components/Home/HomeCollaborators/HomeCollaborators.vue'
     import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
@@ -39,7 +44,7 @@
 
     export default {
         components: {
-            cogovNav,
+            cogovNavHome,
             cogovHomeHeader,
             cogovHomeCollaborators,
             cogovHomeAbout,

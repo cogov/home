@@ -23,7 +23,6 @@ body {
   color: inherit; }
 
 .home {
-  margin-top: 7rem;
   height: 100%;
   width: 100%;
   position: relative; }
@@ -64,7 +63,7 @@ body {
   padding: 0 1.5rem;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #805691; }
+  border-bottom: 1px solid #eee; }
   .nav__logo--container {
     height: 3rem;
     display: flex;
@@ -86,12 +85,46 @@ body {
     cursor: pointer;
     transition: all .2s; }
     .nav__item:hover {
-      color: #805691; }
+      color: #195C89; }
+
+.navhome {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 8rem;
+  background-color: transparent;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  justify-content: space-between; }
+  .navhome__logo--container {
+    height: 3.6rem;
+    display: flex;
+    align-items: center; }
+  .navhome__logo--image {
+    height: 100%; }
+  .navhome__logo--text {
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: .75rem;
+    color: white; }
+  .navhome__items {
+    display: flex; }
+  .navhome__item {
+    margin-left: 2rem;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    transition: all .2s; }
 
 .whitepaper {
-  background-image: linear-gradient(to right, #683B7A, #195C89);
+  background-color: white;
   padding: 8rem 12%;
   display: flex;
+  flex-direction: column;
   justify-content: center; }
   .whitepaper__image {
     width: 50%;
@@ -106,11 +139,11 @@ body {
   .whitepaper__text {
     width: 50%;
     margin-left: 5rem;
-    color: white;
+    color: #333;
     display: flex;
     flex-direction: column; }
     .whitepaper__text--title {
-      font-size: 2.7rem;
+      font-size: 3.3rem;
       font-weight: 600; }
     .whitepaper__text--body {
       font-size: 1.7rem;
@@ -120,20 +153,20 @@ body {
       align-self: flex-start;
       padding: 1rem 2rem;
       background-color: transparent;
-      border: 2px solid white;
-      color: white;
+      border: 2px solid #333;
+      color: #333;
       font-size: 1.2rem;
       font-weight: 600;
       transition: all .2s;
       cursor: pointer; }
       .whitepaper__text--button:hover {
-        border: 2px solid #195C89;
-        background-color: #195C89; }
+        border: 2px solid #805691;
+        background-color: #805691; }
 
 .footer {
   height: 27rem;
   width: 100%;
-  background-color: #222;
+  background-color: #111;
   padding: 3rem 1.5rem;
   display: flex;
   justify-content: space-between; }
@@ -185,20 +218,20 @@ body {
 
 .homeHeader {
   position: relative;
-  height: 90vh; }
+  height: 98vh; }
   .homeHeader__backdrop {
     position: absolute;
     top: 0;
     left: 0;
-    height: 90vh;
+    height: 98vh;
     width: 100vw; }
     .homeHeader__backdrop--cover {
       position: absolute;
       top: 0;
       left: 0;
-      height: 90vh;
+      height: 98vh;
       width: 100vw;
-      background-image: linear-gradient(to right, #805691, #333);
+      background-image: linear-gradient(to right, #195C89, #333);
       opacity: .9;
       z-index: 200; }
     .homeHeader__backdrop--video {
@@ -209,42 +242,45 @@ body {
       z-index: 10; }
   .homeHeader__content {
     position: absolute;
-    top: 15rem;
-    left: 10%;
+    top: 33%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
     z-index: 300;
     height: 50rem;
-    width: 50vw; }
+    width: 55vw; }
   .homeHeader__title {
     color: white;
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: 600; }
   .homeHeader__subtitle {
     color: white;
     font-size: 3.3rem;
-    font-weight: 500;
-    margin-bottom: 1rem; }
+    font-weight: 400;
+    margin-bottom: 2rem; }
   .homeHeader__description {
     color: white;
     font-size: 1.7rem;
     margin-bottom: 2rem; }
   .homeHeader__action {
-    border: 2px solid white;
-    border-radius: 2px;
+    border: 3px solid white;
+    border-radius: 100px;
+    color: #195C89;
     color: white;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 600;
+    text-transform: uppercase;
     background-color: transparent;
-    padding: 1rem 2rem;
+    padding: 1.5rem 3rem;
     cursor: pointer;
     transition: all .2s; }
     .homeHeader__action:hover {
-      border: 2px solid #195C89;
-      background-color: #195C89; }
+      transform: scale(1.02); }
 
 .homeCollaborators {
-  padding: 4rem 0;
+  padding: 4rem;
   width: 100vw;
-  background-color: white; }
+  background-color: #fbfbfb; }
   .homeCollaborators__title {
     text-align: center;
     margin-bottom: 5rem;
@@ -270,75 +306,72 @@ body {
       text-align-last: center; }
 
 .homeAbout {
-  margin: 4rem 0;
   width: 100%;
   padding: 0 10%; }
+  .homeAbout__header {
+    padding: 12rem 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column; }
   .homeAbout__title {
-    text-align: center;
-    font-size: 3.3rem;
-    color: #805691;
-    margin-bottom: 1.5rem; }
+    font-size: 1.7rem;
+    color: #333; }
   .homeAbout__subtitle {
-    text-align: center;
+    font-size: 4.2rem;
+    font-weight: 600;
+    color: #195C89; }
+  .homeAbout__body {
     font-size: 2rem;
-    font-weight: 500;
-    color: #333;
-    width: 60%;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    margin-bottom: 6rem; }
+    font-weight: 400;
+    color: #333; }
   .homeAbout__items {
     display: flex;
-    justify-content: center;
-    margin-bottom: 4rem; }
+    flex-direction: column; }
   .homeAbout__item {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 4rem;
-    width: 27rem; }
+    margin-bottom: 8rem; }
+    .homeAbout__item--photo {
+      background-position: center;
+      background-size: cover;
+      height: 20vw;
+      width: 40vw; }
+      .homeAbout__item--photo--one {
+        background-image: url("../../../../src/assets/images/cogov__unenclosability.png"); }
+      .homeAbout__item--photo--two {
+        background-image: url("../../../../src/assets/images/cogov__scalability.png"); }
+      .homeAbout__item--photo--three {
+        background-image: url("../../../../src/assets/images/cogov__transparency.png"); }
+      .homeAbout__item--photo--four {
+        background-image: url("../../../../src/assets/images/cogov__iteration.png"); }
+      .homeAbout__item--photo--five {
+        background-image: url("../../../../src/assets/images/cogov__interoperability.png"); }
+    .homeAbout__item--text {
+      width: 40vw; }
+      .homeAbout__item--text--right {
+        margin-left: 8rem; }
+      .homeAbout__item--text--left {
+        margin-right: 8rem; }
     .homeAbout__item--title {
-      font-size: 1.7rem;
+      font-size: 2.4rem;
       font-weight: 600;
-      text-transform: uppercase;
       color: #333;
-      text-align: center;
-      margin-bottom: 1.5rem; }
-    .homeAbout__item--description {
-      font-size: 1.4rem;
-      font-weight: 500;
-      color: #333;
-      text-align: center; }
-    .homeAbout__item--icon {
-      height: 4rem;
-      margin-bottom: 2rem; }
-  .homeAbout__learnmore {
-    margin-left: 50%;
-    transform: translateX(-50%);
-    background-color: transparent;
-    color: #222;
-    border: 1.5px solid currentColor;
-    font-weight: 600;
-    font-size: 1.4rem;
-    padding: 1rem 2rem;
-    transition: all .2s;
-    cursor: pointer; }
-    .homeAbout__learnmore:hover {
-      background-color: #195C89;
-      border: 1.5px solid #195C89;
-      color: white; }
+      text-transform: uppercase; }
+    .homeAbout__item--body {
+      font-size: 1.7rem;
+      font-weight: 400; }
 
 .homeDetails {
   width: 100%;
   background-color: #fbfbfb;
-  padding: 5% 15%; }
+  padding: 4rem 12%; }
   .homeDetails__title {
     font-size: 3.3rem;
     font-weight: 600;
-    color: #805691;
+    color: #333;
     text-align: center;
     margin-bottom: 1rem; }
   .homeDetails__subtitle {
+    padding: 0 15%;
     font-size: 2rem;
     font-weight: 500;
     text-align: center;
@@ -348,14 +381,12 @@ body {
     justify-content: space-between; }
   .homeDetails__type {
     margin: 0 2rem;
-    height: 30rem;
-    min-width: 27rem;
-    background-color: white;
-    box-shadow: 0 0.2rem 0.2rem rgba(0, 0, 0, 0.2); }
+    height: 27rem;
+    width: 27rem; }
   .homeDetails__header {
     position: relative;
     width: 100%;
-    height: 75%;
+    height: 100%;
     background-size: cover; }
     .homeDetails__header--developer {
       background-image: linear-gradient(to right, rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.5)), url("../../../../src/assets/images/cogov__developer.png"); }
@@ -377,13 +408,13 @@ body {
     margin-top: 1.875rem;
     transform: translateX(-50%);
     background-color: transparent;
-    border: 1.5px solid #222;
-    color: #222;
+    border: 1.5px solid white;
+    color: white;
     transition: all .2s;
     cursor: pointer; }
     .homeDetails__cta:hover {
-      border: 1.5px solid #195C89;
-      background-color: #195C89;
+      border: 1.5px solid #805691;
+      background-color: #805691;
       color: white; }
 
 .homePoweredBy {
@@ -406,7 +437,7 @@ body {
     .homePoweredBy__right--title {
       font-size: 3.3rem;
       font-weight: 600;
-      color: #805691;
+      color: #195C89;
       margin-bottom: .5rem; }
     .homePoweredBy__right--text {
       font-size: 1.7rem;
@@ -423,25 +454,25 @@ body {
       cursor: pointer; }
       .homePoweredBy__right--more:hover {
         color: white;
-        background-color: #195C89;
-        border: 1.5px solid #195C89; }
+        background-color: #805691;
+        border: 1.5px solid #805691; }
 
 .aboutQuote {
   background-color: white;
   width: 100%;
-  padding: 4rem 25%;
+  padding: 8rem 12% 4rem 12%;
   text-align: center; }
   .aboutQuote__text {
+    font-size: 3.3rem;
+    color: #333;
+    font-weight: 600; }
+  .aboutQuote__founder--name {
     font-size: 2rem;
     color: #333;
     font-weight: 500; }
-  .aboutQuote__founder--name {
-    font-size: 1.4rem;
-    color: #333;
-    font-weight: 400; }
 
 .aboutFounder {
-  padding: 4rem 12%;
+  padding: 4rem 12% 8rem 12%;
   background-color: white;
   height: 100%;
   width: 100%;
@@ -461,7 +492,7 @@ body {
   .aboutFounder__container {
     margin-bottom: 2rem; }
   .aboutFounder__title {
-    font-size: 2rem;
+    font-size: 2.2rem;
     font-weight: 500;
     color: #333;
     text-transform: uppercase;
@@ -479,26 +510,26 @@ body {
     transition: all .2s;
     cursor: pointer; }
     .aboutFounder__contact:hover {
-      border: 1.5px solid #195C89;
-      background-color: #195C89;
+      border: 1.5px solid #805691;
+      background-color: #805691;
       color: white; }
 
 .holochainHeader {
   display: flex;
-  padding: 4rem 12%; }
+  padding: 8rem 6% 4rem 6%; }
   .holochainHeader__left {
-    margin-right: 4rem;
+    margin-right: 3rem;
     width: 50%; }
   .holochainHeader__video {
     width: 100%;
     height: 100%; }
   .holochainHeader__right {
     width: 50%;
-    margin-left: 4rem; }
+    margin-left: 3rem; }
   .holochainHeader__title {
-    font-size: 2.4rem;
+    font-size: 3.3rem;
     font-weight: 600;
-    color: #805691;
+    color: #333;
     margin-bottom: 1rem; }
   .holochainHeader__body {
     font-size: 1.7rem;
@@ -513,7 +544,7 @@ body {
   .holochainBullets__right {
     width: 50%; }
   .holochainBullets__title {
-    color: #805691;
+    color: #195C89;
     font-size: 2.2rem;
     font-weight: 600; }
   .holochainBullets__body {
@@ -521,11 +552,11 @@ body {
     font-weight: 500; }
 
 .holochainCoGov {
-  padding: 4rem 17%; }
+  padding: 4rem 17% 8rem 17%; }
   .holochainCoGov__title {
     text-align: center;
-    color: #805691;
-    font-size: 2.4rem;
+    color: #333;
+    font-size: 3.3rem;
     font-weight: 600;
     margin-bottom: 2rem; }
   .holochainCoGov__body {
@@ -536,14 +567,14 @@ body {
 .connectHeader {
   width: 100%;
   background-color: white;
-  padding: 4rem 12%;
+  padding: 8rem 12%;
   display: flex; }
   .connectHeader__left {
     width: 50%; }
   .connectHeader__title {
     color: #333;
     font-size: 3.3rem;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 1rem; }
   .connectHeader__body {
     font-size: 1.7rem;
@@ -560,13 +591,6 @@ body {
     display: flex;
     align-items: center;
     margin-bottom: 2rem; }
-  .connectHeader__headshot {
-    height: auto;
-    width: 12rem;
-    margin-right: 1.5rem; }
-    .connectHeader__headshot--photo {
-      height: 100%;
-      width: 100%; }
   .connectHeader__button {
     font-weight: 500;
     padding: 1rem 0;
@@ -578,13 +602,24 @@ body {
     cursor: pointer;
     transition: all .2s; }
     .connectHeader__button:hover {
-      background-color: #195C89;
-      border: 2px solid #195C89;
-      color: white; }
+      transform: scale(1.05); }
   .connectHeader__right {
-    width: 50%; }
+    width: 50%;
+    height: 36rem;
+    position: relative; }
+  .connectHeader__headshot {
+    height: auto;
+    width: 24rem;
+    margin-right: 1.5rem;
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    left: 10rem; }
+    .connectHeader__headshot--photo {
+      height: 100%;
+      width: 100%; }
   .connectHeader__mandala {
-    margin-left: 50%;
     height: 36rem;
     width: auto;
+    margin-left: 50%;
     transform: translateX(-50%); }

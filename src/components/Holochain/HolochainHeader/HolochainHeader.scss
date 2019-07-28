@@ -2,11 +2,11 @@
     // height: 50rem;
     
     display: flex;
-    padding: 4rem 12%;
+    padding: 8rem 6% 4rem 6%;
 
 
     &__left {
-        margin-right: 4rem;
+        margin-right: 3rem;
         width: 50%;
     }
 
@@ -17,13 +17,13 @@
 
     &__right {
         width: 50%;
-        margin-left: 4rem; 
+        margin-left: 3rem; 
     }
 
     &__title {
-        font-size: 2.4rem;
+        font-size: 3.3rem;
         font-weight: 600; 
-        color: $cogov-primary;
+        color: $cogov-grey;
         margin-bottom: 1rem; 
     }
 
