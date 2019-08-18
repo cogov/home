@@ -9,7 +9,7 @@
         </a>
         <div class="navhome__items">
             <div class="navhome__item">
-                <a href='/about' class="removelink">About</a>
+                <a href='/about' class="removelink">Founder</a>
             </div>
             <div class="navhome__item">
                 <a href='/holochain' class="removelink">Holochain</a>

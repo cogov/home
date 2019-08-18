@@ -26,9 +26,6 @@
                     Now, half of his year is dedicated to being a Dad to three beautiful star children and to building and organizing intentional community project on the ground, and the other half is dedicated to serving to bridge humanity into a new paradigm.
                 </p>
             </div>
-
-            <a href="/connect" class="removelink"><button class="aboutFounder__contact">Get in touch</button></a>
-
         </div>
     </div>
 </template>

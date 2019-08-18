@@ -1,10 +1,11 @@
 
 <template>
-    <div class="homeAbout">
+    <div class="homeAbout" id="homeAbout">
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">The Cogov Mission</h2>
             <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
-            <h3 class="homeAbout__body">CoGov fosters a new era of rapid iterations of software solutions that enhance social coordinative capacity at all scales. By allowing people to easily test multiple methods of decision making,
+            <h3 class="homeAbout__body">
+                CoGov fosters rapid iterations of software solutions that enhance social coordinative capacity at all scales. By allowing people to easily test multiple methods of decision making,
                 conflict resolution, and value exchange, CoGov enables people and groups to experiment with new ways of social coordination and empower themselves.      
             </h3>   
 
