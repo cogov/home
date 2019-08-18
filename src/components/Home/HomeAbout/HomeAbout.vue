@@ -63,7 +63,7 @@
                     <h2 class="homeAbout__item--title">Rapid Iteration</h2>
                     <p class="homeAbout__item--body">
                         A massive shift in human consciousness is upon us. Along with that 
-                        we must exponentially increase out ability to coordinate at scale. 
+                        we must exponentially increase our ability to coordinate at scale. 
                         That means people get to not just participate in systems, but 
                         they get to participate in the DESIGN of those systems, and 
                         redesign them and tweak the design of those systems over and 

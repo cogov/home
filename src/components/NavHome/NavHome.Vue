@@ -15,11 +15,11 @@
                 <a href='/holochain' class="removelink">Holochain</a>
             </div>
             <div class="navhome__item">
-                <a href='/whitepaper' class="removelink">Whitepaper</a>
-            </div>
-            <div class="navhome__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
+            <button class="navhome__button">   
+                Whitepaper
+            </button>
         </div>
 
     </div>

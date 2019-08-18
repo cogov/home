@@ -9,7 +9,7 @@
     height: 8rem;
     background-color: transparent;
     display: flex;
-    padding: 0 1.5rem; 
+    padding: 0 5rem; 
     align-items: center;
     justify-content: space-between;
 
@@ -35,16 +35,30 @@
 
     &__items {
         display: flex;
+        justify-content: space-between;     
+        align-items: center;   
     }
 
     &__item {
-        margin-left: 2rem;
-        font-size: 17px;
+        margin-left: 4rem;
+        font-size: 1.7rem;
         font-weight: 500;
         color: white;
         cursor: pointer;
         transition: all .2s;
+    }
 
+    &__button {
+        margin-left: 4rem;
+        padding: 1rem 2rem;
+        background-color: transparent;
+        color: white;
+        border: 1.5px solid white;
+        border-radius: 25px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all .2s;
 
     }
 }
