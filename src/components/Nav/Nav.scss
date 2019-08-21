@@ -6,10 +6,10 @@
     z-index: 1000;
     width: 100%;
 
-    height: 7rem;
+    height: 8rem;
     background-color: white;
     display: flex;
-    padding: 0 1.5rem; 
+    padding: 0 4rem; 
     align-items: center;
     justify-content: space-between;
 
@@ -37,11 +37,12 @@
 
     &__items {
         display: flex;
+        align-items: center;
     }
 
     &__item {
-        margin-left: 2rem;
-        font-size: 14px;
+        margin-left: 3rem;
+        font-size: 1.5rem;
         font-weight: 500;
         color: #555;
         cursor: pointer;
@@ -49,6 +50,40 @@
 
         &:hover {
             color: $cogov-primary;
+        }
+
+        @include respond(tab-port) {
+            display: none; 
+        }            
+    }
+
+    &__button {
+        margin-left: 3rem;
+        padding: 1rem 2rem;
+        color: #333;
+        border-radius: 25px;
+        border: 1.5px solid #333;
+        font-size: 1.4rem;
+        font-weight: 500;
+
+        cursor: pointer;
+        transition: all .2s;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+
+    }
+
+    &__mobile {
+        display: none;
+        cursor: pointer; 
+
+        @include respond(tab-port) {
+            height: 2rem;
+            margin-left: 2rem; 
+            display: block;            
+
         }
     }
 }

@@ -2,9 +2,17 @@
 .holochainCoGov {
     padding: 4rem 17% 8rem 17%;;
 
+    @include respond(tab-port) {
+        padding: 4rem;
+    }        
+
+    &__text {
+        margin-bottom: 2rem; 
+    }
+
     &__title {
         text-align: center;
-        color: $cogov-grey;
+        color: $cogov-primary;
         font-size: 3.3rem;
         font-weight: 600;
 
@@ -15,5 +23,15 @@
         text-align-last: center;
         font-size: 1.7rem;
         font-weight: 500;
+    }
+
+    &__video {
+        margin-top: 2rem;
+        width: 100%;
+        height: 36vw;
+
+        @include respond(tab-port) {
+            height: 50vw; 
+        }            
     }
 }
