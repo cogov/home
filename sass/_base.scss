@@ -1,18 +1,32 @@
 
-// palette
-// purple theme
-// $cogov-primary: #805691;
-// $cogov-primary-light: #A578B6;
-// $cogov-primary-dark: #683B7A;
-// $cogov-secondary: #195C89;
-// $cogov-grey: #333; 
-
 // blue theme
 $cogov-primary: #195C89;
 $cogov-primary-light: #195C89;
 $cogov-primary-dark: #683B7A;
 $cogov-secondary: #805691;
 $cogov-grey: #333; 
+
+@mixin respond($breakpoint) {
+    @if $breakpoint == phone {
+        @media (max-width: 37.5em) {@content}; //600px
+    }
+
+    @if $breakpoint == tab-port {
+        @media (max-width: 56.25em) {@content}; //900px
+    }
+
+    @if $breakpoint == pack {
+        @media (max-width: 62em) {@content}; //960px
+    }
+
+    @if $breakpoint == tab-land {
+        @media (max-width: 75em) {@content}; //1200px
+    }
+    @if $breakpoint == big-desktop {
+        @media (min-width: 112.5em) {@content}; //1800px
+    }
+}
+
 
 
 *,
@@ -25,6 +39,14 @@ $cogov-grey: #333;
 
 html {
     font-size: 62.5%; 
+
+    @include respond(big-desktop) {
+        font-size: 70%;
+    }
+
+    @include respond(tab-land) {
+        font-size: 56.25%;
+    }    
 } 
 
 body {
@@ -38,6 +60,13 @@ body {
     letter-spacing: .5px;
 }
 
+.addlink {
+    text-decoration: none;
+    outline: none;
+    border-bottom: 1px solid $cogov-primary;
+    font-weight: 600;
+    color: $cogov-primary;
+}
 .removelink {
     text-decoration: none;
     outline: none; 

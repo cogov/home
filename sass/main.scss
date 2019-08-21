@@ -3,15 +3,14 @@
  
 // pages
 @import './../src/pages/Home/Home';
-@import './../src/pages/About/About';
-@import './../src/pages/Holochain/Holochain';
-@import './../src/pages/Whitepaper/Whitepaper';
+@import './../src/pages/Vision/Vision';
+@import './../src/pages/Founder/Founder';
+@import './../src/pages/Holochain/Holochain';                                    
 @import './../src/pages/Connect/Connect';
-
+ 
 // Global components
 @import './../src/components/Nav/Nav';
-@import './../src/components/NavHome/NavHome';  
-@import './../src/components/Whitepaper/Whitepaper';
+@import './../src/components/NavOpen/NavOpen';  
 @import './../src/components/Footer/Footer';
 
 // Home components
@@ -21,9 +20,13 @@
 @import './../src/components/Home/HomeDetails/HomeDetails';
 @import './../src/components/Home/HomePoweredBy/HomePoweredBy';
 
+// Vision components
+@import './../src/components/Vision/VisionHeader/VisionHeader'; 
+@import './../src/components/Vision/VisionBody/VisionBody';
+
 // About components
-@import './../src/components/About/AboutQuote/AboutQuote';
-@import './../src/components/About/AboutFounder/AboutFounder';
+@import './../src/components/Founder/FounderQuote/FounderQuote';
+@import './../src/components/Founder/FounderFounder/FounderFounder';
 
 // Holochain components
 @import './../src/components/Holochain/HolochainHeader/HolochainHeader';
@@ -32,3 +35,5 @@
 
 // Connect components
 @import './../src/components/Connect/ConnectHeader';
+
+

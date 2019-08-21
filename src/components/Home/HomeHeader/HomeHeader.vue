@@ -10,10 +10,16 @@
 
         <div class="homeHeader__content">
             <h2 class="homeHeader__title">Welcome to CoGov</h2>
-            <h3 class="homeHeader__subtitle">We empower the rapid creation of new social systems </h3>
-            <!-- <p class="homeHeader__description">CoGov fosters a new era of rapid iterations of software solutions that enhance social coordinative capacity at all scales. By allowing people to transparently curate resources, make sense, and make decisions, CoGov enables people and groups to experiment with new ways of social coordination and empower themselves.</p> -->
-            <a href="#homeAbout" class="removelink"><button class="homeHeader__action">Learn How</button></a>
+            <h3 class="homeHeader__subtitle">
+                
+                CoGov fosters the rapid iteration of social systems at all scales and enables people to experiment with new ways of social coordination.               
+            </h3>
+            <!-- <a href="#homeAbout" class="removelink"><p class="homeHeader__description">LEARN MORE</p></a> -->
+
+            
         </div>
+
+
     </div>
 </template>
  
