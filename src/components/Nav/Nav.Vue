@@ -20,7 +20,7 @@
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
-            <a href="https://junto.typeform.com/to/Nrp9zA" target="blank" class="removelink">
+            <a href="https://raymonddpowell.typeform.com/to/kMtTYt" target="blank" class="removelink">
                 <div class="nav__button">
                     Whitepaper
                 </div>
