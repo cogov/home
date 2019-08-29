@@ -1,0 +1,45 @@
+
+.connectHeader {
+    padding: 12%;
+    height: 80vh; 
+    background-image: linear-gradient(to right, rgba(#333, .4),rgba(#222, .4)), url('../../../../src/assets/images/cogov__mandala--three.png');
+    background-position: center;
+    background-size: cover;   
+
+    @include respond(tab-port) {
+        padding: 12% 4rem; 
+    }        
+
+
+    &__title {
+        font-size: 5rem;
+        font-weight: 600;
+        color: white;
+        margin-bottom: 1rem; 
+    }
+
+    &__subtitle {
+        font-size: 2rem;
+        color: white;
+        font-weight: 500;
+    }
+
+    &__button {
+        margin-top: 2rem;
+        padding: 1.5rem 3rem;
+        font-size: 1.4rem;
+        font-weight: 500;
+        border: 2px solid white;
+        border-radius: 25px;
+        margin-right: 1rem;
+        outline: none;
+
+        cursor: pointer;
+        transition: all .2s;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+}

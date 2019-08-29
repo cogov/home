@@ -4,7 +4,7 @@
         <a href="/" class="removelink">
             <div class="nav__logo--container">
                 <img class="nav__logo--image" src="../../assets/images/cogov__logo--blue.png" alt="">
-                <p class="nav__logo--text">CoGov</p>            
+                <p class="nav__logo--text">CoGov.Tech</p>            
             </div>        
         </a>
         <div class="nav__items">
@@ -20,7 +20,10 @@
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
-            <a href="https://raymonddpowell.typeform.com/to/kMtTYt" target="blank" class="removelink">
+            <div class="nav__item">
+                <a href='/declaration' class="removelink">Declaration</a>
+            </div>
+            <a href="https://cogov.typeform.com/to/kMtTYt" target="blank" class="removelink">
                 <div class="nav__button">
                     Whitepaper
                 </div>

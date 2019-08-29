@@ -5,10 +5,23 @@
             <h2 class="homeAbout__title">The CoGov Mission</h2>
             <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
             <h3 class="homeAbout__body">
-                We don’t just need new social systems. We need a framework within which we can experiment how we can construct new social systems. This will enable people to not just participate in systems, 
-                but in the <strong>CREATION</strong> of those systems itself. CoGov is a software layer designed to do exactly that!
-                            </h3>   
-
+                We don’t just need new social systems. We need a framework within 
+                which we can experiment with  
+                new social systems real-time, in a way that moves humanity forward quickly, while 
+                avoiding existential threats. A New Earth is emerging, where citizens
+                are no longer merely participants in social systems, but they are fully
+                engaged in the creation and rapid iteration of those systems.
+            </h3>
+            <br />
+            <h3 class="homeAbout__subtitle">From Individual Ownership to Collective Stewardship.</h3>
+            <h3 class="homeAbout__body">
+                By supporting sovereign individuals in coming together to make sense, and make 
+                decisions, <strong>CoGov</strong>
+                provides a protocol for transparently sharing operations, and curating resources—
+                allowing even amateur developers to work with users to experiment with 
+                new ways of sharing resources, contracts, data, money and cryptocurrencies, 
+                payments and transactions, IP, and other assets.
+            </h3>
         </div>
 
 
@@ -74,14 +87,15 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
+                        No central servers means the user is in control of their expierience.
                         The Earth’s air is an unenclosable carrier. It cannot be owned or 
                         controlled. With air, we can communicate with others because we 
                         can speak and be heard by others. Unenclosable communication is 
                         critical to cohesive group interactions because it means that 
                         humans have the ability to interact directly with each other—to 
                         feel and see and know each other and to empathize from our shared 
-                        experience of humanness. Holochain is the world's first and only digital, 
-                        unenclosable carrier.                        
+                        experience of humanness—with no intermediaries. <i><u><a href="/holochain">Holochain</a> is the world's first and only digital, 
+                        unenclosable carrier.</u></i>
                     </p>
                 </div>
             </div>
@@ -92,8 +106,12 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                     <p class="homeAbout__item--body">
                         New forms of community and business are arising. 
                         but unless they can create economies of scale, 
-                        they can’t compete with the old systems and attract people out 
-                        of the old systems. CoGov enables that scalability out of the box.                  
+                        they won't create the magnetic attraction to pull our culture out 
+                        of the old paradigm. CoGov enables that scalability out of the box.                  
+                    </p>
+                    <p class="homeAbout__item--body" style="margin-top:10px;">
+                        CoGov provides the framework for transparent group operations—whether it's a 
+                        small team of a few people, or whether it's an entire ecosystem of millions.                  
                     </p>
                 </div>                
                 <div class="homeAbout__item--photo homeAbout__item--photo--two">&nbsp;</div>

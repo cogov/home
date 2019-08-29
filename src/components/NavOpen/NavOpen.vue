@@ -21,6 +21,9 @@
             <a href="/connect" class="navOpen__body--item removelink">
                 Connect
             </a>                                           
+            <a href="/declaration" class="navOpen__body--item removelink">
+                Declaration
+            </a>                                           
         </div>
     </div>
 </template>

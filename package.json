@@ -1,8 +1,8 @@
 {
   "name": "cogov",
-  "description": "A Vue.js project",
+  "description": "Website for Collaborative Governance Technology (CoGov.Tech)",
   "version": "1.0.0",
-  "author": "Eric Yang (eric@junto.foundation)",
+  "author": "Eric Yang (eric@junto.foundation), Raymond Powell (ray@cogov.tech)",
   "license": "(MIT) ",
   "private": true,
   "scripts": {
@@ -25,7 +25,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",
-    "css-loader": "^0.28.7",
+    "css-loader": "^3.2.0",
     "file-loader": "^1.1.4",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",

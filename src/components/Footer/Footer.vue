@@ -12,12 +12,12 @@
         </div>
         <div class="footer__right">
             <div class="footer__socials">
-                <a href="https://www.facebook.com/messages/t/rayzer42" target="blank" class="removelink footer__social">
+                <a href="https://www.facebook.com/messages/t/cogov.tech" target="blank" class="removelink footer__social">
                     <img class="footer__social--icon" src="../../assets/images/cogov__messengericon.png" alt="">
                     <p class="footer__social--text">Messenger</p>
                 </a>       
 
-                <a href="https://www.facebook.com/New-Earth-Digital-CoGovernance-272761659895785/" target="blank" class="removelink footer__social">
+                <a href="https://www.facebook.com/cogov.tech/" target="blank" class="removelink footer__social">
                     <img class="footer__social--icon" src="../../assets/images/cogov__facebook.png" alt="">
                     <p class="footer__social--text">Facebook</p>
                 </a>      
