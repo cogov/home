@@ -1,7 +1,7 @@
 
 <template>
     <div class="aboutQuote">
-        <p class="aboutQuote__title">Raymond Powell
+        <p class="aboutQuote__title">Raymond D. Powell
         </p>
         <p class="aboutQuote__quote">
             "The CoGov mission is to build systems that allow humans to recognize the 

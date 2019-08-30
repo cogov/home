@@ -7,8 +7,6 @@
                         <img class="footer__logo--image" src="../../assets/images/cogov__logo--black.png" alt="">
                     </a>
                 </div>
-
-            <p class="footer__copyright">Copyright 2019 CoGov, All Rights Reserved.</p>
         </div>
         <div class="footer__right">
             <div class="footer__socials">
@@ -38,6 +36,6 @@
                 </a>                                                                                                                             
             </div>
         </div>
-
+        <p class="footer__copyright">Copyright &copy;2019 CoGov.Tech, All Rights Reserved.</p>
     </section>
 </template>

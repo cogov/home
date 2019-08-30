@@ -9,7 +9,7 @@
         <div class="aboutFounder__right">
 
             <div class="aboutFounder__container">
-                <p class="aboutFounder__title">Raymond Powell, Founder</p>
+                <p class="aboutFounder__title">Raymond D. Powell, Founder</p>
                 <p class="aboutFounder__body">
                     Ray started programming computers in 1980 at the age of 7 and by the age of 19 was hired as a professional software engineer. Since then, he has stayed on the cutting edge of industry trends and he now applies that knowledge to co-create systems and blueprints that take on some of today’s most complex social problems.
                     <br><br>

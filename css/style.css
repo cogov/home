@@ -229,17 +229,19 @@ body {
   .footer__socials {
     height: 100%;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between; }
+    /* flex-direction: column; */
+    justify-content: space-between;
+    float: right; }
   .footer__social {
     display: flex;
     margin-bottom: 1.5rem;
+    margin-right: 20px;
     cursor: pointer; }
     .footer__social:hover > .footer__social--text {
       text-decoration: underline; }
     .footer__social--icon {
       height: 2rem;
-      margin-right: 1rem; }
+      margin-right: 0.35rem; }
     .footer__social--text {
       font-size: 1.4rem;
       color: #333;
@@ -717,7 +719,8 @@ body {
     margin-bottom: .5rem; }
   .aboutFounder__body {
     font-size: 1.7rem;
-    color: #333; }
+    color: #333;
+    text-align: justify; }
   .aboutFounder__contact {
     padding: 1rem 2rem;
     border: 1.5px solid #222;
