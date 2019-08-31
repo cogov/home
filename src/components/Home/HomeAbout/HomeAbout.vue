@@ -88,7 +88,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                     <h2 class="homeAbout__item--title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
                         No central servers means the user is in control of their expierience.
-                        The Earth’s air is an unenclosable carrier. It cannot be owned or 
+                        The Earth’s air is an unenclosable carrier for sound waves— a carrier that cannot be owned or 
                         controlled. With air, we can communicate with others because we 
                         can speak and be heard by others. Unenclosable communication is 
                         critical to cohesive group interactions because it means that 
@@ -104,7 +104,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__item--text homeAbout__item--text--left">
                     <h2 class="homeAbout__item--title">Scalability</h2>
                     <p class="homeAbout__item--body">
-                        New forms of community and business are arising. 
+                        New forms of community and business are arising, 
                         but unless they can create economies of scale, 
                         they won't create the magnetic attraction to pull our culture out 
                         of the old paradigm. CoGov enables that scalability out of the box.                  

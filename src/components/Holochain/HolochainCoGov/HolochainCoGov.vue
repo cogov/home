@@ -3,9 +3,9 @@
     <div class="holochainCoGov">
         <p class="holochainCoGov__title">Unpacking Holochain and Holo</p>
         <p class="holochainCoGov__body">
-            Holochain is an opensource distributed application development and execution environment. It is free to download, install, use, and distribute. There is not (and can never be) a cost associated with building or running a Holochain application.                    
+            Holochain is an opensource distributed application development and execution environment. It is free to download, install, use, and distribute. There is not, and can never be, an inherent cost associated with building or running a Holochain application.                    
             <br><br>
-            Holo is the new cloud. A cloud that is built and maintained by the crowd. Literally—the Holo cloud was actually crowdsourced into (pre-)existence.                           
+            Holo is the new cloud. A cloud that is built and maintained by the crowd. Literally—the Holo cloud was actually crowdsourced into (pre-)existence. If a developer wants to share their app with the world, Holo delivers.                     
             <br><br>
             For a more in depth description, watch the video and visit the following websites below:
             <br>
