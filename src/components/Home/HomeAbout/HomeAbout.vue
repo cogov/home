@@ -137,7 +137,10 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Transparency</h2>
                     <p class="homeAbout__item--body">
-                        CoGov offers a fully transparent interoperability layer that 
+                        In this era of a <a href="/war-on-sense-making">War on Sense Making</a>,
+                        transparency of operatons is critical to re-building trust in
+                        our institutions— both public and private. CoGov offers a fully 
+                        transparent interoperability layer that 
                         opens up the doorway for organizations to use any number of 
                         business or organizational governance models and interfaces, 
                         and/or seamlessly transition between them, while minimizing 
