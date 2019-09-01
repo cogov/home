@@ -2,7 +2,7 @@
 <template>
     <div class="homeAbout" id="homeAbout">
         <div class="homeAbout__header">
-            <h2 class="homeAbout__title">The CoGov Mission</h2>
+            <h2 class="homeAbout__title">Our Goals</h2>
             <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
             <h3 class="homeAbout__body">
                 We don’t just need new social systems. We need a framework within 
@@ -12,7 +12,8 @@
                 are no longer merely participants in social systems, but they are fully
                 engaged in the creation and rapid iteration of those systems.
             </h3>
-            <br />
+            <br>
+            <br>
             <h3 class="homeAbout__subtitle">From Individual Ownership to Collective Stewardship.</h3>
             <h3 class="homeAbout__body">
                 By supporting sovereign individuals in coming together to make sense, and make 
