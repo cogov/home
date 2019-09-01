@@ -1,44 +1,13 @@
 
 .footer {
-    height: 27rem; 
     width: 100%; 
     background-color: white;
     padding: 3rem 5rem; 
-    // border-top: .5px solid #eee;
 
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-
-    &__left {
-        height: 100%; 
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-
-    &__right {
-        height: 100%; 
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;        
-    }
-
-    &__logo {
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-
-        &--image {
-            height: 5rem; 
-            margin-right: .5rem; 
-        }
-
-        &--text {
-            color: #333;
-            font-size: 2.7rem; 
-            font-weight: 500; 
-        }
-    }
+    align-items: center;
 
     &__copyright {
         font-size: 1.2rem;
@@ -49,9 +18,9 @@
     &__socials {
         height: 100%; 
         display: flex;
-        /* flex-direction: column; */
-        justify-content: space-between;
-        float: right;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 2rem;
 
     }
 
