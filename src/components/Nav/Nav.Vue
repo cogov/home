@@ -18,11 +18,12 @@
                 <a href='/holochain' class="removelink">Holochain</a>
             </div>
             <div class="nav__item">
+                <a href='/declaration' class="removelink">Declaration</a>
+            </div>            
+            <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
-            <div class="nav__item">
-                <a href='/declaration' class="removelink">Declaration</a>
-            </div>
+
             <a href="https://cogov.typeform.com/to/kMtTYt" target="blank" class="removelink">
                 <div class="nav__button">
                     Whitepaper
