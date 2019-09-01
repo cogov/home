@@ -9,7 +9,8 @@
         </div>        
 
         <div class="homeHeader__content">
-            <h2 class="homeHeader__title"><u>Co</u>llaborative <u>Gov</u>ernance <u>Tech</u>nology</h2>
+            <!-- <h2 class="homeHeader__title"><u>Co</u>llaborative <u>Gov</u>ernance <u>Tech</u>nology</h2> -->
+            <h2 class="homeHeader__title">Collaborative Governance Technology</h2>
             <h3 class="homeHeader__subtitle">
                 <br />
                 CoGov fosters the emergence of Collective Intelligence by enabling the rapid iteration 
