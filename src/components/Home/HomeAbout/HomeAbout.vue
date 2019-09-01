@@ -95,7 +95,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                         critical to cohesive group interactions because it means that 
                         humans have the ability to interact directly with each other—to 
                         feel and see and know each other and to empathize from our shared 
-                        experience of humanness—with no intermediaries. <i><u><a href="/holochain">Holochain</a> is the world's first and only digital, 
+                        experience of humanness—with no intermediaries. <i><u><a href="/holochain" class="addlink" target="blank">Holochain</a> is the world's first and only digital, 
                         unenclosable carrier.</u></i>
                     </p>
                 </div>
@@ -138,7 +138,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Transparency</h2>
                     <p class="homeAbout__item--body">
-                        In this era of a <a href="/war-on-sense-making">War on Sense Making</a>,
+                        In this era of a <a class="addlink" target="blank" href="/war-on-sense-making">War on Sense Making</a>,
                         transparency of operatons is critical to re-building trust in
                         our institutions— both public and private. CoGov offers a fully 
                         transparent interoperability layer that 
