@@ -16,7 +16,7 @@
         </cogov-nav-open>       
 
         <!-- connect header -->
-        <cogov-connect-header></cogov-connect-header>
+        <cogov-declaration-content></cogov-declaration-content>
     
         <!-- footer -->
         <cogov-footer></cogov-footer>         

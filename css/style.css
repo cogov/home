@@ -330,7 +330,7 @@ body {
     justify-content: space-around; }
     @media (max-width: 56.25em) {
       .homeCollaborators__collaborators {
-        flex-direction: column; } }
+        flex-wrap: wrap; } }
   .homeCollaborators__collaborator {
     display: flex;
     flex-direction: column;
