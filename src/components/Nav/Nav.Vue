@@ -4,7 +4,7 @@
         <a href="/" class="removelink">
             <div class="nav__logo--container">
                 <img class="nav__logo--image" src="../../assets/images/cogov__logo--blue.png" alt="">
-                <p class="nav__logo--text">CoGov.Tech</p>            
+                <p class="nav__logo--text">CoGov Tech</p>            
             </div>        
         </a>
         <div class="nav__items">
