@@ -26,7 +26,7 @@
         </div>
 
 
-        <div class="homeAbout__pillars">
+        <!-- <div class="homeAbout__pillars">
             <div class="homeAbout__pillars--left">
                 <p class="homeAbout__pillars--title">CoGov is NOT</p>
                 <div class="homeAbout__pillar">
@@ -76,7 +76,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 </div>                    
             </div>
 
-        </div>        
+        </div>         -->
 
 
 

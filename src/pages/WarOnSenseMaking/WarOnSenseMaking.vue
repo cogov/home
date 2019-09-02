@@ -26,7 +26,6 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
-    import cogovDeclarationContent from '../../components/Declaration/DeclarationContent.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -38,7 +37,6 @@
         components: {
             cogovNav,
             cogovNavOpen,
-            cogovDeclarationContent,
             cogovFooter
         }
     }
