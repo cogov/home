@@ -15,7 +15,10 @@
             <img @click="navOpen = false" slot="navClose" class="navOpen__nav--icon" src="../../assets/images/cogov__menu.png">                        
         </cogov-nav-open>       
 
-        <!-- connect header -->
+        <!-- header -->
+        <cogov-war-on-sense-making-header></cogov-war-on-sense-making-header>
+
+        <!-- content -->
         <cogov-war-on-sense-making-content></cogov-war-on-sense-making-content>
     
         <!-- footer -->
@@ -26,7 +29,8 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
-    import cogovWarOnSenseMakingContent from '../../components/WarOnSenseMaking/WarOnSenseMakingContent.vue'
+    import cogovWarOnSenseMakingHeader from '../../components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader.vue'
+    import cogovWarOnSenseMakingContent from '../../components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -38,6 +42,7 @@
         components: {
             cogovNav,
             cogovNavOpen,
+            cogovWarOnSenseMakingHeader,
             cogovWarOnSenseMakingContent,
             cogovFooter
         }
