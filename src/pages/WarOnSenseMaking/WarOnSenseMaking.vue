@@ -16,7 +16,7 @@
         </cogov-nav-open>       
 
         <!-- connect header -->
-        <cogov-connect-header></cogov-connect-header>
+        <cogov-war-on-sense-making-content></cogov-war-on-sense-making-content>
     
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -26,6 +26,7 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
+    import cogovWarOnSenseMakingContent from '../../components/WarOnSenseMaking/WarOnSenseMakingContent.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -37,6 +38,7 @@
         components: {
             cogovNav,
             cogovNavOpen,
+            cogovWarOnSenseMakingContent,
             cogovFooter
         }
     }

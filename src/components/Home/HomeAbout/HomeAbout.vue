@@ -74,6 +74,13 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
 
                     </p>
                 </div>                    
+
+                <div class="homeAbout__pillar">
+                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
+                    <p class="homeAbout__pillar--text">
+A Holochain protocol that can be used in any Holochain to share information about the operations of organizations.
+                    </p>
+                </div>                    
             </div>
 
         </div>        
@@ -138,7 +145,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Transparency</h2>
                     <p class="homeAbout__item--body">
-                        In this era of a <a class="addlink" target="blank" href="/war-on-sense-making">War on Sense Making</a>,
+                        In this era of a <a class="addlink" href="/war-on-sense-making">War on Sense Making</a>,
                         transparency of operatons is critical to re-building trust in
                         our institutions— both public and private. CoGov offers a fully 
                         transparent interoperability layer that 
