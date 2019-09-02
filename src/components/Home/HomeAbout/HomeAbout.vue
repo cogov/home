@@ -78,7 +78,7 @@ A means to rapidly iterate through ever-evolving ideas of how we can coordinate 
                 <div class="homeAbout__pillar">
                     <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
                     <p class="homeAbout__pillar--text">
-A Holochain protocol that can be used in any Holochain to share information about the operations of organizations.
+A Holochain protocol that can be used in any holochain to contain entries that hold information about the operations of organizations.
                     </p>
                 </div>                    
             </div>
