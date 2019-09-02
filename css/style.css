@@ -645,7 +645,7 @@ body {
 
 .aboutQuote {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__background--founder.png");
   background-position: center;
   background-size: cover; }
@@ -723,7 +723,7 @@ body {
 
 .holochainHeader {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__northerlights.png");
   background-position: center;
   background-size: cover; }
@@ -813,7 +813,7 @@ body {
 
 .connectHeader {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__mandala--three.png");
   background-position: center;
   background-size: cover; }
