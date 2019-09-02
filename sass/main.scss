@@ -7,6 +7,7 @@
 @import './../src/pages/Founder/Founder';
 @import './../src/pages/Holochain/Holochain';                                    
 @import './../src/pages/Connect/Connect';
+@import './../src/pages/Declaration/Declaration';
  
 // Global components
 @import './../src/components/Nav/Nav';
@@ -35,5 +36,12 @@
 
 // Connect components
 @import './../src/components/Connect/ConnectHeader';
+
+// Declation components
+@import './../src/components/Declaration/DeclarationHeader/DeclarationHeader';
+@import './../src/components/Declaration/DeclarationContent/DeclarationContent';
+
+// WarOnSenseMaking components
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent';
 
 

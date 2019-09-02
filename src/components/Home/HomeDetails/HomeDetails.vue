@@ -1,9 +1,7 @@
 <template>
     <section class="homeDetails">
-        <h2 class="homeDetails__title">Who CoGov Is For</h2>
-        <p class="homeDetails__subtitle">CoGov is for anyone
-            who wants to improve the capacity of their communities. Which vantage point do you come from?    
-        </p>
+        <h2 class="homeDetails__title">Let's Connect! What role are you playing in the transition?</h2>
+        <p>&nbsp;</p>
         <div class="homeDetails__types">
             <div class="homeDetails__type">
                 <div class="homeDetails__header homeDetails__header--developer">

@@ -1,6 +1,6 @@
 
 .holochainCoGov {
-    padding: 4rem 17% 8rem 17%;;
+    padding: 4rem 12% 8rem 12%;;
 
     @include respond(tab-port) {
         padding: 4rem;
@@ -20,11 +20,58 @@
     }
 
     &__body {
-        text-align-last: center;
+        text-align-last: left;
         font-size: 1.7rem;
         font-weight: 500;
+
+        display: flex;
+
+        @include respond(tab-port) {
+            flex-direction: column;
+        }
     }
 
+    &__left {
+        width: 50%;
+        margin-right: 4rem;
+        text-align: justify;
+        margin-bottom: 2rem;
+
+        @include respond(tab-port) {
+            width: 100%;
+            margin-right: 0;
+
+        }        
+    }
+
+    &__right {
+        width: 50%;
+        margin-left: 4rem; 
+        text-align: justify;
+        margin-bottom: 2rem; 
+
+        @include respond(tab-port) {
+            width: 100%;
+            margin-left: 0;
+
+        }        
+
+    }
+
+    &__column {
+        &--title {
+            color: #333;
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: .5rem;
+        }
+
+        &--body {
+            font-size: 1.7rem;
+            color: #333;
+
+        }
+    }
     &__video {
         margin-top: 2rem;
         width: 100%;

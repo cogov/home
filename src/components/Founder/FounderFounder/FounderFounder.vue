@@ -9,9 +9,9 @@
         <div class="aboutFounder__right">
 
             <div class="aboutFounder__container">
-                <p class="aboutFounder__title">Raymond Powell, Founder</p>
+                <p class="aboutFounder__title">Raymond D. Powell, Founder</p>
                 <p class="aboutFounder__body">
-                    Ray started programming computers at the age of 7 and by the age of 19 was hired as a professional software engineer. Since then, he has stayed on the cutting edge of industry trends and he now applies that knowledge to co-create systems and blueprints that take on some of today’s most complex social problems.
+                    Ray started programming computers in 1980 at the age of 7 and by the age of 19 was hired as a professional software engineer. Since then, he has stayed on the cutting edge of industry trends and he now applies that knowledge to co-create systems and blueprints that take on some of today’s most complex social problems.
                     <br><br>
 
                     Through the writing of code, as well as identifying and bringing together the most talented engineers and systems architects on the planet to synchronize their efforts, one of Ray’s fundamental goals is to unify people through the creation of new standards of action and interaction that more closely align with natural patterns inherent in the fabric of the Universe.

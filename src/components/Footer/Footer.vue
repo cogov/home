@@ -1,23 +1,13 @@
 
 <template>
     <section class="footer">
-        <div class="footer__left">
-                <div class="footer__logo">
-                    <a href="/" class="removelink footer__logo--image">
-                        <img class="footer__logo--image" src="../../assets/images/cogov__logo--black.png" alt="">
-                    </a>
-                </div>
-
-            <p class="footer__copyright">Copyright 2019 CoGov, All Rights Reserved.</p>
-        </div>
-        <div class="footer__right">
             <div class="footer__socials">
-                <a href="https://www.facebook.com/messages/t/rayzer42" target="blank" class="removelink footer__social">
+                <a href="https://www.facebook.com/messages/t/cogov.tech" target="blank" class="removelink footer__social">
                     <img class="footer__social--icon" src="../../assets/images/cogov__messengericon.png" alt="">
                     <p class="footer__social--text">Messenger</p>
                 </a>       
 
-                <a href="https://www.facebook.com/New-Earth-Digital-CoGovernance-272761659895785/" target="blank" class="removelink footer__social">
+                <a href="https://www.facebook.com/cogov.tech/" target="blank" class="removelink footer__social">
                     <img class="footer__social--icon" src="../../assets/images/cogov__facebook.png" alt="">
                     <p class="footer__social--text">Facebook</p>
                 </a>      
@@ -37,7 +27,7 @@
                     <p class="footer__social--text">Github</p>
                 </a>                                                                                                                             
             </div>
-        </div>
-
+        <p class="footer__copyright">Copyright &copy;2019 CoGov.Tech, All Rights Reserved.</p>
+        
     </section>
 </template>

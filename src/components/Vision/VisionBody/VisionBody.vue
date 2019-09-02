@@ -17,8 +17,10 @@
             <p class="visionBody__title">Achieving Higher Consciousness Through Technology</p>      
             <p class="visionBody__body">
         Technology is neutral - it stimulates discovery and innovation along the lines of the intentions of the humans that implement it.
-        Wise utilization of technology can lead to a single, distributed, interconnected, species-level “brain” allowing us to sense and meet needs on even a global scale.
-        CoGov ensures that a feedback loop exists between digital technology the wisdom of the highest human consciousness (organic intelligence).        
+        Wise utilization of technology can lead to a single, distributed, interconnected, species-level “brain” allowing us to sense and meet needs on a global scale.
+        <br><br>CoGov ensures that a feedback loop exists between digital technology the wisdom of the highest human consciousness (organic intelligence). Cogov uses digital technology
+        to help remind us of the technology we already have built into our DNA. We already know how to coordinate as tribles,
+        and as alliances of tribes. CoGov just helps us remember.      
             </p>          
       </div>      
   </div>

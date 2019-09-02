@@ -64,6 +64,12 @@ body {
   width: 100%;
   position: relative; }
 
+.declaration {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
 .nav {
   position: fixed;
   top: 0;
@@ -195,33 +201,13 @@ body {
         font-weight: 600; }
 
 .footer {
-  height: 27rem;
   width: 100%;
   background-color: white;
   padding: 3rem 5rem;
   display: flex;
-  justify-content: space-between; }
-  .footer__left {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; }
-  .footer__right {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; }
-  .footer__logo {
-    display: flex;
-    align-items: center;
-    cursor: pointer; }
-    .footer__logo--image {
-      height: 5rem;
-      margin-right: .5rem; }
-    .footer__logo--text {
-      color: #333;
-      font-size: 2.7rem;
-      font-weight: 500; }
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; }
   .footer__copyright {
     font-size: 1.2rem;
     font-weight: 500;
@@ -229,17 +215,19 @@ body {
   .footer__socials {
     height: 100%;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between; }
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 2rem; }
   .footer__social {
     display: flex;
     margin-bottom: 1.5rem;
+    margin-right: 20px;
     cursor: pointer; }
     .footer__social:hover > .footer__social--text {
       text-decoration: underline; }
     .footer__social--icon {
       height: 2rem;
-      margin-right: 1rem; }
+      margin-right: 0.35rem; }
     .footer__social--text {
       font-size: 1.4rem;
       color: #333;
@@ -328,7 +316,7 @@ body {
     justify-content: space-around; }
     @media (max-width: 56.25em) {
       .homeCollaborators__collaborators {
-        flex-direction: column; } }
+        flex-wrap: wrap; } }
   .homeCollaborators__collaborator {
     display: flex;
     flex-direction: column;
@@ -365,7 +353,7 @@ body {
     font-size: 1.7rem;
     color: #333; }
   .homeAbout__subtitle {
-    font-size: 4.2rem;
+    font-size: 3rem;
     font-weight: 600;
     color: #195C89; }
   .homeAbout__body {
@@ -657,7 +645,7 @@ body {
 
 .aboutQuote {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__background--founder.png");
   background-position: center;
   background-size: cover; }
@@ -717,7 +705,8 @@ body {
     margin-bottom: .5rem; }
   .aboutFounder__body {
     font-size: 1.7rem;
-    color: #333; }
+    color: #333;
+    text-align: justify; }
   .aboutFounder__contact {
     padding: 1rem 2rem;
     border: 1.5px solid #222;
@@ -734,7 +723,7 @@ body {
 
 .holochainHeader {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__northerlights.png");
   background-position: center;
   background-size: cover; }
@@ -768,7 +757,7 @@ body {
     font-weight: 500; }
 
 .holochainCoGov {
-  padding: 4rem 17% 8rem 17%; }
+  padding: 4rem 12% 8rem 12%; }
   @media (max-width: 56.25em) {
     .holochainCoGov {
       padding: 4rem; } }
@@ -781,9 +770,39 @@ body {
     font-weight: 600;
     margin-bottom: 2rem; }
   .holochainCoGov__body {
-    text-align-last: center;
+    text-align-last: left;
     font-size: 1.7rem;
-    font-weight: 500; }
+    font-weight: 500;
+    display: flex; }
+    @media (max-width: 56.25em) {
+      .holochainCoGov__body {
+        flex-direction: column; } }
+  .holochainCoGov__left {
+    width: 50%;
+    margin-right: 4rem;
+    text-align: justify;
+    margin-bottom: 2rem; }
+    @media (max-width: 56.25em) {
+      .holochainCoGov__left {
+        width: 100%;
+        margin-right: 0; } }
+  .holochainCoGov__right {
+    width: 50%;
+    margin-left: 4rem;
+    text-align: justify;
+    margin-bottom: 2rem; }
+    @media (max-width: 56.25em) {
+      .holochainCoGov__right {
+        width: 100%;
+        margin-left: 0; } }
+  .holochainCoGov__column--title {
+    color: #333;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: .5rem; }
+  .holochainCoGov__column--body {
+    font-size: 1.7rem;
+    color: #333; }
   .holochainCoGov__video {
     margin-top: 2rem;
     width: 100%;
@@ -794,7 +813,7 @@ body {
 
 .connectHeader {
   padding: 12%;
-  height: 80vh;
+  height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__mandala--three.png");
   background-position: center;
   background-size: cover; }
@@ -823,3 +842,39 @@ body {
     transition: all .2s; }
     .connectHeader__button:hover {
       transform: scale(1.05); }
+
+.declarationHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__declaration.png");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .declarationHeader {
+      padding: 12% 4rem; } }
+  .declarationHeader__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+  .declarationHeader__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+
+.declarationContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .declarationContent {
+      padding: 4rem; } }
+  .declarationContent__title {
+    font-size: 3.3rem;
+    color: #195C89;
+    font-weight: 600;
+    margin-bottom: 1rem; }
+  .declarationContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: justify; }

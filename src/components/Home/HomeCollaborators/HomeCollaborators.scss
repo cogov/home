@@ -15,7 +15,7 @@
         justify-content: space-around;
 
         @include respond(tab-port) {
-            flex-direction: column;
+            flex-wrap:wrap;
         }        
     }
 
