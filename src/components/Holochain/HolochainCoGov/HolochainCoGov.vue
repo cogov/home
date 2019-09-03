@@ -3,12 +3,14 @@
     <div class="holochainCoGov">
         <div class="holochainCoGov__body">
             <div class="holochainCoGov__left">
+                <img class="holochainCoGov__holochain-logo" src="./../../../assets/images/holochain-logo.png" />
                 <p class="holochainCoGov__title">Holochain</p>
                 <p class="holochainCoGov__body">
                     Holochain is an opensource distributed application development and execution environment. It is free to download, install, use, and distribute. There is not, and can never be, an inherent cost associated with building or running a Holochain application.                    
                 </p>
             </div>
             <div class="holochainCoGov__right">
+                <img class="holochainCoGov__holo-logo" src="./../../../assets/images/holo-logo.png" />
                 <p class="holochainCoGov__title">
                     Holo
                 </p>

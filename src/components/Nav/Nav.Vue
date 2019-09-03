@@ -12,13 +12,16 @@
                 <a href='/vision'  class="removelink">Vision</a>
             </div>            
             <div class="nav__item">
-                <a href='/founder' class="removelink">Team</a>
+                <a href='/team/raymond-d-powell' class="removelink">Founder</a>
             </div>
             <div class="nav__item">
                 <a href='/holochain' class="removelink">Holochain</a>
             </div>
             <div class="nav__item">
                 <a href='/declaration' class="removelink">Declaration</a>
+            </div>            
+            <div class="nav__item">
+                <a href='/in-action' class="removelink">In Action</a>
             </div>            
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>

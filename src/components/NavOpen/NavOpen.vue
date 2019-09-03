@@ -12,7 +12,7 @@
             <a href="/vision" class="navOpen__body--item removelink">
                 Vision
             </a>
-            <a href="/founder" class="navOpen__body--item removelink">
+            <a href="/team/raymond-d-powell" class="navOpen__body--item removelink">
                 Founder
             </a>
             <a href="/holochain" class="navOpen__body--item removelink">
@@ -22,7 +22,10 @@
                 Connect
             </a>                                           
             <a href="/declaration" class="navOpen__body--item removelink">
-                Declaration
+                Declaration of Collaborative Governance
+            </a>                                           
+            <a href="/declaration" class="navOpen__body--item removelink">
+                CoGov In Action
             </a>                                           
         </div>
     </div>

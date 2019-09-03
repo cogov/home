@@ -4,7 +4,15 @@
 
     @include respond(tab-port) {
         padding: 4rem;
-    }        
+    }
+    
+    &__holochain-logo {
+        height:200px;
+    }
+
+    &__holo-logo {
+        height:200px;
+    }
 
     &__text {
         margin-bottom: 2rem; 

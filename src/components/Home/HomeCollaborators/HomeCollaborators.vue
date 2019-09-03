@@ -4,6 +4,13 @@
         <h2 class="homeCollaborators__title">Collaboration is our jam! Here's who with:</h2>
         <div class="homeCollaborators__collaborators">
             <div class="homeCollaborators__collaborator">
+                <a class="homeCollaborators__collaborator" href="https://www.metacurrency.org" target="blank">            
+                    <img src="../../../assets/images/cogov__metacurrency.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">MetaCurrency<br/>Project</p>  
+                </a>              
+            </div>
+
+            <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="https://www.onenation.party/1" target="blank">            
                     <img src="../../../assets/images/cogov__onenation.png" alt="" class="homeCollaborators__collaborator--logo">
                     <p class="homeCollaborators__collaborator--text">OneNation</p>  

@@ -1,5 +1,5 @@
 
-@import 'base';                                     
+@import '_base';                                     
  
 // pages
 @import './../src/pages/Home/Home';
@@ -42,6 +42,11 @@
 @import './../src/components/Declaration/DeclarationContent/DeclarationContent';
 
 // WarOnSenseMaking components
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader';
 @import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
+
+// InAction components
+@import './../src/components/InAction/InActionHeader/InActionHeader';
+@import './../src/components/InAction/InActionContent/InActionContent';
 
 
