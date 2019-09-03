@@ -35,6 +35,9 @@ body {
   outline: none;
   color: inherit; }
 
+.underline {
+  border-bottom: 2px solid white; }
+
 .home {
   height: 100%;
   width: 100%;
@@ -167,6 +170,9 @@ body {
   outline: none;
   color: inherit; }
 
+.underline {
+  border-bottom: 2px solid white; }
+
 .navOpen {
   background-color: white;
   height: 100vh;
@@ -261,26 +267,42 @@ body {
       z-index: 10; }
   .homeHeader__content {
     position: absolute;
-    top: 36%;
+    top: 30%;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
     z-index: 300;
     height: 50rem;
-    width: 55vw; }
+    width: 70vw; }
     @media (max-width: 56.25em) {
       .homeHeader__content {
-        top: 33%;
+        top: 24%;
         width: 85vw; } }
+  .homeHeader__logo {
+    height: 12rem;
+    margin-bottom: 1rem;
+    cursor: pointer; }
+    @media (max-width: 56.25em) {
+      .homeHeader__logo {
+        height: 9rem; } }
   .homeHeader__title {
     color: white;
-    font-size: 5rem;
-    font-weight: 600; }
+    font-size: 4.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 1rem; }
+    @media (max-width: 56.25em) {
+      .homeHeader__title {
+        font-size: 3.6rem; } }
   .homeHeader__subtitle {
     color: white;
     font-size: 2rem;
     font-weight: 400;
+    padding: 0 9%;
     margin-bottom: 4rem; }
+    @media (max-width: 56.25em) {
+      .homeHeader__subtitle {
+        padding: 0; } }
   .homeHeader__description {
     color: white;
     font-size: 1.4rem;
@@ -300,6 +322,14 @@ body {
     transition: all .2s; }
     .homeHeader__action:hover {
       transform: scale(1.02); }
+
+@keyframes animateLogo {
+  0% {
+    transform: scale(1); }
+  50% {
+    transform: scale(1.05); }
+  100% {
+    transform: scale(1); } }
 
 .homeCollaborators {
   padding: 4rem;
@@ -872,12 +902,14 @@ body {
     font-size: 3.3rem;
     color: #195C89;
     font-weight: 600;
-    margin-bottom: 1rem; }
+    margin-bottom: 1rem;
+    font-family: 'Parisienne', cursive; }
   .declarationContent__body {
-    font-size: 1.7rem;
+    font-size: 2.4rem;
     color: #333;
     font-weight: 500;
-    text-align: justify; }
+    text-align: justify;
+    font-family: 'Parisienne', cursive; }
 
 .warOnSenseMakingContent {
   background-color: white;

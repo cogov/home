@@ -9,18 +9,15 @@
         </div>        
 
         <div class="homeHeader__content">
-            <!-- <h2 class="homeHeader__title"><u>Co</u>llaborative <u>Gov</u>ernance <u>Tech</u>nology</h2> -->
+            <!-- <img class="homeHeader__logo" src="./../../../assets/images/cogov__home-logo.png" /> -->
             <h2 class="homeHeader__title">Collaborative Governance Technology</h2>
-            <br />
-            <img src="./../../../assets/images/cogov__home-logo.png" height="250" /><br />
+            
             <h3 class="homeHeader__subtitle">
-                <br />
                 CoGov fosters the emergence of Collective Intelligence by enabling the rapid iteration 
                 of Social Coordination Systems that YOU design!
-            </h3>
-            <!-- <a href="#homeAbout" class="removelink"><p class="homeHeader__description">LEARN MORE</p></a> -->
+            </h3>            
+            <a href="#homeAbout" class="removelink"><img class="homeHeader__logo" src="./../../../assets/images/cogov__home-logo.png" /></a>
 
-            
         </div>
 
 

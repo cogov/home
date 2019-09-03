@@ -12,7 +12,7 @@
                 <a href='/vision'  class="removelink">Vision</a>
             </div>            
             <div class="nav__item">
-                <a href='/founder' class="removelink">Founder</a>
+                <a href='/founder' class="removelink">Team</a>
             </div>
             <div class="nav__item">
                 <a href='/holochain' class="removelink">Holochain</a>
