@@ -1,12 +1,13 @@
 {
   "name": "cogov",
-  "description": "Website for Collaborative Governance Technology (CoGov.Tech)",
+  "description": "Website for Collaborative Governance Technologies (CoGov.Tech)",
   "version": "1.0.0",
   "author": "Eric Yang (eric@junto.foundation), Raymond Powell (ray@cogov.tech)",
   "license": "(MIT) ",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "devray": "cross-env NODE_ENV=development webpack-dev-server --hot --host 0.0.0.0",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
     "compile:sass": "node-sass sass/main.scss css/style.css",
     "compile:sass-bg": "node-sass sass/main.scss css/style.css -w &",

@@ -10,13 +10,13 @@
 
         <div class="homeHeader__content">
             <!-- <img class="homeHeader__logo" src="./../../../assets/images/cogov__home-logo.png" /> -->
-            <h2 class="homeHeader__title">Collaborative Governance Technology</h2>
+            <a href="#homeAbout" class="removelink"><img class="homeHeader__logo" src="./../../../assets/images/cogov__home-logo.png" /></a>
+            <h2 class="homeHeader__title">Collaborative Governance Technologies</h2>
             
             <h3 class="homeHeader__subtitle">
-                CoGov fosters the emergence of Collective Intelligence by enabling the rapid iteration 
-                of Social Coordination Systems that YOU design!
+                CoGov fosters the emergence of coherent collective intelligence by enabling the rapid iteration 
+                of governance and social coordination Systems that YOU design!
             </h3>            
-            <a href="#homeAbout" class="removelink"><img class="homeHeader__logo" src="./../../../assets/images/cogov__home-logo.png" /></a>
 
         </div>
 

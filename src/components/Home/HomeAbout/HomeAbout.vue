@@ -21,7 +21,9 @@
                 provides a protocol for transparently sharing operations, and curating resources—
                 allowing even amateur developers to work with users to experiment with 
                 new ways of sharing resources, contracts, data, money and cryptocurrencies, 
-                payments and transactions, IP, and other assets.
+                payments and transactions, IP, and other assets— all with complete assurance 
+                that whatever kind of governance they invent, it is interoperable with a greater
+                economy and ecosystem.
             </h3>
         </div>
 
@@ -55,6 +57,13 @@
                 <div class="homeAbout__pillar">
                     <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
                     <p class="homeAbout__pillar--text">
+                        A <a href="/holochain">Holochain</a> protocol that can be used in any holochain to contain entries that hold information about the operations of organizations.
+                    </p>
+                </div>                    
+
+                <div class="homeAbout__pillar">
+                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
+                    <p class="homeAbout__pillar--text">
                         A software interoperability layer empowering groups to self govern more effectively and transparently
                     </p>
                 </div>
@@ -63,25 +72,16 @@
                     <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
                     <p class="homeAbout__pillar--text">
                         A framework through which new paradigm business, governance, and economic solutions may emerge
-
                     </p>
                 </div>
 
                 <div class="homeAbout__pillar">
                     <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
                     <p class="homeAbout__pillar--text">
-A means to rapidly iterate through ever-evolving ideas of how we can coordinate to create a win for all life!
-
+                        A means to rapidly iterate through ever-evolving ideas of how we can coordinate to create a win for all life!
                     </p>
-                </div>                    
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-A Holochain protocol that can be used in any holochain to contain entries that hold information about the operations of organizations.
-                    </p>
-                </div>                    
-            </div>
+                </div>     
+            </div>               
 
         </div>        
 

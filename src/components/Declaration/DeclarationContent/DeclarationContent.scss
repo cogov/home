@@ -2,7 +2,6 @@
     background-color: white; 
     padding: 4rem 17%; 
 
-
     @include respond(tab-port) {
         padding: 4rem; 
     }    
@@ -10,7 +9,7 @@
     &__title {
         font-size: 3.3rem;
         color: $cogov-primary;
-        font-weight: 600;
+        font-weight: 1000;
         margin-bottom: 1rem; 
         font-family: 'Parisienne', cursive;
 
@@ -23,6 +22,12 @@
         font-weight: 500;
         text-align: justify;
         font-family: 'Parisienne', cursive;
+        text-align:left;
+    }
+
+    & li { 
+        margin-left:8rem; 
+        margin-right:6rem; 
     }
 
 }

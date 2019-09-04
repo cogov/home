@@ -1,10 +1,13 @@
 
 <template>
-    <div class="declarationHeader">
-            <p class="declarationHeader__title">The War on Sensemaking</p>
-            <p class="declarationHeader__subtitle">
-                Written by <a href="/founder">Raymond D. Powell</a> - based on <a target="_blank" href="https://constitution.org/us_doi.htm">The Declaration of Independnece</a> by <a target="_blank" href="https://en.wikipedia.org/wiki/Thomas_Jefferson">Thomas Jefferson</a>
+    <div class="warOnSenseMakingHeader">
+            <p class="warOnSenseMakingHeader__title">The War on Sensemaking</p>
+            <p class="warOnSenseMakingHeader__subtitle">
+                Written by <a href="https://medium.com/@jordangreenhall">Jordan Hall</a> 
             </p>  
+            <p>
+                Originally published on <a target="_blank" href="https://medium.com/rally-point-perspectives/the-war-on-sensemaking-900086bca636">Medium.com</a>
+            </p>
     </div>
 </template>
 
