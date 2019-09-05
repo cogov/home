@@ -15,7 +15,7 @@
             
             <h3 class="homeHeader__subtitle">
                 CoGov fosters the emergence of coherent collective intelligence by enabling the rapid iteration 
-                of governance and social coordination Systems that YOU design!
+                of governance and social coordination systems that YOU design!
             </h3>            
 
         </div>

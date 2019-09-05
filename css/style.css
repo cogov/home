@@ -373,6 +373,10 @@ body {
   @media (max-width: 56.25em) {
     .homeAbout {
       padding: 0 4rem; } }
+  .homeAbout a {
+    color: black;
+    font-weight: normal;
+    letter-spacing: normal; }
   .homeAbout__header {
     padding: 8rem 0;
     background-color: white;
