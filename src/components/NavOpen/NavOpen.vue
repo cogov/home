@@ -24,9 +24,9 @@
             <a href="/declaration" class="navOpen__body--item removelink">
                 Declaration of Collaborative Governance
             </a>                                           
-            <a href="/the-protocol" class="navOpen__body--item removelink">
+            <!--a href="/the-protocol" class="navOpen__body--item removelink">
                 The CoGov Protocol
-            </a>                                           
+            </a -->                                           
         </div>
     </div>
 </template>

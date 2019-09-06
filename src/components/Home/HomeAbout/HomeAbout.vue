@@ -2,6 +2,15 @@
 <template>
     <div class="homeAbout" id="homeAbout">
         <div class="homeAbout__header">
+            <h2 class="homeAbout__title">What is CoGov?</h2>
+            <h3 class="homeAbout__body">
+                <span class="homeAbout__subtitle">CoGov is</span> a 
+                <a href="/the-protocol">Holochain protocol</a> that can be used in any 
+                <a href="/holochain">holochain</a> application to contain entries that 
+                hold information about the operations of organizations.
+            </h3>
+            <br />
+            <br />
             <h2 class="homeAbout__title">Our Goals</h2>
             <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
             <h3 class="homeAbout__body">
@@ -26,65 +35,6 @@
                 economy and ecosystem.
             </h3>
         </div>
-
-
-        <div class="homeAbout__pillars">
-            <div class="homeAbout__pillars--left">
-                <p class="homeAbout__pillars--title">CoGov is NOT</p>
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A specific proposal of how groups should govern themselves       
-                    </p>
-                </div>
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A specific proposal of how businesses should operate or cooperate                    
-                    </p>
-                </div>
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        An application or interface   
-                    </p>
-                </div>                                
-            </div>
-            <div class="homeAbout__pillars--right">
-                <p class="homeAbout__pillars--title">CoGov IS</p>
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A <a href="/holochain">Holochain</a> protocol that can be used in any holochain to contain entries that hold information about the operations of organizations.
-                    </p>
-                </div>                    
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A software interoperability layer empowering groups to self govern more effectively and transparently
-                    </p>
-                </div>
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A framework through which new paradigm business, governance, and economic solutions may emerge
-                    </p>
-                </div>
-
-                <div class="homeAbout__pillar">
-                    <img src="../../../assets/images/cogov__icon.png" class="homeAbout__pillar--icon" alt="">
-                    <p class="homeAbout__pillar--text">
-                        A means to rapidly iterate through ever-evolving ideas of how we can coordinate to create a win for all life!
-                    </p>
-                </div>     
-            </div>               
-
-        </div>        
-
 
 
         <div class="homeAbout__items">
