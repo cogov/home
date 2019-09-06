@@ -10,6 +10,7 @@
     "devray": "ipconfig getifaddr en0 && cross-env NODE_ENV=development webpack-dev-server --hot --host 0.0.0.0",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
+    "compile:sass-bg": "node-sass sass/main.scss css/style.css -w &",
     "push": "git add . && git commit -m wip && git push"
   },
   "dependencies": {
