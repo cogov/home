@@ -431,12 +431,8 @@ body {
       font-size: 1.7rem;
       font-weight: 500; }
   .homeAbout__items {
-    padding-top: 8rem;
     display: flex;
     flex-direction: column; }
-    @media (max-width: 56.25em) {
-      .homeAbout__items {
-        padding-top: 6rem; } }
     .homeAbout__items--title {
       font-size: 3.6rem;
       font-weight: 600;
@@ -776,31 +772,18 @@ body {
     color: white;
     font-weight: 500; }
 
-.holochainBullets {
-  height: 45rem;
-  display: flex;
-  padding: 0 12%; }
-  .holochainBullets__left {
-    width: 50%; }
-  .holochainBullets__right {
-    width: 50%; }
-  .holochainBullets__title {
-    color: #195C89;
-    font-size: 2.2rem;
-    font-weight: 600; }
-  .holochainBullets__body {
-    font-size: 1.7rem;
-    font-weight: 500; }
-
 .holochainCoGov {
   padding: 4rem 12% 8rem 12%; }
   @media (max-width: 56.25em) {
     .holochainCoGov {
       padding: 4rem; } }
-  .holochainCoGov__holochain-logo {
-    height: 200px; }
-  .holochainCoGov__holo-logo {
-    height: 200px; }
+  .holochainCoGov__logo {
+    height: 6rem;
+    align-self: start;
+    margin-right: 2rem; }
+    .holochainCoGov__logo--container {
+      display: flex;
+      align-items: center; }
   .holochainCoGov__text {
     margin-bottom: 2rem; }
   .holochainCoGov__title {
@@ -821,7 +804,9 @@ body {
     width: 50%;
     margin-right: 4rem;
     text-align: justify;
-    margin-bottom: 2rem; }
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column; }
     @media (max-width: 56.25em) {
       .holochainCoGov__left {
         width: 100%;
@@ -830,7 +815,9 @@ body {
     width: 50%;
     margin-left: 4rem;
     text-align: justify;
-    margin-bottom: 2rem; }
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column; }
     @media (max-width: 56.25em) {
       .holochainCoGov__right {
         width: 100%;
@@ -854,7 +841,7 @@ body {
 .connectHeader {
   padding: 12%;
   height: 85vh;
-  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__mandala--three.png");
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../src/assets/images/cogov__mandala--three.png");
   background-position: center;
   background-size: cover; }
   @media (max-width: 56.25em) {

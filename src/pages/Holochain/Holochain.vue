@@ -18,9 +18,6 @@
         <!-- holochain header -->
         <cogov-holochain-header></cogov-holochain-header>
 
-        <!-- holochain bullets -->
-        <!-- <cogov-holochain-bullets></cogov-holochain-bullets> -->
-
         <!-- holochain cogov -->
         <cogov-holochain-cogov></cogov-holochain-cogov>        
 
@@ -33,7 +30,6 @@
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
     import cogovHolochainHeader from '../../components/Holochain/HolochainHeader/HolochainHeader.vue'
-    import cogovHolochainBullets from '../../components/Holochain/HolochainBullets/HolochainBullets.vue'
     import cogovHolochainCogov from '../../components/Holochain/HolochainCoGov/HolochainCoGov.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
@@ -47,7 +43,6 @@
             cogovNav,
             cogovNavOpen,
             cogovHolochainHeader,
-            cogovHolochainBullets,
             cogovHolochainCogov,
             cogovFooter
         }

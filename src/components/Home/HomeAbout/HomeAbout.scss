@@ -97,13 +97,8 @@
     }
 
     &__items {
-        padding-top: 8rem;
         display: flex;
         flex-direction: column; 
-
-        @include respond(tab-port) {
-            padding-top: 6rem; 
-        }
 
         &--title {
             font-size: 3.6rem;

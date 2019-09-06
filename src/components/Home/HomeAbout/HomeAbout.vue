@@ -5,8 +5,8 @@
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
                 <span class="homeAbout__subtitle">CoGov is</span> a 
-                <a href="/the-protocol">Holochain protocol</a> that can be used in any 
-                <a href="/holochain">holochain</a> application to contain entries that 
+                <a href="/the-protocol" class="addlink">Holochain protocol</a> that can be used in any 
+                <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
                 hold information about the operations of organizations.
             </h3>
             <br />
