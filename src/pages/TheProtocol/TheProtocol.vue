@@ -16,10 +16,10 @@
         </cogov-nav-open>       
 
         <!-- header -->
-        <cogov-in-action-header></cogov-in-action-header>
+        <cogov-the-protocol-header></cogov-the-protocol-header>
 
         <!-- content -->
-        <cogov-in-action-content></cogov-in-action-content>
+        <cogov-the-protocol-content></cogov-the-protocol-content>
     
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -29,8 +29,8 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
-    import cogovWarOnSenseMakingHeader from '../../components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader.vue'
-    import cogovWarOnSenseMakingContent from '../../components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent.vue'
+    import cogovTheProtocolHeader from '../../components/TheProtocol/TheProtocolHeader/TheProtocolHeader.vue'
+    import cogovTheProtocolContent from '../../components/TheProtocol/TheProtocolContent/TheProtocolContent.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -42,8 +42,8 @@
         components: {
             cogovNav,
             cogovNavOpen,
-            cogovWarOnSenseMakingHeader,
-            cogovWarOnSenseMakingContent,
+            cogovTheProtocolHeader,
+            cogovTheProtocolContent,
             cogovFooter
         }
     }

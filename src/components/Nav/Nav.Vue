@@ -21,7 +21,7 @@
                 <a href='/declaration' class="removelink">Declaration</a>
             </div>            
             <div class="nav__item">
-                <a href='/in-action' class="removelink">In Action</a>
+                <a href='/the-protocol' class="removelink">The Protocol</a>
             </div>            
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>

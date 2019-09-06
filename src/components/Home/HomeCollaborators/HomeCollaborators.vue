@@ -51,6 +51,13 @@
                     <p class="homeCollaborators__collaborator--text">Four Worlds <br>International Institute</p>                
                 </a>
             </div>                                                             
+
+            <div class="homeCollaborators__collaborator">
+                <a class="homeCollaborators__collaborator" href="http://www.iwg.life/s7foundation/" target="blank">            
+                    <img src="../../../assets/images/cogov__s7.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">S7&nbsp;Foundation</p>                
+                </a>
+            </div>                                                             
         </div>
     </div>
 </template>

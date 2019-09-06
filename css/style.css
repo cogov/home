@@ -934,15 +934,6 @@ body {
   @media (max-width: 56.25em) {
     .warOnSenseMakingHeader {
       padding: 12% 4rem; } }
-  .warOnSenseMakingHeader__title {
-    font-size: 5rem;
-    font-weight: 600;
-    color: white;
-    margin-bottom: 1rem; }
-  .warOnSenseMakingHeader__subtitle {
-    font-size: 2rem;
-    color: white;
-    font-weight: 500; }
 
 .warOnSenseMakingContent {
   background-color: white;
@@ -951,47 +942,51 @@ body {
     .warOnSenseMakingContent {
       padding: 4rem; } }
   .warOnSenseMakingContent__title {
-    font-size: 3.3rem;
-    color: #195C89;
+    font-size: 5rem;
     font-weight: 600;
+    color: white;
     margin-bottom: 1rem; }
+  .warOnSenseMakingContent__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
   .warOnSenseMakingContent__body {
     font-size: 1.7rem;
     color: #333;
     font-weight: 500;
     text-align: justify; }
 
-.declarationHeader {
+.theProtocolHeader {
   padding: 12%;
   height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__declaration.png");
   background-position: center;
   background-size: cover; }
   @media (max-width: 56.25em) {
-    .declarationHeader {
+    .theProtocolHeader {
       padding: 12% 4rem; } }
-  .declarationHeader__title {
+  .theProtocolHeader__title {
     font-size: 5rem;
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
-  .declarationHeader__subtitle {
+  .theProtocolHeader__subtitle {
     font-size: 2rem;
     color: white;
     font-weight: 500; }
 
-.warOnSenseMakingContent {
+.theProtocolContent {
   background-color: white;
   padding: 4rem 17%; }
   @media (max-width: 56.25em) {
-    .warOnSenseMakingContent {
+    .theProtocolContent {
       padding: 4rem; } }
-  .warOnSenseMakingContent__title {
+  .theProtocolContent__title {
     font-size: 3.3rem;
     color: #195C89;
     font-weight: 600;
     margin-bottom: 1rem; }
-  .warOnSenseMakingContent__body {
+  .theProtocolContent__body {
     font-size: 1.7rem;
     color: #333;
     font-weight: 500;
