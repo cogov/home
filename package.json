@@ -11,7 +11,8 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass-bg": "node-sass sass/main.scss css/style.css -w &",
-    "push": "git add . && git commit -m wip && git push"
+    "push": "git add . && git commit -m wip && git push",
+    "publish:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publish-input.txt"
   },
   "dependencies": {
     "vue": "^2.5.11",
