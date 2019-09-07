@@ -2,7 +2,7 @@
 .connectHeader {
     padding: 12%;
     height: 85vh; 
-    background-image: linear-gradient(to right, rgba(#333, .4),rgba(#222, .4)), url('../../../src/assets/images/cogov__mandala--three.png');
+    background-image: linear-gradient(to right, rgba(#333, .5),rgba(#222, .5)), url('../../../src/assets/images/cogov__mandala--three.png');
     background-position: center;
     background-size: cover;   
 
@@ -10,6 +10,9 @@
         padding: 12% 4rem; 
     }        
 
+    @include respond(phone) {
+        background-image: linear-gradient(to right, rgba(#333, .5),rgba(#222, .5)), url('../../../src/assets/images/cogov__mandala--three--mobile.png');
+    }
 
     &__title {
         font-size: 5rem;
@@ -29,12 +32,13 @@
     }
 
     &__button {
-        background-color: white;         
+        background-color: transparent;         
+        color: white;
         margin-top: 2rem;
         padding: 1.5rem 3rem;
         font-size: 1.4rem;
-        font-weight: 500;
-        border: 2px solid white;
+        font-weight: 600;
+        border: 3px solid white;
         border-radius: 25px;
         margin-right: 1rem;
         outline: none;

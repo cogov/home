@@ -9,6 +9,10 @@
         padding: 12% 4rem; 
     }
 
+    @include respond(phone) {
+        background-image: linear-gradient(to right, rgba(#333, .4),rgba(#222, .4)), url('../../../../src/assets/images/cogov__stars--mobile.png');
+    }
+
     &__title {
         font-size: 5rem;
         font-weight: 600;
