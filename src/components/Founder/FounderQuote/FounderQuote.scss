@@ -16,6 +16,10 @@
         font-size: 5rem;
         color: white;
         font-weight: 600;
+
+        @include respond(phone) {
+            font-size: 4rem;
+        }        
     }
 
     &__quote {

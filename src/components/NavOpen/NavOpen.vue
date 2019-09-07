@@ -17,13 +17,14 @@
             </a>
             <a href="/holochain" class="navOpen__body--item removelink">
                 Holochain
-            </a>            
+            </a>   
+            <a href="/declaration" class="navOpen__body--item removelink">
+                Declaration of <br/>Collaborative Governance
+            </a>                          
             <a href="/connect" class="navOpen__body--item removelink">
                 Connect
             </a>                                           
-            <a href="/declaration" class="navOpen__body--item removelink">
-                Declaration of Collaborative Governance
-            </a>                                           
+                                      
             <!--a href="/the-protocol" class="navOpen__body--item removelink">
                 The CoGov Protocol
             </a -->                                           

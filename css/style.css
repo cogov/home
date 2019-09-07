@@ -201,6 +201,7 @@ body {
       font-size: 1.7rem;
       font-weight: 500;
       text-transform: uppercase;
+      text-align: center;
       cursor: pointer;
       transition: all .2s; }
       .navOpen__body--item:hover {
@@ -635,6 +636,9 @@ body {
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .visionHeader__title {
+        font-size: 4rem; } }
   .visionHeader__subtitle {
     font-size: 2rem;
     color: white;
@@ -688,6 +692,9 @@ body {
     font-size: 5rem;
     color: white;
     font-weight: 600; }
+    @media (max-width: 37.5em) {
+      .aboutQuote__title {
+        font-size: 4rem; } }
   .aboutQuote__quote {
     font-size: 2rem;
     color: white;
@@ -767,6 +774,9 @@ body {
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .holochainHeader__title {
+        font-size: 4rem; } }
   .holochainHeader__subtitle {
     font-size: 2rem;
     color: white;
@@ -852,11 +862,15 @@ body {
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .connectHeader__title {
+        font-size: 4rem; } }
   .connectHeader__subtitle {
     font-size: 2rem;
     color: white;
     font-weight: 500; }
   .connectHeader__button {
+    background-color: white;
     margin-top: 2rem;
     padding: 1.5rem 3rem;
     font-size: 1.4rem;
@@ -884,6 +898,9 @@ body {
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .declarationHeader__title {
+        font-size: 4rem; } }
   .declarationHeader__subtitle {
     font-size: 2rem;
     color: white;
@@ -957,6 +974,9 @@ body {
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .theProtocolHeader__title {
+        font-size: 4rem; } }
   .theProtocolHeader__subtitle {
     font-size: 2rem;
     color: white;
