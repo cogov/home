@@ -58,6 +58,20 @@
                     <p class="homeCollaborators__collaborator--text">S7&nbsp;Foundation</p>                
                 </a>
             </div>                                                             
+
+            <div class="homeCollaborators__collaborator">
+                <a class="homeCollaborators__collaborator" href="https://junto.foundation/" target="blank">            
+                    <img src="../../../assets/images/cogov__junto-logo.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">Junto<br />Foundation</p>                
+                </a>
+            </div>                                                             
+
+            <div class="homeCollaborators__collaborator">
+                <a class="homeCollaborators__collaborator" href="https://www.futureproper.world/" target="blank">            
+                    <img src="../../../assets/images/cogov__future-proper-logo.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">Future Proper</p>                
+                </a>
+            </div>                                                             
         </div>
     </div>
 </template>
