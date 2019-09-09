@@ -74,7 +74,7 @@
             </div>                                                             
 
             <div class="homeCollaborators__collaborator">
-                <a class="homeCollaborators__collaborator" href="#" target="blank">            
+                <a class="homeCollaborators__collaborator" href="http://earthwalkunited.org/" target="blank">            
                     <img src="../../../assets/images/cogov__earth-walk-logo.png" alt="" class="homeCollaborators__collaborator--logo">
                     <p class="homeCollaborators__collaborator--text">Earth&nbsp;Walk</p>                
                 </a>
