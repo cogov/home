@@ -45,7 +45,7 @@
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
-                        No central servers means the user is in control of their expierience.
+                        No central servers means the user is in control of their experience.
                         The Earth’s air is an unenclosable carrier for sound waves— a carrier that cannot be owned or 
                         controlled. With air, we can communicate with others because we 
                         can speak and be heard by others. Unenclosable communication is 
