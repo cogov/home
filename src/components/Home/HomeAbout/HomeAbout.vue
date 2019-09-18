@@ -7,7 +7,7 @@
                 <span class="homeAbout__subtitle">CoGov is</span> a 
                 <!-- a href="/the-protocol" class="addlink" -->Holochain protocol<!--/a --> that can be used in any 
                 <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
-                hold information about the operations of organizations.
+                share information about the operations of organizations.
             </h3>
             <br />
             <br />
