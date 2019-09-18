@@ -9,6 +9,7 @@
 @import './../src/pages/Connect/Connect';
 @import './../src/pages/Declaration/Declaration';
 @import './../src/pages/Protocol/Protocol';
+@import './../src/pages/Services/Services';
  
 // Global components
 @import './../src/components/Nav/Nav';
@@ -29,6 +30,10 @@
 // Protocol components
 @import './../src/components/Protocol/ProtocolHeader/ProtocolHeader'; 
 @import './../src/components/Protocol/ProtocolContent/ProtocolContent';
+
+// Services components
+@import './../src/components/Services/ServicesHeader/ServicesHeader'; 
+@import './../src/components/Services/ServicesContent/ServicesContent';
 
 // About components
 @import './../src/components/Founder/FounderQuote/FounderQuote';

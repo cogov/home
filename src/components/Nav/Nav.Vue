@@ -13,7 +13,10 @@
             </div>          
             <div class="nav__item">
                 <a href='/protocol' class="removelink">Protocol</a>
-            </div>                    
+            </div>           
+            <div class="nav__item">
+                <a href='/services' class="removelink">Services</a>
+            </div>                                
             <div class="nav__item">
                 <a href='/team/raymond-d-powell' class="removelink">Founder</a>
             </div>         
