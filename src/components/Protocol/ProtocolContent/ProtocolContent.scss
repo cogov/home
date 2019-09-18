@@ -21,4 +21,26 @@
         text-align: justify;
     }
 
+    &__image {
+        margin: 1.5rem 0;
+        &--one {
+            width: 40%;
+
+            @include respond(tab-port) {
+                width: 60%;
+            }
+        }
+
+        &--two {
+            width: 60%;
+            @include respond(tab-port) {
+                width: 80%;
+            }            
+        }
+
+        &--three {
+             width: 100%;
+        }
+    }
+
 }

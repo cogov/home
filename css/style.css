@@ -731,6 +731,20 @@ body {
     color: #333;
     font-weight: 500;
     text-align: justify; }
+  .protocolContent__image {
+    margin: 1.5rem 0; }
+    .protocolContent__image--one {
+      width: 40%; }
+      @media (max-width: 56.25em) {
+        .protocolContent__image--one {
+          width: 60%; } }
+    .protocolContent__image--two {
+      width: 60%; }
+      @media (max-width: 56.25em) {
+        .protocolContent__image--two {
+          width: 80%; } }
+    .protocolContent__image--three {
+      width: 100%; }
 
 .servicesHeader {
   padding: 12%;
