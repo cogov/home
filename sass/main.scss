@@ -8,6 +8,7 @@
 @import './../src/pages/Holochain/Holochain';                                    
 @import './../src/pages/Connect/Connect';
 @import './../src/pages/Declaration/Declaration';
+@import './../src/pages/Protocol/Protocol';
  
 // Global components
 @import './../src/components/Nav/Nav';
@@ -25,6 +26,10 @@
 @import './../src/components/Vision/VisionHeader/VisionHeader'; 
 @import './../src/components/Vision/VisionBody/VisionBody';
 
+// Protocol components
+@import './../src/components/Protocol/ProtocolHeader/ProtocolHeader'; 
+@import './../src/components/Protocol/ProtocolContent/ProtocolContent';
+
 // About components
 @import './../src/components/Founder/FounderQuote/FounderQuote';
 @import './../src/components/Founder/FounderFounder/FounderFounder';
@@ -36,16 +41,10 @@
 // Connect components
 @import './../src/components/Connect/ConnectHeader';
 
-// Declation components
+// Declaration components
 @import './../src/components/Declaration/DeclarationHeader/DeclarationHeader';
 @import './../src/components/Declaration/DeclarationContent/DeclarationContent';
 
 // WarOnSenseMaking components
 @import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader';
 @import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
-
-// InAction components
-@import './../src/components/TheProtocol/TheProtocolHeader/TheProtocolHeader';
-@import './../src/components/TheProtocol/TheProtocolContent/TheProtocolContent';
-
-

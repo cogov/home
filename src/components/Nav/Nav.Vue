@@ -10,22 +10,23 @@
         <div class="nav__items">
             <div class="nav__item">
                 <a href='/vision'  class="removelink">Vision</a>
-            </div>            
+            </div>          
+            <div class="nav__item">
+                <a href='/protocol' class="removelink">Protocol</a>
+            </div>                    
             <div class="nav__item">
                 <a href='/team/raymond-d-powell' class="removelink">Founder</a>
-            </div>
+            </div>         
             <div class="nav__item">
                 <a href='/holochain' class="removelink">Holochain</a>
-            </div>
+            </div>   
             <div class="nav__item">
                 <a href='/declaration' class="removelink">Declaration</a>
-            </div>            
-            <!-- div class="nav__item">
-                <a href='/the-protocol' class="removelink">The Protocol</a>
-            </div -->            
+            </div>                        
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
+            
 
             <a href="https://cogov.typeform.com/to/kMtTYt" target="blank" class="removelink">
                 <div class="nav__button">

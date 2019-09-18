@@ -6,7 +6,7 @@ import Holochain from './pages/Holochain/Holochain.vue'
 import Connect from './pages/Connect/Connect.vue'
 import Declaration from './pages/Declaration/Declaration.vue'
 import WarOnSenseMaking from './pages/WarOnSenseMaking/WarOnSenseMaking.vue'
-import TheProtocol from './pages/TheProtocol/TheProtocol.vue'
+import Protocol from './pages/Protocol/Protocol.vue'
 
 export const routes = [
     { path: '/', component: Home },
@@ -16,5 +16,5 @@ export const routes = [
     { path: '/connect', component: Connect },
     { path: '/declaration', component: Declaration },
     { path: '/war-on-sense-making', component: WarOnSenseMaking },
-    { path: '/the-protocol', component: TheProtocol },
+    { path: '/protocol', component: Protocol },
 ]

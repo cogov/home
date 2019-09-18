@@ -73,6 +73,12 @@ body {
   width: 100%;
   position: relative; }
 
+.protocol {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
 .nav {
   position: fixed;
   top: 0;
@@ -102,7 +108,7 @@ body {
     align-items: center; }
   .nav__item {
     margin-left: 3rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 500;
     color: #555;
     cursor: pointer;
@@ -681,6 +687,45 @@ body {
         .visionBody__levels--photo {
           width: 80%; } }
 
+.protocolHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__declaration.png");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .protocolHeader {
+      padding: 12% 4rem; } }
+  .protocolHeader__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .protocolHeader__title {
+        font-size: 4rem; } }
+  .protocolHeader__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+
+.protocolContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .protocolContent {
+      padding: 4rem; } }
+  .protocolContent__title {
+    font-size: 3.3rem;
+    color: #195C89;
+    font-weight: 600;
+    margin-bottom: 1rem; }
+  .protocolContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: justify; }
+
 .aboutQuote {
   padding: 12%;
   height: 85vh;
@@ -970,45 +1015,6 @@ body {
     color: white;
     font-weight: 500; }
   .warOnSenseMakingContent__body {
-    font-size: 1.7rem;
-    color: #333;
-    font-weight: 500;
-    text-align: justify; }
-
-.theProtocolHeader {
-  padding: 12%;
-  height: 85vh;
-  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__declaration.png");
-  background-position: center;
-  background-size: cover; }
-  @media (max-width: 56.25em) {
-    .theProtocolHeader {
-      padding: 12% 4rem; } }
-  .theProtocolHeader__title {
-    font-size: 5rem;
-    font-weight: 600;
-    color: white;
-    margin-bottom: 1rem; }
-    @media (max-width: 37.5em) {
-      .theProtocolHeader__title {
-        font-size: 4rem; } }
-  .theProtocolHeader__subtitle {
-    font-size: 2rem;
-    color: white;
-    font-weight: 500; }
-
-.theProtocolContent {
-  background-color: white;
-  padding: 4rem 17%; }
-  @media (max-width: 56.25em) {
-    .theProtocolContent {
-      padding: 4rem; } }
-  .theProtocolContent__title {
-    font-size: 3.3rem;
-    color: #195C89;
-    font-weight: 600;
-    margin-bottom: 1rem; }
-  .theProtocolContent__body {
     font-size: 1.7rem;
     color: #333;
     font-weight: 500;

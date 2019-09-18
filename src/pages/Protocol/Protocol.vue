@@ -1,6 +1,6 @@
 
 <template>
-    <div class="connect">
+    <div class="protocol">
         <!-- navigation -->
         <cogov-nav>
             <div slot="navIcon" class="nav__icon" @click="navOpen = true">
@@ -16,10 +16,10 @@
         </cogov-nav-open>       
 
         <!-- header -->
-        <cogov-the-protocol-header></cogov-the-protocol-header>
+        <cogov-protocol-header></cogov-protocol-header>
 
         <!-- content -->
-        <cogov-the-protocol-content></cogov-the-protocol-content>
+        <cogov-protocol-content></cogov-protocol-content>
     
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -29,8 +29,8 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
-    import cogovTheProtocolHeader from '../../components/TheProtocol/TheProtocolHeader/TheProtocolHeader.vue'
-    import cogovTheProtocolContent from '../../components/TheProtocol/TheProtocolContent/TheProtocolContent.vue'
+    import cogovProtocolHeader from '../../components/Protocol/ProtocolHeader/ProtocolHeader.vue'
+    import cogovProtocolContent from '../../components/Protocol/ProtocolContent/ProtocolContent.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -42,8 +42,8 @@
         components: {
             cogovNav,
             cogovNavOpen,
-            cogovTheProtocolHeader,
-            cogovTheProtocolContent,
+            cogovProtocolHeader,
+            cogovProtocolContent,
             cogovFooter
         }
     }
