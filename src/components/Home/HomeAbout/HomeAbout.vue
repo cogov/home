@@ -7,7 +7,7 @@
                 <span class="homeAbout__subtitle">CoGov is</span> a 
                 <!-- a href="/the-protocol" class="addlink" -->Holochain protocol<!--/a --> that can be used in any 
                 <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
-                hold information about the operations of organizations.
+                share information about the operations of organizations.
             </h3>
             <br />
             <br />
@@ -45,7 +45,7 @@
                 <div class="homeAbout__item--text homeAbout__item--text--right">
                     <h2 class="homeAbout__item--title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
-                        No central servers means the user is in control of their expierience.
+                        No central servers means the user is in control of their experience.
                         The Earth’s air is an unenclosable carrier for sound waves— a carrier that cannot be owned or 
                         controlled. With air, we can communicate with others because we 
                         can speak and be heard by others. Unenclosable communication is 
