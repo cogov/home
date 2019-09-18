@@ -12,6 +12,12 @@
             <a href="/vision" class="navOpen__body--item removelink">
                 Vision
             </a>
+            <a href="/protocol" class="navOpen__body--item removelink">
+                Protocol
+            </a>            
+            <a href="/services" class="navOpen__body--item removelink">
+                Services
+            </a>            
             <a href="/team/raymond-d-powell" class="navOpen__body--item removelink">
                 Founder
             </a>
