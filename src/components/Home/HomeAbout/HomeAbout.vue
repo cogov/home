@@ -8,7 +8,7 @@
                 <a href="/protocol" class="addlink">Holochain protocol</a> that can be used in any 
                 <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
                 share information about the operations of organizations. It also validates those
-                against the governance rules that have been previously established.
+                entries against the governance rules that have been previously established.
             </h3>
             <br />
             <br />
