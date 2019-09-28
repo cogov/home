@@ -12,7 +12,9 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass-bg": "node-sass sass/main.scss css/style.css -w &",
     "push": "git add . && git commit -m wip && git push",
-    "publish:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publish-input.txt"
+    "publish:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publish-hostgator-input.txt",
+    "publishall:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publishall-hostgator-input.txt",
+    "ftp": "echo \"cd public_html\" | ftp -P 2222 cogov@cogov.tech"
   },
   "dependencies": {
     "vue": "^2.5.11",

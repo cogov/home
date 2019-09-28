@@ -1,10 +1,15 @@
 <template>
   <div class="protocolContent">
+    <p class="protocolContent__title">A Protocol for a New Paradigm in Business and Government</p>
+    <p class="protocolContent__body">
+      A lot of what we rely on existing government and banking infrastructure to do for us is to act as a registry of information. The costs of relying on large, centralized structures for this relatively simple task is becoming more apparent each day. In order to allow for the emergence of something new that does not revert back into centralization, CoGov proposes a protocol for the transparent sharing of operations. This proposal is made on top of <a href="/holochain">Holochain</a>, which acts as an unenclosable carrier for transmissions using the <a href="/protocol">CoGov Protocol</a>.
+    </p>
+    <br />
     <p class="protocolContent__title">The CoGov Protocol</p>
     <p class="protocolContent__body">
       One way to describe <a href='/holochain' class="addlink" target="blank">Holochain</a> is the “protocol for protocols”. It allows developers to define protocols for information sharing, and then provides an ecosystem within which other developers can interact and iterate those protocols and their definitions with relative ease. CoGov is a Holochain protocol that can be used in any holochain application to share information about the operations of organizations.
       <br />
-      <br />With Holochain, every application is made up of one or more protocols. Each application runs its own holochain on its own terms. Each device that is running an application has a private source <a href="https://medium.com/@rayzer42/9039eba653a1" class="addlink" target="blank">chain</a>  that holds the app's “DNA”—the code that runs the app and ensures the protocols are being adhered to. Each app stores its data using the same type of <a href="https://en.wikipedia.org/wiki/BitTorrent" target="blank" class="addlink">distributed storage standards</a> that have been in operation for decades. This creates redundancy and validation of application data across randomized nodes.
+      <br />With Holochain, every application is made up of one or more protocols. Each application runs its own holochain on its own terms. Each device that is running an application has a private source <a href="https://medium.com/@rayzer42/9039eba653a1" class="addlink" target="blank">chain</a>  that holds the app's “DNA”—the code that runs the app and ensures the protocols are being adhered to. Each app stores its data using methods of <a href="https://en.wikipedia.org/wiki/BitTorrent" target="blank" class="addlink">distributed storage standards</a> that have been in operation for decades. This creates redundancy and validation of application data across randomized nodes.
     </p>
     <img src="../../../assets/images/cogov__protocol--one.png" alt="" class="protocolContent__image protocolContent__image--one">
     <br />
