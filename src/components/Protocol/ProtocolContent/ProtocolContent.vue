@@ -2,7 +2,9 @@
   <div class="protocolContent">
     <p class="protocolContent__title">A Protocol for a New Paradigm in Business and Government</p>
     <p class="protocolContent__body">
-      A lot of what we rely on existing government and banking infrastructure to do for us is to act as a registry of information. The costs of relying on large, centralized structures for this relatively simple task is becoming more apparent each day. In order to allow for the emergence of something new that does not revert back into centralization, CoGov proposes a protocol for the transparent sharing of operations. This proposal is made on top of <a href="/holochain">Holochain</a>, which acts as an unenclosable carrier for transmissions using the <a href="/protocol">CoGov Protocol</a>.
+      A lot of what we rely on existing government and banking infrastructure to do for us is to act as a registry of information. The costs of relying on large, centralized structures for this relatively simple task is becoming more apparent each day. In order to allow for the emergence of something new that does not revert back into centralization, CoGov proposes a protocol for the transparent sharing of operations. This proposal is made on top of <a href="/holochain">Holochain</a>, which acts as an unenclosable carrier for transmissions using the <a href="/protocol">CoGov Protocol</a>.<br />
+      <br />
+      Read More: <a href="https://medium.com/@rayzer42/cogov-defining-what-actually-happens-when-people-do-stuff-together-56a0d07c8a32">What Actually Happens When People “Do Stuff Together”</a>
     </p>
     <br />
     <p class="protocolContent__title">The CoGov Protocol</p>

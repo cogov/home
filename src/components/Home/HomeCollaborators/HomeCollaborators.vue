@@ -24,6 +24,20 @@
                 </a>
             </div>
 
+            <div class="homeCollaborators__collaborator" >
+                <a class="homeCollaborators__collaborator" href="https://superluminal.is/" target="blank">            
+                    <img src="../../../assets/images/cogov__superluminal-systems.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">Superluminal Systems</p>                
+                </a>
+            </div>
+
+            <div class="homeCollaborators__collaborator" >
+                <a class="homeCollaborators__collaborator" href="https://core.network/" target="blank">            
+                    <img src="../../../assets/images/cogov__core-network.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">Core.Network</p>                
+                </a>
+            </div>
+
             <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="https://www.unify.org/" target="blank">            
                     <img src="../../../assets/images/cogov__unify.png" alt="" class="homeCollaborators__collaborator--logo">
@@ -77,6 +91,13 @@
                 <a class="homeCollaborators__collaborator" href="http://earthwalkunited.org/" target="blank">            
                     <img src="../../../assets/images/cogov__earth-walk-logo.png" alt="" class="homeCollaborators__collaborator--logo">
                     <p class="homeCollaborators__collaborator--text">Earth&nbsp;Walk</p>                
+                </a>
+            </div>
+
+            <div class="homeCollaborators__collaborator">
+                <a class="homeCollaborators__collaborator" href="http://edenisrising.com/" target="blank">            
+                    <img src="../../../assets/images/cogov__eden-is-rising-logo.png" alt="" class="homeCollaborators__collaborator--logo">
+                    <p class="homeCollaborators__collaborator--text">Eden</p>                
                 </a>
             </div>                                                             
         </div>
