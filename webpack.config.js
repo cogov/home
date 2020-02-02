@@ -88,7 +88,14 @@ module.exports = {
     extensions: ['*', '.js', '.vue', '.json']
   },
   devServer: {
-    historyApiFallback: true,
+    historyApiFallback: {
+      rewrites: [{
+          from: /^\/.*$/,
+          to: function() {
+              return 'index.html';
+          }
+      }]
+    },
     noInfo: true,
     overlay: true
   },

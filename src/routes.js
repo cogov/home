@@ -7,6 +7,7 @@ import Connect from './pages/Connect/Connect.vue'
 import Declaration from './pages/Declaration/Declaration.vue'
 import WarOnSenseMaking from './pages/WarOnSenseMaking/WarOnSenseMaking.vue'
 import Protocol from './pages/Protocol/Protocol.vue'
+import ProtocolLove from './pages/Protocol.Love/Protocol.Love.vue'
 import Services from './pages/Services/Services.vue'
 
 export const routes = [
@@ -18,6 +19,7 @@ export const routes = [
     { path: '/declaration', component: Declaration },
     { path: '/war-on-sense-making', component: WarOnSenseMaking },
     { path: '/protocol', component: Protocol },
+    { path: '/protocol.love', component: ProtocolLove },
     { path: '/services', component: Services },
 
 ]
