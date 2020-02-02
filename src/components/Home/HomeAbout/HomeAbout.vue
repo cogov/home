@@ -4,11 +4,14 @@
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov is</span> a 
-                <a href="/protocol" class="addlink">Holochain protocol</a> that can be used in any 
-                <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
-                share information about the operations of organizations. It also validates those
-                entries against the governance rules that have been previously established.
+                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups with the shared goal
+                    of modeling a scalable social coordination system imbued with Loving Kindness (omini-win, anti-rivalrous).
+                    One key to accomplishing this goal, is the use of <a href="/protocol.love">protocol.love</a>.<br />
+                    <br />
+                    <a href="/protocol.love">Protocol.love</a> enables interoperability with our many partner projects, 
+                    many of which are also startup ecosystems. When we can create similar efficiencies of scale that 
+                    exist in the current global socioeconomic paradigm (Game A), we will create a magnetic attraction field
+                    within which evolutionary transformation can occur.
             </h3>
             <br />
             <br />
@@ -26,14 +29,17 @@
             <br>
             <h3 class="homeAbout__subtitle">From Individual Ownership to Collective Stewardship.</h3>
             <h3 class="homeAbout__body">
-                By supporting sovereign individuals in coming together to make sense, and make 
-                decisions, <strong>CoGov</strong>
-                provides a protocol for transparently sharing operations, and curating resources—
-                allowing even amateur developers to work with users to experiment with 
+                CoGov is a semi-autonomous socioeconomic ecosystem, powered by <a href="/protocol.love">protocol.love</a>, 
+                that enhances the ability of sovereign 
+                individuals to come together to make sense, and make 
+                decisions with the greatest holopticism (ability to see the whole). 
+                By sharing operations, and curating resources with <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>,
+                communities can work with even amateur developers to create 
                 new ways of sharing resources, contracts, data, money and cryptocurrencies, 
                 payments and transactions, IP, and other assets— all with complete assurance 
-                that whatever kind of governance they invent, it is interoperable with a greater
-                economy and ecosystem.
+                that whatever kind of asset governance they invent, creators are recognized, 
+                and scalability can be acheived through interoperability with other organizations
+                who are committed to <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> through <a href="/protocol.love">protocol.love</a>.
             </h3>
         </div>
 

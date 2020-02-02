@@ -12,7 +12,7 @@
             <a href="/vision" class="navOpen__body--item removelink">
                 Vision
             </a>
-            <a href="/protocol" class="navOpen__body--item removelink">
+            <a href="/protocol.love" class="navOpen__body--item removelink">
                 Protocol
             </a>            
             <a href="/services" class="navOpen__body--item removelink">
