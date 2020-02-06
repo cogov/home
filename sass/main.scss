@@ -31,6 +31,14 @@
 @import './../src/components/Protocol/ProtocolHeader/ProtocolHeader'; 
 @import './../src/components/Protocol/ProtocolContent/ProtocolContent';
 
+// Protocol Love components
+@import './../src/components/ProtocolLove/ProtocolLoveHeader/ProtocolLoveHeader'; 
+@import './../src/components/ProtocolLove/ProtocolLoveContent/ProtocolLoveContent';
+
+// War on Sensemaking components
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader'; 
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
+
 // Services components
 @import './../src/components/Services/ServicesHeader/ServicesHeader'; 
 @import './../src/components/Services/ServicesContent/ServicesContent';
@@ -50,6 +58,3 @@
 @import './../src/components/Declaration/DeclarationHeader/DeclarationHeader';
 @import './../src/components/Declaration/DeclarationContent/DeclarationContent';
 
-// WarOnSenseMaking components
-@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader';
-@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
