@@ -3,9 +3,9 @@
         <!-- backdrop -->
         <div class="homeHeader__backdrop--cover"></div>                
         <div class="homeHeader__backdrop">
-                    <!-- <video class="homeHeader__backdrop--video" playsinline autoplay muted loop>
+                    <video class="homeHeader__backdrop--video" playsinline autoplay muted loop>
                         <source src="./../../../assets/videos/sacred-geo.mp4.icloud" type="video/mp4">
-                    </video>             -->
+                    </video>            
         </div>        
 
         <div class="homeHeader__content">
