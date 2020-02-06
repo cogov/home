@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import App from './App.vue'
 import { routes } from './routes.js'
 
-import sacred_geo from './assets/videos/sacred-geo.mp4'
+// import sacred_geo from './assets/videos/sacred-geo.mp4.icloud'
 
 Vue.use(VueRouter)
 
