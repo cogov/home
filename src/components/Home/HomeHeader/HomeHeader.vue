@@ -4,7 +4,7 @@
         <div class="homeHeader__backdrop--cover"></div>                
         <div class="homeHeader__backdrop">
                     <video class="homeHeader__backdrop--video" playsinline autoplay muted loop>
-                        <source src="./../../../assets/videos/sacred-geo.mp4.icloud" type="video/mp4">
+                        <source src="./../../../assets/videos/sacred-geo.mp4" type="video/mp4">
                     </video>            
         </div>        
 
