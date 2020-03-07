@@ -1,6 +1,6 @@
-var path = require('path')
-var webpack = require('webpack')
-
+const path = require('path')
+const webpack = require('webpack')
+const VueLoaderPlugin = require('vue-loader/lib/plugin')
 module.exports = {
   entry: './src/main.js',
   output: {
@@ -8,6 +8,9 @@ module.exports = {
     publicPath: '/dist/',
     filename: 'build.js'
   },
+  plugins: [
+    new VueLoaderPlugin(),
+  ],
   module: {
     rules: [
       {
@@ -17,7 +20,6 @@ module.exports = {
           'css-loader'
         ],
       },
-
       {
         test: /\.(mov|mp4)$/,
         use: [
@@ -25,10 +27,10 @@ module.exports = {
             loader: 'file-loader',
             options: {
               name: 'sacred-geo.mp4'
-            }  
+            }
           }
         ]
-      },      
+      },
       {
         test: /\.scss$/,
         use: [
@@ -97,7 +99,6 @@ module.exports = {
   },
   devtool: '#eval-source-map'
 }
-
 if (process.env.NODE_ENV === 'production') {
   module.exports.devtool = '#source-map'
   // http://vue-loader.vuejs.org/en/workflow/production.html
