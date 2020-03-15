@@ -8,7 +8,7 @@
 @import './../src/pages/Holochain/Holochain';                                    
 @import './../src/pages/Connect/Connect';
 @import './../src/pages/Declaration/Declaration';
-@import './../src/pages/Protocol/Protocol';
+@import './../src/pages/TechSpecs/TechSpecs';
 @import './../src/pages/Services/Services';
  
 // Global components
@@ -27,9 +27,9 @@
 @import './../src/components/Vision/VisionHeader/VisionHeader'; 
 @import './../src/components/Vision/VisionBody/VisionBody';
 
-// Protocol components
-@import './../src/components/Protocol/ProtocolHeader/ProtocolHeader'; 
-@import './../src/components/Protocol/ProtocolContent/ProtocolContent';
+// TechSpecs components
+@import './../src/components/TechSpecs/TechSpecsHeader/TechSpecsHeader'; 
+@import './../src/components/TechSpecs/TechSpecsContent/TechSpecsContent';
 
 // Protocol Love components
 @import './../src/components/ProtocolLove/ProtocolLoveHeader/ProtocolLoveHeader'; 

@@ -4,8 +4,8 @@
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups with the shared goal
-                    of modeling a scalable social coordination system imbued with Loving Kindness (omini-win, anti-rivalrous).
+                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups, each having the shared goal
+                    of modeling a scalable social coordination system infused with Loving Kindness (omini-win, anti-rivalrous).
                     One key to accomplishing this goal, is the use of <a href="/protocol.love">protocol.love</a>.<br />
                     <br />
                     <a href="/protocol.love">Protocol.love</a> enables interoperability with our many partner projects, 

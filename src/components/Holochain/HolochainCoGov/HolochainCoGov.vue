@@ -4,7 +4,7 @@
         <div class="holochainCoGov__body">
             <div class="holochainCoGov__left">
                 <div class="holochainCoGov__logo--container">   
-                    <img class="holochainCoGov__logo" src="./../../../assets/images/holochain-logo.png" />
+                    <img class="holochainCoGov__logo" src="/src/assets/images/holochain-logo.png" />
                     <p class="holochainCoGov__title">Holochain</p>                    
                 </div>
 
@@ -14,7 +14,7 @@
             </div>
             <div class="holochainCoGov__right">
                 <div class="holochainCoGov__logo--container">
-                    <img class="holochainCoGov__logo" src="./../../../assets/images/holo-logo.png" />
+                    <img class="holochainCoGov__logo" src="/src/assets/images/holo-logo.png" />
                     <p class="holochainCoGov__title">
                         Holo
                     </p>                    

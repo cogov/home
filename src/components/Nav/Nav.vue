@@ -12,8 +12,14 @@
                 <a href='/vision'  class="removelink">Vision</a>
             </div>          
             <div class="nav__item">
-                <a href='/protocol.love' class="removelink">Protocol</a>
+                <a href='/protocol.love' class="removelink">Protocol.Love</a>
+            </div>  
+            <div class="nav__item">
+                <a href='/specs' class="removelink">Tech Specs</a>
             </div>           
+            <div class="nav__item">
+                <a href='/ecosystem' class="removelink">Ecosystem</a>
+            </div>      
             <div class="nav__item">
                 <a href='/services' class="removelink">Services</a>
             </div>                                

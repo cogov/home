@@ -2,13 +2,19 @@
   <div class="protocolLoveContent">
     <p class="protocolLoveContent__title">A Protocol for a New Paradigm in Business and Government</p>
     <p class="protocolLoveContent__body">
+
+      A lot of what we rely on existing government and banking infrastructure to do for us is to act as a registry of information. The costs of relying on large, centralized structures for this relatively simple task is becoming more apparent each day. In order to allow for the emergence of something new that does not revert back into the dysfunctional standards, CoGov proposes a protocol for the transparent sharing of operations. 
+      <br /><br />
       Protocol.Love is a proposal to imbue Loving Kindness into socioeconomic systems. It does so by providing standards through which organizations can embody their commitment to Vulnerable Transparency.
-      <br><br>
       Ultimately, by having large amounts of data shared on distributed ledgers with a standard protocol for Vulnerable Transparency, we will be able to algorithmically identify Loving and Kind behavior– which is inherently anti-rivalrous, and omni-win.
       <br><br>
-      Read the background here: A Digital Protocol for Scaling Loving Kindness
+      Read the background here: <a target="_blank" href="*ARTICLE_URL*">A Digital Protocol for Scaling Loving Kindness</a>
       <br><br>
-  <p>
+      While Protocol.Love is technically distributed ledger agnostic, it is optimally designed for <a href="/holochain">Holochain</a>, which acts as an unenclosable carrier for transmissions using the <a href="/protocol">CoGov Protocol</a>.<br />
+      <br />
+      Read More: <a href="https://medium.com/@rayzer42/cogov-defining-what-actually-happens-when-people-do-stuff-together-56a0d07c8a32">What Actually Happens When People “Do Stuff Together”</a><br />
+      <br />
+      <p>
           <p class="protocolLoveContent__subtitle">Definitions<p/>
           <p class="protocolLoveContent__caption">      
             Current-See / Currency
