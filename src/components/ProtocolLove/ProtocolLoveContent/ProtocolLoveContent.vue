@@ -5,15 +5,12 @@
 
       A lot of what we rely on existing government and banking infrastructure to do for us is to act as a registry of information. The costs of relying on large, centralized structures for this relatively simple task is becoming more apparent each day. In order to allow for the emergence of something new that does not revert back into the dysfunctional standards, CoGov proposes a protocol for the transparent sharing of operations. 
       <br /><br />
-      Protocol.Love is a proposal to imbue Loving Kindness into socioeconomic systems. It does so by providing standards through which organizations can embody their commitment to Vulnerable Transparency.
-      Ultimately, by having large amounts of data shared on distributed ledgers with a standard protocol for Vulnerable Transparency, we will be able to algorithmically identify Loving and Kind behavior– which is inherently anti-rivalrous, and omni-win.
+      Protocol.Love is a proposal to imbue <a href="*ARTICLE_URL*" target="_blank">Loving Kindness</a> into socioeconomic systems. It does so by providing standards through which organizations can embody their commitment to <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>.
+      Ultimately, by having large amounts of data shared on distributed ledgers with a standard protocol for <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>, we will be able to algorithmically identify Loving and Kind behavior– which is inherently anti-rivalrous, and omni-win.
       <br><br>
       Read the background here: <a target="_blank" href="*ARTICLE_URL*">A Digital Protocol for Scaling Loving Kindness</a>
       <br><br>
-      While Protocol.Love is technically distributed ledger agnostic, it is optimally designed for <a href="/holochain">Holochain</a>, which acts as an unenclosable carrier for transmissions using the <a href="/protocol">CoGov Protocol</a>.<br />
-      <br />
-      Read More: <a href="https://medium.com/@rayzer42/cogov-defining-what-actually-happens-when-people-do-stuff-together-56a0d07c8a32">What Actually Happens When People “Do Stuff Together”</a><br />
-      <br />
+
       <p>
           <p class="protocolLoveContent__subtitle">Definitions<p/>
           <p class="protocolLoveContent__caption">      
@@ -34,7 +31,7 @@
             <br><br>
   </p>
   <p class="protocolLoveContent__subtitle"> 
-          In order for a Collective to operate with Vulnerable Transparency, what does it need to share?
+          In order for a Collective to operate with <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>, what does it need to share?
 </p>
   <p class="protocolLoveContent__body">
 
@@ -64,7 +61,7 @@
 <p class="protocolLoveContent__body"> 
       <span class="protocolLoveContent__caption">Collective Foundational Document</span>  
       <br>
-      Protocol.love brings Vulnerable Transparency to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan. Read more: Collective Foundational Document Template
+      Protocol.love brings <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan. Read more: Collective Foundational Document Template
       <br><br>
       <span class="protocolLoveContent__caption">Currency Categories</span>  
       <br>
@@ -72,15 +69,15 @@
       <br><br>
       <span class="protocolLoveContent__caption">Influence Currency</span>  
       <br>  
-      An Influence Currency enhances Vulnerable Transparency to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions. Read more: Broken Assumptions of Governance.
+      An Influence Currency enhances <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions. Read more: Broken Assumptions of Governance.
       <br><br>
       <span class="protocolLoveContent__caption">Equity Currency</span>  
       <br>
-      An Equity Currency enhances Vulnerable Transparency by sharing flows around who holds the value of an asset or set of assets (Game A “ownership). Often times, it is the same people who made value contributions to an asset, but not necessarily. Much like how we think of equity in the form of a share of stock, an Equity Currency is a representation of a portion of value of an asset, or a set of assets. The value of a unit of an Equity Currency can be estimated by looking at the total value of the asset(s) that back any particular type of Equity Currency, and dividing by the total number of units of the Equity Currency that has been issued against it. Any Collective can create any number of Equity Currencies, each backed by a different asset or set of assets.
+      An Equity Currency enhances <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> by sharing flows around who holds the value of an asset or set of assets (Game A “ownership). Often times, it is the same people who made value contributions to an asset, but not necessarily. Much like how we think of equity in the form of a share of stock, an Equity Currency is a representation of a portion of value of an asset, or a set of assets. The value of a unit of an Equity Currency can be estimated by looking at the total value of the asset(s) that back any particular type of Equity Currency, and dividing by the total number of units of the Equity Currency that has been issued against it. Any Collective can create any number of Equity Currencies, each backed by a different asset or set of assets.
       <br><br>
       <span class="protocolLoveContent__caption">Impact Currency</span>  
       <br>
-      Protocol.love defines impact as: that which affects the lives of real people. Impact Currency brings Vulnerable Transparency to the ways a Collective is affecting the ecosystems in which it interacts. As impact flows are identified by those outside the Collective, they provide feedback to the Collective about the impacts they are having. With these transparent currency flows being recorded, working relationships can be formed between Collectives to attempt to ensure a net positive impact.
+      Protocol.love defines impact as: that which affects the lives of real people. Impact Currency brings <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> to the ways a Collective is affecting the ecosystems in which it interacts. As impact flows are identified by those outside the Collective, they provide feedback to the Collective about the impacts they are having. With these transparent currency flows being recorded, working relationships can be formed between Collectives to attempt to ensure a net positive impact.
       <br><br>
             <span class="protocolLoveContent__caption">Fiat Currency</span>  
 <br>
@@ -88,7 +85,7 @@
       <br><br>  
       <span class="protocolLoveContent__caption">Decision Making</span>  
       <br>
-      Protocol.love enhances Vulnerable Transparency in decision making by naming the 3 fundamental steps that happen in any group decision making process, and providing the means to share these processes in a way that deeply informs interested parties.
+      Protocol.love enhances <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> in decision making by naming the 3 fundamental steps that happen in any group decision making process, and providing the means to share these processes in a way that deeply informs interested parties.
       <br><br>
         First, there is a proposal made (instantiated). Second, the proposal is discussed (Iterated). Third, the proposal is resolved. Protocol.love provides a standard means for recording Proposal Instantiation, Proposal Iteration, and Proposal Resolution, as well as a means for recording how those processes are handled within the Collective.
     </p>

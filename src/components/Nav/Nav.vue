@@ -35,14 +35,12 @@
             <div class="nav__item">
                 <a href='/connect' class="removelink">Connect</a>
             </div>
-            
 
             <a href="https://cogov.typeform.com/to/kMtTYt" target="blank" class="removelink">
                 <div class="nav__button">
                     Whitepaper
                 </div>
             </a>
-
 
             <slot name="navIcon"></slot>
         </div>

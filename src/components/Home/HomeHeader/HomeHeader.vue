@@ -14,7 +14,7 @@
             <h2 class="homeHeader__title">Collaborative Governance Technologies</h2>
             
             <h3 class="homeHeader__subtitle">
-                Modeling Scalable Social Coordination Systems Imbued with <a href="*ARTICLE_URL*" class="removelink underline" target="_blank">Loving Kindness</a>
+                Modeling Scalable Social Coordination Systems Infused with <a href="*ARTICLE_URL*" class="removelink underline" target="_blank">Loving Kindness</a>
                 <!-- CoGov fosters the emergence of coherent collective intelligence by enabling the rapid iteration 
                 of governance and social coordination systems that YOU design! -->
             </h3>            

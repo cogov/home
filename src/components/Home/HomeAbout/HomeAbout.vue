@@ -4,14 +4,18 @@
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups, each having the shared goal
-                    of modeling a scalable social coordination system infused with Loving Kindness (omini-win, anti-rivalrous).
+                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups, with each startup having the goal of
+                    modeling its operations such that it is infused with <a href="*ARTICLE_URL*" target="_blank">Loving Kindness</a> and <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
                     One key to accomplishing this goal, is the use of <a href="/protocol.love">protocol.love</a>.<br />
                     <br />
-                    <a href="/protocol.love">Protocol.love</a> enables interoperability with our many partner projects, 
-                    many of which are also startup ecosystems. When we can create similar efficiencies of scale that 
-                    exist in the current global socioeconomic paradigm (Game A), we will create a magnetic attraction field
-                    within which evolutionary transformation can occur.
+                    The success of this endeavor relies on the ability to
+                    create similar efficiencies of scale that exist in the current global socioeconomic paradigm (Game A).
+                    In order to accomplish this goal at a such a scale, interoperability is critical. 
+                    <a href="/protocol.love">Protocol.love</a> enables this interoperatbility 
+                    for all those who choose a commitment to <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>.  
+                    
+                    As each of our partner projects (many of which are also startup ecosystems) reach maturity, we will create a magnetic attraction field
+                    within which evolutionary transformation can occur within the global socioeconomic paradigm.
             </h3>
             <br />
             <br />
