@@ -5,14 +5,14 @@
         <cogov-nav>
             <div slot="navIcon" class="nav__icon" @click="navOpen = true">
                 <a class="removelink">
-                    <img src="../../assets/images/cogov__menu.png" alt="" class="nav__mobile">
+                    <img src="/src/assets/images/cogov__menu.png" alt="" class="nav__mobile">
                 </a>
             </div>                    
         </cogov-nav>
 
         <!-- navigation -->
         <cogov-nav-open v-if="navOpen">
-            <img @click="navOpen = false" slot="navClose" class="navOpen__nav--icon" src="../../assets/images/cogov__menu.png">                        
+            <img @click="navOpen = false" slot="navClose" class="navOpen__nav--icon" src="/src/assets/images/cogov__menu.png">                        
         </cogov-nav-open>       
 
         <!-- connect header -->

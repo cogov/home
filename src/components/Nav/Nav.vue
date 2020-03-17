@@ -3,7 +3,7 @@
     <div class="nav">
         <a href="/" class="removelink">
             <div class="nav__logo--container">
-                <img class="nav__logo--image" src="../../assets/images/cogov__logo--blue.png" alt="">
+                <img class="nav__logo--image" src="/src/assets/images/cogov__logo--blue.png" alt="">
                 <p class="nav__logo--text">CoGov</p>            
             </div>        
         </a>

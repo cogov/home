@@ -10,14 +10,10 @@
                 Home
             </a>
             <a href="/protocol.love" class="navOpen__body--item removelink">
-                Protocol
+                Protocol.Love
             </a>
-            <div class="nav__item">
-                <a href='/specs' class="removelink">Tech Specs</a>
-            </div>           
-            <div class="nav__item">
-                <a href='/ecosystem' class="removelink">Ecosystem</a>
-            </div>      
+            <a href='/specs' class="navOpen__body--item removelink">Tech Specs</a>
+            <a href='/ecosystem' class="navOpen__body--item removelink">Ecosystem</a>
             <a href="/services" class="navOpen__body--item removelink">
                 Services
             </a>            
