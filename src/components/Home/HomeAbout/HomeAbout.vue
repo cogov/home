@@ -14,7 +14,7 @@
                     for all those who choose a commitment to <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>.  
                     
                     As each of our partner projects (many of which are also startup ecosystems) reach maturity, we will create a magnetic attraction field
-                    within which evolutionary transformation can ultimately lead to the transformation of the global socioeconomic paradigm.
+                    that can ultimately lead to the total transformation of the global socioeconomic paradigm.
             </h3>
             <br />
             <br />
