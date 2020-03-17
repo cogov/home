@@ -14,9 +14,10 @@
     "push": "git add . && git commit -m wip && git push",
     "publish:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publish-hostgator-input.txt",
     "publishall:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publishall-hostgator-input.txt",
-    "ftp": "echo \"cd public_html\" | ftp -P 2222 cogov@cogov.tech"
+    "ftp": "echo \"cd public_html\" | sftp -P 2222 cogov@cogov.tech"
   },
   "dependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
   },
@@ -35,9 +36,10 @@
     "file-loader": "^1.1.4",
     "node-sass": "^4.13.1",
     "sass-loader": "^6.0.6",
-    "vue-loader": "^13.0.5",
+    "vue-loader": "latest",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^3.6.0",
+    "webpack": "^4",
+    "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.1.11"
   }
 }
