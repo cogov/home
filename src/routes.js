@@ -9,6 +9,7 @@ import WarOnSenseMaking from './pages/WarOnSenseMaking/WarOnSenseMaking.vue'
 import TechSpecs from './pages/TechSpecs/TechSpecs.vue'
 import ProtocolLove from './pages/Protocol.Love/Protocol.Love.vue'
 import Services from './pages/Services/Services.vue'
+import Ecosystem from './pages/Ecosystem/Ecosystem.vue'
 
 export const routes = [
     { path: '/', component: Home },
@@ -21,5 +22,6 @@ export const routes = [
     { path: '/specs', component: TechSpecs },
     { path: '/protocol.love', component: ProtocolLove },
     { path: '/services', component: Services },
+    { path: '/ecosystem', component: Ecosystem }
 
 ]

@@ -4,9 +4,8 @@
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a ecosystem of startups, with each startup having the goal of
-                    modeling its operations such that it is infused with <a href="*ARTICLE_URL*" target="_blank">Loving Kindness</a> and <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
-                    One key to accomplishing this goal, is the use of <a href="/protocol.love">protocol.love</a>.<br />
+                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a <a href="/ecosystem">ecosystem of startups</a>, with each startup modeling its operations to be infused with <a href="*ARTICLE_URL*" target="_blank">Loving Kindness</a> and <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
+                    Keys to accomplishing this goal include the implementation of a common, shared cryptocurrency and <a href="/protocol.love">protocol.love</a>.<br />
                     <br />
                     The success of this endeavor relies on the ability to
                     create similar efficiencies of scale that exist in the current global socioeconomic paradigm (Game A).
@@ -15,7 +14,7 @@
                     for all those who choose a commitment to <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a>.  
                     
                     As each of our partner projects (many of which are also startup ecosystems) reach maturity, we will create a magnetic attraction field
-                    within which evolutionary transformation can occur within the global socioeconomic paradigm.
+                    within which evolutionary transformation can ultimately lead to the transformation of the global socioeconomic paradigm.
             </h3>
             <br />
             <br />

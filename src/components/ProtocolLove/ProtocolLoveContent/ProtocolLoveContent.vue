@@ -87,7 +87,13 @@
       <br>
       Protocol.love enhances <a href="*ARTICLE_URL*" target="_blank">Vulnerable Transparency</a> in decision making by naming the 3 fundamental steps that happen in any group decision making process, and providing the means to share these processes in a way that deeply informs interested parties.
       <br><br>
-        First, there is a proposal made (instantiated). Second, the proposal is discussed (Iterated). Third, the proposal is resolved. Protocol.love provides a standard means for recording Proposal Instantiation, Proposal Iteration, and Proposal Resolution, as well as a means for recording how those processes are handled within the Collective.
+        First, there is a proposal made (instantiated). Second, the proposal is discussed (Iterated). Third, the proposal is resolved. Protocol.love provides a standard means for recording Proposal Instantiation, Proposal Iteration, and Proposal Resolution, as well as a means for recording how those processes are handled within the Collective.<br />
+        <br />
+      <span class="protocolLoveContent__caption">Further Reading</span>
+      <br />
+      Many folks have been reading and collaborating around these ideas since 2016 through a Google Doc which was aptly named
+      The Digital Co-Governance Web:<br />
+      <a target="_blank" href="https://docs.google.com/document/d/1rAtv9VT68X2BvsZRq_4Hf2nT3aqJopCEFsSlzbn2uEw">https://docs.google.com/document/d/1rAtv9VT68X2BvsZRq_4Hf2nT3aqJopCEFsSlzbn2uEw</a>.
     </p>
   </div>
 </template>

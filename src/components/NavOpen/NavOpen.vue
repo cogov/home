@@ -9,12 +9,15 @@
             <a href="/" class="navOpen__body--item removelink">
                 Home
             </a>
-            <a href="/vision" class="navOpen__body--item removelink">
-                Vision
-            </a>
             <a href="/protocol.love" class="navOpen__body--item removelink">
                 Protocol
-            </a>            
+            </a>
+            <div class="nav__item">
+                <a href='/specs' class="removelink">Tech Specs</a>
+            </div>           
+            <div class="nav__item">
+                <a href='/ecosystem' class="removelink">Ecosystem</a>
+            </div>      
             <a href="/services" class="navOpen__body--item removelink">
                 Services
             </a>            

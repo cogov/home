@@ -88,13 +88,6 @@
             </div>                                                             
 
             <div class="homeCollaborators__collaborator">
-                <a class="homeCollaborators__collaborator" href="http://earthwalkunited.org/" target="blank">            
-                    <img src="/src/assets/images/cogov__earth-walk-logo.png" alt="" class="homeCollaborators__collaborator--logo">
-                    <p class="homeCollaborators__collaborator--text">Earth&nbsp;Walk</p>                
-                </a>
-            </div>
-
-            <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="http://edenisrising.com/" target="blank">            
                     <img src="/src/assets/images/cogov__eden-is-rising-logo.png" alt="" class="homeCollaborators__collaborator--logo">
                     <p class="homeCollaborators__collaborator--text">Eden</p>                

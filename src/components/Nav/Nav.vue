@@ -7,10 +7,7 @@
                 <p class="nav__logo--text">CoGov</p>            
             </div>        
         </a>
-        <div class="nav__items">
-            <div class="nav__item">
-                <a href='/vision'  class="removelink">Vision</a>
-            </div>          
+        <div class="nav__items">      
             <div class="nav__item">
                 <a href='/protocol.love' class="removelink">Protocol.Love</a>
             </div>  
