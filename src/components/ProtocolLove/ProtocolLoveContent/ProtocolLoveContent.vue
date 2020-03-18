@@ -18,7 +18,7 @@
           </p>
 
     <p class="protocolLoveContent__body">
-      “All living systems are dynamic. There is always movement and flow.” Human socioeconomic systems are living systems, and are no different in that way. If we can create a socioeconomic environment where the goal is to maximize our ability to SEE the CURRENT in the flows (holopticism) of nature at all levels, we can better mimic those flows in sustainable and regenerative ways in our human systems. Therefore, we believe it is appropriate to use the word currency, or current-see, as a representation of our ability to notice, record, and better synchronize our activities with those natural flows, both in nature, and in human systems.
+      “All living systems are dynamic. There is always movement and flow.” Human socioeconomic systems are living systems, and are no different in that way. If we can create a socioeconomic environment where the goal is to maximize our ability to SEE the CURRENT in the flows (holopticism) of nature at all levels, we can better mimic those flows in sustainable and regenerative ways in our human systems. Therefore, we believe it is appropriate to use the word currency, or current-see, as a representation of our ability to notice, record, and better synchronize our activities with those flows, both in nature, and in human systems.
             <br><br>
     </p>
           <p class="protocolLoveContent__caption">      
