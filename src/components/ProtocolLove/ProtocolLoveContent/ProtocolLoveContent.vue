@@ -61,7 +61,9 @@
 <p class="protocolLoveContent__body"> 
       <span class="protocolLoveContent__caption">Collective Foundational Document</span>  
       <br>
-      Protocol.love brings <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan. Read more: Collective Foundational Document Template
+      Protocol.love brings <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan.<br />
+      <br />
+      Read more: <a target="_blank" href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA">Collective Foundational Document Template</a>
       <br><br>
       <span class="protocolLoveContent__caption">Currency Categories</span>  
       <br>
@@ -69,7 +71,9 @@
       <br><br>
       <span class="protocolLoveContent__caption">Influence Currency</span>  
       <br>  
-      An Influence Currency enhances <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions. Read more: Broken Assumptions of Governance.
+      An Influence Currency enhances <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions.<br />
+      <br />
+      Read more: <a target="_blank" href="https://medium.com/metacurrency-project/broken-assumptions-of-governance-63cc946ccc6c">Broken Assumptions of Governance.</a>
       <br><br>
       <span class="protocolLoveContent__caption">Equity Currency</span>  
       <br>
