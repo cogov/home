@@ -7,5 +7,6 @@ cd assets
 lcd src
 lcd assets
 put -r images
+put -r videos
 quit
 

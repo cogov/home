@@ -8,8 +8,10 @@
 @import './../src/pages/Holochain/Holochain';                                    
 @import './../src/pages/Connect/Connect';
 @import './../src/pages/Declaration/Declaration';
-@import './../src/pages/Protocol/Protocol';
+@import './../src/pages/TechSpecs/TechSpecs';
 @import './../src/pages/Services/Services';
+@import './../src/pages/Protocol.Love/Protocol.Love';
+@import './../src/pages/Ecosystem/Ecosystem';
  
 // Global components
 @import './../src/components/Nav/Nav';
@@ -27,9 +29,26 @@
 @import './../src/components/Vision/VisionHeader/VisionHeader'; 
 @import './../src/components/Vision/VisionBody/VisionBody';
 
-// Protocol components
-@import './../src/components/Protocol/ProtocolHeader/ProtocolHeader'; 
-@import './../src/components/Protocol/ProtocolContent/ProtocolContent';
+// TechSpecs components
+@import './../src/components/TechSpecs/TechSpecsHeader/TechSpecsHeader'; 
+@import './../src/components/TechSpecs/TechSpecsContent/TechSpecsContent';
+
+// Protocol Love components
+@import './../src/components/ProtocolLove/ProtocolLoveHeader/ProtocolLoveHeader'; 
+@import './../src/components/ProtocolLove/ProtocolLoveContent/ProtocolLoveContent';
+
+// Ecosystem components
+@import './../src/components/Ecosystem/EcosystemHeader/EcosystemHeader'; 
+@import './../src/components/Ecosystem/EcosystemContent/EcosystemContent';
+
+// War on Sensemaking components
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader'; 
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
+
+
+// War on Sensemaking components
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader'; 
+@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';
 
 // Services components
 @import './../src/components/Services/ServicesHeader/ServicesHeader'; 
@@ -50,6 +69,3 @@
 @import './../src/components/Declaration/DeclarationHeader/DeclarationHeader';
 @import './../src/components/Declaration/DeclarationContent/DeclarationContent';
 
-// WarOnSenseMaking components
-@import './../src/components/WarOnSenseMaking/WarOnSenseMakingHeader/WarOnSenseMakingHeader';
-@import './../src/components/WarOnSenseMaking/WarOnSenseMakingContent/WarOnSenseMakingContent';

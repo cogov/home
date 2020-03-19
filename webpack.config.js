@@ -90,7 +90,14 @@ module.exports = {
     extensions: ['*', '.js', '.vue', '.json']
   },
   devServer: {
-    historyApiFallback: true,
+    historyApiFallback: {
+      rewrites: [{
+          from: /^\/.*$/,
+          to: function() {
+              return 'index.html';
+          }
+      }]
+    },
     noInfo: true,
     overlay: true
   },
@@ -106,12 +113,6 @@ if (process.env.NODE_ENV === 'production') {
     new webpack.DefinePlugin({
       'process.env': {
         NODE_ENV: '"production"'
-      }
-    }),
-    new webpack.optimize.UglifyJsPlugin({
-      sourceMap: true,
-      compress: {
-        warnings: false
       }
     }),
     new webpack.LoaderOptionsPlugin({

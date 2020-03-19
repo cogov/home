@@ -6,8 +6,10 @@ import Holochain from './pages/Holochain/Holochain.vue'
 import Connect from './pages/Connect/Connect.vue'
 import Declaration from './pages/Declaration/Declaration.vue'
 import WarOnSenseMaking from './pages/WarOnSenseMaking/WarOnSenseMaking.vue'
-import Protocol from './pages/Protocol/Protocol.vue'
+import TechSpecs from './pages/TechSpecs/TechSpecs.vue'
+import ProtocolLove from './pages/Protocol.Love/Protocol.Love.vue'
 import Services from './pages/Services/Services.vue'
+import Ecosystem from './pages/Ecosystem/Ecosystem.vue'
 
 export const routes = [
     { path: '/', component: Home },
@@ -17,7 +19,9 @@ export const routes = [
     { path: '/connect', component: Connect },
     { path: '/declaration', component: Declaration },
     { path: '/war-on-sense-making', component: WarOnSenseMaking },
-    { path: '/protocol', component: Protocol },
+    { path: '/specs', component: TechSpecs },
+    { path: '/protocol.love', component: ProtocolLove },
     { path: '/services', component: Services },
+    { path: '/ecosystem', component: Ecosystem }
 
 ]

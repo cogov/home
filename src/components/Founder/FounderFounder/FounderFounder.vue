@@ -2,7 +2,7 @@
 <template>
     <div class="aboutFounder">
         <div class="aboutFounder__left">
-            <img class="aboutFounder__left--image" src="../../../assets/images/cogov__founder.png" alt="">
+            <img class="aboutFounder__left--image" src="/src/assets/images/cogov__founder.png" alt="">
 
         </div>
 

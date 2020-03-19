@@ -9,12 +9,11 @@
             <a href="/" class="navOpen__body--item removelink">
                 Home
             </a>
-            <a href="/vision" class="navOpen__body--item removelink">
-                Vision
+            <a href="/protocol.love" class="navOpen__body--item removelink">
+                Protocol.Love
             </a>
-            <a href="/protocol" class="navOpen__body--item removelink">
-                Protocol
-            </a>            
+            <a href='/specs' class="navOpen__body--item removelink">Tech Specs</a>
+            <a href='/ecosystem' class="navOpen__body--item removelink">Ecosystem</a>
             <a href="/services" class="navOpen__body--item removelink">
                 Services
             </a>            

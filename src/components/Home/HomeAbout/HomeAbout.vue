@@ -4,11 +4,17 @@
         <div class="homeAbout__header">
             <h2 class="homeAbout__title">What is CoGov?</h2>
             <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov is</span> a 
-                <a href="/protocol" class="addlink">Holochain protocol</a> that can be used in any 
-                <a href="/holochain" class="addlink">holochain</a> application to contain entries that 
-                share information about the operations of organizations. It also validates those
-                entries against the governance rules that have been previously established.
+                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a <a href="/ecosystem">ecosystem of startups</a>, with each startup modeling its operations to be infused with <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Loving Kindness</a> and <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
+                    Keys to accomplishing this goal include the implementation of a common, shared cryptocurrency and <a href="/protocol.love">protocol.love</a>.<br />
+                    <br />
+                    The success of this endeavor relies on the ability to
+                    create similar efficiencies of scale that exist in the current global socioeconomic paradigm (Game A).
+                    In order to accomplish this goal at a such a scale, interoperability is critical. 
+                    <a href="/protocol.love">Protocol.love</a> enables this interoperatbility 
+                    for all those who choose a commitment to <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>.  
+                    
+                    As each of our partner projects (many of which are also startup ecosystems) reach maturity, we will create a magnetic attraction field
+                    that can ultimately lead to the total transformation of the global socioeconomic paradigm.
             </h3>
             <br />
             <br />
@@ -26,14 +32,17 @@
             <br>
             <h3 class="homeAbout__subtitle">From Individual Ownership to Collective Stewardship.</h3>
             <h3 class="homeAbout__body">
-                By supporting sovereign individuals in coming together to make sense, and make 
-                decisions, <strong>CoGov</strong>
-                provides a protocol for transparently sharing operations, and curating resources—
-                allowing even amateur developers to work with users to experiment with 
+                CoGov is a semi-autonomous socioeconomic ecosystem, powered by <a href="/protocol.love">protocol.love</a>, 
+                that enhances the ability of sovereign 
+                individuals to come together to make sense, and make 
+                decisions with the greatest holopticism (ability to see the whole). 
+                By sharing operations, and curating resources with <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>,
+                communities can work with even amateur developers to create 
                 new ways of sharing resources, contracts, data, money and cryptocurrencies, 
                 payments and transactions, IP, and other assets— all with complete assurance 
-                that whatever kind of governance they invent, it is interoperable with a greater
-                economy and ecosystem.
+                that whatever kind of asset governance they invent, creators are recognized, 
+                and scalability can be acheived through interoperability with other organizations
+                who are committed to <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> through <a href="/protocol.love">protocol.love</a>.
             </h3>
         </div>
 

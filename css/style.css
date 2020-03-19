@@ -85,6 +85,18 @@ body {
   width: 100%;
   position: relative; }
 
+.protocolLove {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
+.protocolLove {
+  margin-top: 7rem;
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
 .nav {
   position: fixed;
   top: 0;
@@ -693,58 +705,250 @@ body {
         .visionBody__levels--photo {
           width: 80%; } }
 
-.protocolHeader {
+.techSpecsHeader {
   padding: 12%;
   height: 85vh;
   background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__protocol.png");
   background-position: center;
   background-size: cover; }
   @media (max-width: 56.25em) {
-    .protocolHeader {
+    .techSpecsHeader {
       padding: 12% 4rem; } }
-  .protocolHeader__title {
+  .techSpecsHeader__title {
     font-size: 5rem;
     font-weight: 600;
     color: white;
     margin-bottom: 1rem; }
     @media (max-width: 37.5em) {
-      .protocolHeader__title {
+      .techSpecsHeader__title {
         font-size: 4rem; } }
-  .protocolHeader__subtitle {
+  .techSpecsHeader__subtitle {
     font-size: 2rem;
     color: white;
     font-weight: 500; }
 
-.protocolContent {
+.techSpecsContent {
   background-color: white;
   padding: 4rem 17%; }
   @media (max-width: 56.25em) {
-    .protocolContent {
+    .techSpecsContent {
       padding: 4rem; } }
-  .protocolContent__title {
+  .techSpecsContent__title {
     font-size: 3.3rem;
     color: #195C89;
     font-weight: 600;
     margin-bottom: 1rem; }
-  .protocolContent__body {
+  .techSpecsContent__subtitle {
+    font-size: 2.8rem;
+    color: #333;
+    font-weight: 600; }
+  .techSpecsContent__caption {
+    font-size: 2.4rem;
+    color: #555;
+    font-weight: 500; }
+  .techSpecsContent__body {
     font-size: 1.7rem;
     color: #333;
     font-weight: 500;
     text-align: justify; }
-  .protocolContent__image {
+  .techSpecsContent__image {
     margin: 1.5rem 0; }
-    .protocolContent__image--one {
+    .techSpecsContent__image--one {
       width: 40%; }
       @media (max-width: 56.25em) {
-        .protocolContent__image--one {
+        .techSpecsContent__image--one {
           width: 60%; } }
-    .protocolContent__image--two {
+    .techSpecsContent__image--two {
       width: 60%; }
       @media (max-width: 56.25em) {
-        .protocolContent__image--two {
+        .techSpecsContent__image--two {
           width: 80%; } }
-    .protocolContent__image--three {
+    .techSpecsContent__image--three {
       width: 100%; }
+
+.protocolLoveHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__heart-circuit-board.jpg");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .protocolLoveHeader {
+      padding: 12% 4rem; } }
+  .protocolLoveHeader__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .protocolLoveHeader__title {
+        font-size: 4rem; } }
+  .protocolLoveHeader__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+
+.protocolLoveContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .protocolLoveContent {
+      padding: 4rem; } }
+  .protocolLoveContent__title {
+    font-size: 3.3rem;
+    color: #195C89;
+    font-weight: 600;
+    margin-bottom: 1rem; }
+  .protocolLoveContent__subtitle {
+    font-size: 2.8rem;
+    color: #333;
+    font-weight: 600; }
+  .protocolLoveContent__caption {
+    font-size: 2.4rem;
+    color: #555;
+    font-weight: 500; }
+  .protocolLoveContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: justify; }
+  .protocolLoveContent__image {
+    margin: 1.5rem 0; }
+    .protocolLoveContent__image--one {
+      width: 40%; }
+      @media (max-width: 56.25em) {
+        .protocolLoveContent__image--one {
+          width: 60%; } }
+    .protocolLoveContent__image--two {
+      width: 60%; }
+      @media (max-width: 56.25em) {
+        .protocolLoveContent__image--two {
+          width: 80%; } }
+    .protocolLoveContent__image--three {
+      width: 100%; }
+
+.ecosystemHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__happy-community.jpg");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .ecosystemHeader {
+      padding: 12% 4rem; } }
+  .ecosystemHeader__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+    @media (max-width: 37.5em) {
+      .ecosystemHeader__title {
+        font-size: 4rem; } }
+  .ecosystemHeader__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+
+.ecosystemContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .ecosystemContent {
+      padding: 4rem; } }
+  .ecosystemContent__title {
+    font-size: 3.3rem;
+    color: #195C89;
+    font-weight: 600;
+    margin-bottom: 1rem; }
+  .ecosystemContent__subtitle {
+    font-size: 2.8rem;
+    color: #333;
+    font-weight: 600; }
+  .ecosystemContent__caption {
+    font-size: 2.4rem;
+    color: #555;
+    font-weight: 500; }
+  .ecosystemContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: left; }
+  .ecosystemContent__image {
+    margin: 1.5rem 0; }
+    .ecosystemContent__image--one {
+      width: 40%; }
+      @media (max-width: 56.25em) {
+        .ecosystemContent__image--one {
+          width: 60%; } }
+    .ecosystemContent__image--two {
+      width: 60%; }
+      @media (max-width: 56.25em) {
+        .ecosystemContent__image--two {
+          width: 80%; } }
+    .ecosystemContent__image--three {
+      width: 100%; }
+
+.warOnSenseMakingHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__war-on-sense-making.jpeg");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .warOnSenseMakingHeader {
+      padding: 12% 4rem; } }
+
+.warOnSenseMakingContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .warOnSenseMakingContent {
+      padding: 4rem; } }
+  .warOnSenseMakingContent__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+  .warOnSenseMakingContent__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+  .warOnSenseMakingContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: justify; }
+
+.warOnSenseMakingHeader {
+  padding: 12%;
+  height: 85vh;
+  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__war-on-sense-making.jpeg");
+  background-position: center;
+  background-size: cover; }
+  @media (max-width: 56.25em) {
+    .warOnSenseMakingHeader {
+      padding: 12% 4rem; } }
+
+.warOnSenseMakingContent {
+  background-color: white;
+  padding: 4rem 17%; }
+  @media (max-width: 56.25em) {
+    .warOnSenseMakingContent {
+      padding: 4rem; } }
+  .warOnSenseMakingContent__title {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem; }
+  .warOnSenseMakingContent__subtitle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500; }
+  .warOnSenseMakingContent__body {
+    font-size: 1.7rem;
+    color: #333;
+    font-weight: 500;
+    text-align: justify; }
 
 .servicesHeader {
   padding: 12%;
@@ -1052,34 +1256,3 @@ body {
   .declarationContent li {
     margin-left: 8rem;
     margin-right: 6rem; }
-
-.warOnSenseMakingHeader {
-  padding: 12%;
-  height: 85vh;
-  background-image: linear-gradient(to right, rgba(51, 51, 51, 0.4), rgba(34, 34, 34, 0.4)), url("../../../../src/assets/images/cogov__war-on-sense-making.jpeg");
-  background-position: center;
-  background-size: cover; }
-  @media (max-width: 56.25em) {
-    .warOnSenseMakingHeader {
-      padding: 12% 4rem; } }
-
-.warOnSenseMakingContent {
-  background-color: white;
-  padding: 4rem 17%; }
-  @media (max-width: 56.25em) {
-    .warOnSenseMakingContent {
-      padding: 4rem; } }
-  .warOnSenseMakingContent__title {
-    font-size: 5rem;
-    font-weight: 600;
-    color: white;
-    margin-bottom: 1rem; }
-  .warOnSenseMakingContent__subtitle {
-    font-size: 2rem;
-    color: white;
-    font-weight: 500; }
-  .warOnSenseMakingContent__body {
-    font-size: 1.7rem;
-    color: #333;
-    font-weight: 500;
-    text-align: justify; }
