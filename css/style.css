@@ -127,10 +127,11 @@ body {
   .nav__item {
     margin-left: 3rem;
     font-size: 1.4rem;
-    font-weight: 500;
+    font-weight: bold;
     color: #555;
     cursor: pointer;
-    transition: all .2s; }
+    transition: all .2s;
+    text-align: center; }
     .nav__item:hover {
       color: #195C89; }
     @media (max-width: 56.25em) {

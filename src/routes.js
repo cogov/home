@@ -22,6 +22,8 @@ export const routes = [
     { path: '/specs', component: TechSpecs },
     { path: '/protocol.love', component: ProtocolLove },
     { path: '/services', component: Services },
-    { path: '/ecosystem', component: Ecosystem }
+    { path: '/ecosystem', component: Ecosystem },
+    //{ path: '/in-action', component: InAction },
+    //{ path: '/civic-engageement-platform', component: CEP }
 
 ]
