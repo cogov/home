@@ -30,29 +30,41 @@
       CoGov ontology defines a Collective as a working group of people that share an investment of knowledge, time, talent, energy, money, or some combination thereof, towards a common goal. In the context of digital implementations of governance, a collective is essentially synonymous with a DAO (Distributed Autonomous Organization), but without any associations with older modalities like “blockchain” and the associated limitations of central control (enclosability).
             <br><br>
   </p>
-  <p class="protocolLoveContent__subtitle"> 
-          In order for a Collective to operate with <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, what does it need to share?
+   <p class="protocolLoveContent__subtitle"> 
+          The Reality of Transparency
 </p>
   <p class="protocolLoveContent__body">
+    We should understand that <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> is always a choice– a choice that takes extra effort. CoGov does not suggest that there should be any punitive approach or attempt to enforce <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>. The fact is, as more and more data flows into ledgers, we will have the opportunity to test the hypothesis that resistance to transparency is inherently rivalrous behavior. But this is certainly not a given. There are plenty of reasons that a person or group might not make the extra effort to adhere to <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>.<br />
+    <br />
+    Just like in nature, a chameleon can stay mostly invisible, but there is still a chance to notice a movement, and to inspect further to see if there is a deception afoot. The same principle applies here.
+  </p><br />
+  <br />
+  <p class="protocolLoveContent__subtitle"> 
+          In order for a Collective to operate with <a class="removelink underline" href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, what does it need to share?
+</p>
+<br /><br />
+  <p class="protocolLoveContent__body">
+      <ul style="margin-left:30px;">
+      <li>What is the mission of the Collective? Who set that mission, and when?</li>
+      <li>What assets does the Collective currently steward, what assets do they intend to generate through their operations?</li>
+      <li>Who makes decisions about assets that the Collective stewards?</li>
+      <li>How are those decisions being made about those assets?</li>
+      <li>What/When/Why did certain decisions get made?</li>
+      <li>How did the stewards reach their level of influence?</li>
+      <li>How do others have a voice in the conversations? How do they become a steward?</li>
+      <li>What types of liquid assets (current-sees) does the Collective trade? When, what amounts, and with who?</li>
+      <li>What do other folks do if they feel like the stewards of an asset are making bad decisions that affect them, their community, or the planet?</li>
+      </ul>
 
-      - What is the mission of the Collective? Who set that mission, and when?
-      <br>
-      - What assets does the Collective currently steward, what assets do they intend to generate through their operations?
-      <br>
-      - Who makes decisions about assets that the Collective stewards?
-      <br>
-      - How are those decisions being made about those assets?
-      <br>
-      - What/When/Why did certain decisions get made?
-      <br>
-      - How did the stewards reach their level of influence?
-      <br>
-      - How do others have a voice in the conversations? How do they become a steward?
-      <br>
-      - What types of liquid assets (current-sees) does the Collective trade? When, what amounts, and with who?
-      <br>
-      - What do other folks do if they feel like the stewards of an asset are making bad decisions that affect them, their community, or the planet?
-
+</p>
+<br><br>
+<p class="protocolLoveContent__subtitle">
+      When to Focus on a Collective Foundational Document
+</p>
+<p class="protocolLoveContent__body"> 
+      The formation of a Collective usually moves through three phases: <b>Conversation, Interaction, and Transaction</b>.<br />
+      <br />
+      <b>Conversation</b> happens all the time. Sometimes conversations start to coalesce into something more tangible. As tangibility increases, conversations become more focused around a particular mission or vision. As the group enters into <b>Interaction</b>, participants begin discussing the ways they are aligned and how they could contribute towards it. This is the time to open up the Collective Foundational Document (CFD) Template, and begin working on it as a group. Using the CFD Template, the group will see if they can align on how they wish to <b>Transact</b> with each other. Upon completion of the CFD, the group is ready to begin fully transparent operations.
 </p>
 <br><br>
 <p class="protocolLoveContent__subtitle">

@@ -43,10 +43,11 @@
     &__item {
         margin-left: 3rem;
         font-size: 1.4rem;
-        font-weight: 500;
+        font-weight: bold;
         color: #555;
         cursor: pointer;
         transition: all .2s;
+        text-align: center;
 
         &:hover {
             color: $cogov-primary;
