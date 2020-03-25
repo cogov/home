@@ -62,7 +62,7 @@
                         critical to cohesive group interactions because it means that 
                         humans have the ability to interact directly with each other—to 
                         feel and see and know each other and to empathize from our shared 
-                        experience of humanness—with no intermediaries. <i><u><a href="/holochain" class="addlink" target="blank">Holochain</a> is the world's first and only digital, 
+                        experience of humanness—with no intermediaries. <i><u><a href="/holochain" class="addlink" target="_blank">Holochain</a> is the world's first and only digital, 
                         unenclosable carrier.</u></i>
                     </p>
                 </div>

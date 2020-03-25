@@ -39,7 +39,7 @@
                 <a href='/connect' class="removelink">Connect</a>
             </div>
 
-            <a href="https://cogov.typeform.com/to/kMtTYt" target="blank" class="removelink">
+            <a href="https://cogov.typeform.com/to/kMtTYt" target="_blank" class="removelink">
                 <div class="nav__button">
                     Whitepaper
                 </div>

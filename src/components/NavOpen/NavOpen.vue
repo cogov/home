@@ -28,11 +28,7 @@
             </a>                          
             <a href="/connect" class="navOpen__body--item removelink">
                 Connect
-            </a>                                           
-                                      
-            <!--a href="/the-protocol" class="navOpen__body--item removelink">
-                The CoGov Protocol
-            </a -->                                           
+            </a>                                        
         </div>
     </div>
 </template>

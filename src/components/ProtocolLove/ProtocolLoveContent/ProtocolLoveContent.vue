@@ -39,7 +39,7 @@
     Just like in nature, a chameleon can stay mostly invisible, but there is still a chance to notice a movement, and to inspect further to see if there is a deception afoot. The same principle applies here.
   </p><br />
   <br />
-  <p class="protocolLoveContent__subtitle"> 
+  <p class="protocolLoveContent__caption"> 
           In order for a Collective to operate with <a class="removelink underline" href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, what does it need to share?
 </p>
 <br /><br />
@@ -59,29 +59,36 @@
 </p>
 <br><br>
 <p class="protocolLoveContent__subtitle">
-      When to Focus on a Collective Foundational Document
-</p>
-<p class="protocolLoveContent__body"> 
-      The formation of a Collective usually moves through three phases: <b>Conversation, Interaction, and Transaction</b>.<br />
-      <br />
-      <b>Conversation</b> happens all the time. Sometimes conversations start to coalesce into something more tangible. As tangibility increases, conversations become more focused around a particular mission or vision. As the group enters into <b>Interaction</b>, participants begin discussing the ways they are aligned and how they could contribute towards it. This is the time to open up the Collective Foundational Document (CFD) Template, and begin working on it as a group. Using the CFD Template, the group will see if they can align on how they wish to <b>Transact</b> with each other. Upon completion of the CFD, the group is ready to begin fully transparent operations.
-</p>
-<br><br>
-<p class="protocolLoveContent__subtitle">
       How does it work?
 </p>
 <p class="protocolLoveContent__body"> 
       <span class="protocolLoveContent__caption">Collective Foundational Document</span>  
       <br>
-      Protocol.love brings <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan. Read more: Collective Foundational Document Template
-      <br><br>
+      Protocol.love brings <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to the establishment of Collectives by proposing what the important things are that anyone ought to be able to discover about the Collective. This document is a combination of something like articles of incorporation, combined with something like a lean business plan.<br />
+      <br />
+      Read more: <a href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA" target="_blank" class="addlink">Collective Foundational Document Template</a>
+</p>
+<br><br>
+<p class="protocolLoveContent__caption">
+      When to Focus on a <a href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA" target="_blank" class="removelink underline">Collective Foundational Document</a>
+</p>
+<p class="protocolLoveContent__body"> 
+      The formation of a Collective usually moves through three phases: <b>Conversation, Interaction, and Transaction</b>.<br />
+      <br />
+      <b>Conversation</b> happens all the time. Sometimes conversations start to coalesce into something more tangible. As tangibility increases, conversations become more focused around a particular mission or vision. As the group enters into <b>Interaction</b>, participants begin discussing the ways they are aligned and how they could contribute towards it. This is the time to open up the <a href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA" target="_blank" class="addlink">Collective Foundational Document (CFD) Template</a>, and begin working on it as a group. Using the <a href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA" target="_blank" class="addlink">CFD Template</a>, the group will see if they can align on how they wish to <b>Transact</b> with each other. Upon completion of the <a href="https://docs.google.com/document/d/1Rh02JzKhQ5sA6V500cQm74kb-jd4VcS8bskDDUsBpQA" target="_blank" class="addlink">CFD</a>, the group is ready to begin fully transparent operations.
+
+<br><br>
+
+
       <span class="protocolLoveContent__caption">Currency Categories</span>  
       <br>
       In order to create a most holoptic socioeconomic game, protocol.love brings transparency to the flows of energy and interaction that happen in the game. In order to make sense of it all, protocol.love identifies 4 categories of currency.
       <br><br>
       <span class="protocolLoveContent__caption">Influence Currency</span>  
       <br>  
-      An Influence Currency enhances <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions. Read more: Broken Assumptions of Governance.
+      An Influence Currency enhances <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a> to decision making processes by providing the ability to have a standard metric for sharing who actually has the influence. When people have influence but do not have a corresponding passion and/or expertise, power dynamics exist that create unnecessary tensions.<br />
+      <br />
+      Read more: <a target="_blank" href="https://medium.com/metacurrency-project/broken-assumptions-of-governance-63cc946ccc6c">Broken Assumptions of Governance</a>.
       <br><br>
       <span class="protocolLoveContent__caption">Equity Currency</span>  
       <br>
