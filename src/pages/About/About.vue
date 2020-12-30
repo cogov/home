@@ -15,17 +15,17 @@
             <img @click="navOpen = false" slot="navClose" class="navOpen__nav--icon" src="/src/assets/images/cogov__menu.png">                        
         </cogov-nav-open>        
 
-        <!-- home header -->
-        <cogov-home-header></cogov-home-header>
+        <!-- about header -->
+        <cogov-about-header></cogov-about-header>
 
-        <!-- home about -->
-        <cogov-home-about></cogov-home-about>
+        <!-- about team -->
+        <cogov-about-team></cogov-about-team>
 
-        <!-- home details -->
-        <!--cogov-home-details></cogov-home-details-->        
+        <!-- about details -->
+        <cogov-about-details></cogov-about-details>        
 
-        <!-- home collaborators -->
-        <cogov-home-collaborators></cogov-home-collaborators>
+        <!-- about collaborators -->
+        <cogov-about-collaborators></cogov-about-collaborators>
 
         <!-- footer -->
         <cogov-footer></cogov-footer>         
@@ -35,11 +35,11 @@
 <script>
     import cogovNav from '../../components/Nav/Nav.vue'
     import cogovNavOpen from '../../components/NavOpen/NavOpen.vue'
-    import cogovHomeHeader from '../../components/Home/HomeHeader/HomeHeader.vue'
-    import cogovHomeCollaborators from '../../components/Home/HomeCollaborators/HomeCollaborators.vue'
-    import cogovHomeAbout from '../../components/Home/HomeAbout/HomeAbout.vue'
-    import cogovHomeDetails from '../../components/Home/HomeDetails/HomeDetails.vue'
-    import cogovHomePoweredBy from '../../components/Home/HomePoweredBy/HomePoweredBy.vue'
+    import cogovAboutHeader from '../../components/About/AboutHeader/AboutHeader.vue'
+    import cogovAboutCollaborators from '../../components/About/AboutCollaborators/AboutCollaborators.vue'
+    import cogovAboutTeam from '../../components/About/AboutTeam/AboutTeam.vue'
+    import cogovAboutDetails from '../../components/About/AboutDetails/AboutDetails.vue'
+    import cogovAboutPoweredBy from '../../components/About/AboutPoweredBy/AboutPoweredBy.vue'
     import cogovFooter from '../../components/Footer/Footer.vue'
 
     export default {
@@ -51,11 +51,11 @@
         components: {
             cogovNav,
             cogovNavOpen,
-            cogovHomeHeader,
-            cogovHomeCollaborators,
-            cogovHomeAbout,
-            cogovHomeDetails,
-            cogovHomePoweredBy,
+            cogovAboutHeader,
+            cogovAboutCollaborators,
+            cogovAboutTeam,
+            cogovAboutDetails,
+            cogovAboutPoweredBy,
             cogovFooter
         }
     }

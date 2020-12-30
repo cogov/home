@@ -2,9 +2,9 @@
 <template>
     <div class="homeAbout" id="homeAbout">
         <div class="homeAbout__header">
-            <h2 class="homeAbout__title">What is CoGov?</h2>
-            <h3 class="homeAbout__body">
-                <span class="homeAbout__subtitle">CoGov</span> is a proposal for a <a href="/ecosystem">ecosystem of startups</a>, with each startup modeling its operations to be infused with <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Loving Kindness</a> and <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
+            <h1 class="title">What is CoGov?</h1>
+            <p class="homeAbout__body">
+                CoGov is a proposal for a <a href="/ecosystem">ecosystem of startups</a>, with each startup modeling its operations to be infused with <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Loving Kindness</a> and <a href="https://medium.com/@rayzer42/cogov-presents-a-digital-protocol-for-scaling-loving-kindness-1da6605f88d9" target="_blank">Vulnerable Transparency</a>, which is also omini-win and anti-rivalrous.
                     Keys to accomplishing this goal include the implementation of a common, shared cryptocurrency and <a href="/protocol.love">protocol.love</a>.<br />
                     <br />
                     The success of this endeavor relies on the ability to
@@ -15,22 +15,22 @@
                     
                     As each of our partner projects (many of which are also startup ecosystems) reach maturity, we will create a magnetic attraction field
                     that can ultimately lead to the total transformation of the global socioeconomic paradigm.
-            </h3>
+            </p>
             <br />
             <br />
-            <h2 class="homeAbout__title">Our Goals</h2>
-            <h3 class="homeAbout__subtitle">Empower people to empower themselves.</h3>
-            <h3 class="homeAbout__body">
+            <h2 class="title">Our Goals</h2>
+            <h3 class="subtitle">Empower people to empower themselves.</h3>
+            <p class="homeAbout__body">
                 We don’t just need new social systems. We need a framework within 
                 which we can experiment with  
                 new social systems real-time, in a way that moves humanity forward quickly, while 
                 avoiding existential threats. A New Earth is emerging, where citizens
                 are no longer merely participants in social systems, but they are fully
                 engaged in the creation and rapid iteration of those systems.
-            </h3>
+            </p>
             <br>
             <br>
-            <h3 class="homeAbout__subtitle">From Individual Ownership to Collective Stewardship.</h3>
+            <h3 class="subtitle">From Individual Ownership to Collective Stewardship.</h3>
             <h3 class="homeAbout__body">
                 CoGov is a semi-autonomous socioeconomic ecosystem, powered by <a href="/protocol.love">protocol.love</a>, 
                 that enhances the ability of sovereign 
@@ -46,14 +46,13 @@
             </h3>
         </div>
 
-
-        <div class="homeAbout__items">
-            <p class="homeAbout__items--title">What makes CoGov work?</p>
+        <div class="homeAbout__items" style="display: none;">
+            <h1 class="title">What makes CoGov work?</h1>
 
             <div class="homeAbout__item">
                 <div class="homeAbout__item--photo homeAbout__item--photo--one">&nbsp;</div>
                 <div class="homeAbout__item--text homeAbout__item--text--right">
-                    <h2 class="homeAbout__item--title">Unenclosability</h2>
+                    <h2 class="title">Unenclosability</h2>
                     <p class="homeAbout__item--body">
                         No central servers means the user is in control of their experience.
                         The Earth’s air is an unenclosable carrier for sound waves— a carrier that cannot be owned or 
@@ -70,7 +69,7 @@
 
             <div class="homeAbout__item homeAbout__item--swap">
                 <div class="homeAbout__item--text homeAbout__item--text--left">
-                    <h2 class="homeAbout__item--title">Scalability</h2>
+                    <h2 class="title">Scalability</h2>
                     <p class="homeAbout__item--body">
                         New forms of community and business are arising, 
                         but unless they can create economies of scale, 
@@ -90,7 +89,7 @@
                 <div class="homeAbout__item--photo homeAbout__item--photo--two">&nbsp;</div>
 
                 <div class="homeAbout__item--text homeAbout__item--text--left">
-                    <h2 class="homeAbout__item--title">Scalability</h2>
+                    <h2 class="title">Scalability</h2>
                     <p class="homeAbout__item--body">
                         New forms of community and business are arising. 
                         but unless they can create economies of scale, 
@@ -103,7 +102,7 @@
             <div class="homeAbout__item">
                 <div class="homeAbout__item--photo homeAbout__item--photo--five">&nbsp;</div>
                 <div class="homeAbout__item--text homeAbout__item--text--right">
-                    <h2 class="homeAbout__item--title">Transparency</h2>
+                    <h2 class="title">Transparency</h2>
                     <p class="homeAbout__item--body">
                         In this era of a <a class="addlink" href="/war-on-sense-making">War on Sense Making</a>,
                         transparency of operatons is critical to re-building trust in
@@ -119,7 +118,7 @@
 
             <div class="homeAbout__item homeAbout__item--swap">
                 <div class="homeAbout__item--text homeAbout__item--text--left">
-                    <h2 class="homeAbout__item--title">Rapid Iteration</h2>
+                    <h2 class="title">Rapid Iteration</h2>
                     <p class="homeAbout__item--body">
                         A massive shift in human consciousness is upon us. Along with that 
                         we must exponentially increase our ability to coordinate at scale. 
@@ -135,7 +134,7 @@
             <div class="homeAbout__item homeAbout__item--mobile">
                 <div class="homeAbout__item--photo homeAbout__item--photo--four">&nbsp;</div>
                 <div class="homeAbout__item--text homeAbout__item--text--left">
-                    <h2 class="homeAbout__item--title">Rapid Iteration</h2>
+                    <h2 class="title">Rapid Iteration</h2>
                     <p class="homeAbout__item--body">
                         A massive shift in human consciousness is upon us. Along with that 
                         we must exponentially increase our ability to coordinate at scale. 
@@ -152,7 +151,7 @@
             <div class="homeAbout__item">
                 <iframe class="homeAbout__item--video" src="https://www.youtube.com/embed/2FJL3ibnZlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
                 <div class="homeAbout__item--text homeAbout__item--text--right">
-                    <h2 class="homeAbout__item--title">Holochain</h2>
+                    <h2 class="title">Holochain</h2>
                     <p class="homeAbout__item--body">
                         A whole new era of software interoperability is coming forth thanks to Holochain. 
                         There is no longer a need for clunky and burdensome APIs to 
@@ -163,7 +162,192 @@
                 </div>
             </div>                                                
 
-        </div>                       
+        </div>     
+
+        <section class="hero is-white is-fullheight">
+            <div class="hero-body">
+                <div class="container">
+                    <div class="columns  is-vcentered reverse-columns">
+                    <div class="column is-three-fifths">
+                        <h1 class="title titled is-1 mb-6">
+                            Unenclosability
+                        </h1>
+                        <h2 class="subtitled subtitle has-text-grey is-4 has-text-weight-normal is-family-sans-serif">
+                            No central servers means the user is in control of their experience.
+                            The Earth’s air is an unenclosable carrier for sound waves— a carrier that cannot be owned or 
+                            controlled. With air, we can communicate with others because we 
+                            can speak and be heard by others. Unenclosable communication is 
+                            critical to cohesive group interactions because it means that 
+                            humans have the ability to interact directly with each other—to 
+                            feel and see and know each other and to empathize from our shared 
+                            experience of humanness—with no intermediaries.
+                        </h2>
+                        <div class="buttons">
+                        <button class="button is-black">Download</button>
+                        <button class="button">Subscribe</button>
+                        </div>
+                    </div>
+                    <div class="column is-two-fifths">
+                        <figure class="image">
+                        <b-image
+                            src="https://cogov.tech/assets/images/cogov__unenclosability.png"
+                            ratio="6by4"
+                            :rounded="rounded"
+                        ></b-image>
+                        </figure>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hero is-white is-fullheight">
+            <div class="hero-body">
+            <div class="container">
+                <div class="columns is-vcentered">
+                <div class="column is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-4-desktop is-offset-1-desktop
+                is-4-widescreen is-offset-1-widescreen
+                is-4-fullhd is-offset-1-fullhd">
+                    <figure class="image">
+                        <b-image
+                            src="https://cogov.tech/assets/images/cogov__scalability.png"
+                            ratio="6by4"
+                            :rounded="rounded"
+                        ></b-image>
+                    </figure>
+                </div>
+                <div class="column is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-5-desktop is-offset-1-desktop
+                is-5-widescreen is-offset-1-widescreen
+                is-5-fullhd is-offset-1-fullhd">
+                    <h1 class="title titled is-1 mb-6">
+                        Scalability
+                    </h1>
+                     <h2 class="subtitle subtitled">
+                        New forms of community and business are arising, 
+                        but unless they can create economies of scale, 
+                        they won't create the magnetic attraction to pull our culture out 
+                        of the old paradigm. CoGov enables that scalability out of the box by providing 
+                        the framework for transparent group operations — whether it's a 
+                        small team of a few people, or whether it's an entire ecosystem of millions.                  
+                    </h2>
+                </div>
+
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section class="hero is-white is-fullheight">
+            <div class="hero-body">
+            <div class="container">
+                <div class="columns  is-vcentered reverse-columns">
+                <div class="column
+                is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-5-desktop is-offset-1-desktop
+                is-5-widescreen is-offset-1-widescreen
+                is-5-fullhd is-offset-1-fullhd">
+                    <h1 class="title titled is-1 mb-6">
+                        Transparency
+                    </h1>
+                    <h2 class="subtitle subtitled">
+                        In this era of a <a class="addlink" href="/war-on-sense-making">War on Sense Making</a>,
+                        transparency of operatons is critical to re-building trust in
+                        our institutions— both public and private. CoGov offers a fully 
+                        transparent interoperability layer that 
+                        opens up the doorway for organizations to use any number of 
+                        business or organizational governance models and interfaces, 
+                        and/or seamlessly transition between them, while minimizing 
+                        (or even removing) difficulties of the transition.
+                    </h2>
+                </div>
+                <div class="column
+                is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-4-desktop is-offset-1-desktop
+                is-4-widescreen is-offset-1-widescreen
+                is-4-fullhd is-offset-1-fullhd">
+                    <figure class="image">
+                    <b-image
+                        src="https://cogov.tech/assets/images/cogov__interoperability.png"
+                        ratio="6by4"
+                        :rounded="rounded"
+                    ></b-image>
+                    </figure>
+                </div>
+
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section class="hero is-white is-fullheight">
+            <div class="hero-body">
+            <div class="container">
+                <div class="columns is-vcentered is-8">
+                <div class="column is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-4-desktop is-offset-1-desktop
+                is-4-widescreen is-offset-1-widescreen
+                is-4-fullhd is-offset-1-fullhd">
+                    <figure class="image">
+                        <b-image
+                            src="https://cogov.tech/assets/images/cogov__iteration.png"
+                            ratio="6by4"
+                            :rounded="rounded"
+                        ></b-image>
+                    </figure>
+                </div>
+                <div class="column is-10-mobile is-offset-1-mobile
+                is-10-tablet is-offset-1-tablet
+                is-5-desktop is-offset-1-desktop
+                is-5-widescreen is-offset-1-widescreen
+                is-5-fullhd is-offset-1-fullhd">
+                    <h1 class="titled title is-1 mb-6">
+                    Rapid Iteration
+                    </h1>
+                    <h2 class="subtitled subtitle">
+                        A massive shift in human consciousness is upon us. Along with that 
+                        we must exponentially increase our ability to coordinate at scale. 
+                        That means people get to not just participate in systems, but 
+                        they get to participate in the <i>Design</i> of those systems, and 
+                        redesign them and tweak the design of those systems over and 
+                        over until we get it right.                  
+                    </h2>
+                </div>
+
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section class="hero is-medium has-text-centered">
+            <div class="hero-body">
+            <div class="container">
+                <div class="columns is-centered">
+                <div class="column is-8">
+                    <h1 class="title titled is-1 mb-6">
+                    Holochain
+                    </h1>
+                    <h2 class="subtitle subtitled">
+                        A whole new era of software interoperability is coming forth thanks to Holochain. 
+                        There is no longer a need for clunky and burdensome APIs to 
+                        allow applications to connect with each other. CoGov ensures 
+                        that the same level of interoperability exists between 
+                        Collectives and their Currencies. 
+                    </h2>
+                    <iframe class="homeAbout__item--video" src="https://www.youtube.com/embed/2FJL3ibnZlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
+                </div>
+                </div>
+
+            </div>
+            </div>
+        </section>                  
     </div>
 </template>
 

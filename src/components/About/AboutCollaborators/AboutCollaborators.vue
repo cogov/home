@@ -1,7 +1,7 @@
 
 <template>
     <div class="homeCollaborators">
-        <h2 class="homeCollaborators__title">In Collaboration With:</h2>
+        <h2 class="homeCollaborators__title">Collaboration is our jam! Here's who with:</h2>
         <div class="homeCollaborators__collaborators">
             <div class="homeCollaborators__collaborator">
                 <a class="homeCollaborators__collaborator" href="https://www.metacurrency.org" target="blank">            

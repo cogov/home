@@ -1,22 +1,23 @@
 {
   "name": "cogov",
   "description": "Website for Collaborative Governance Technologies (CoGov.Tech)",
-  "version": "1.0.0",
-  "author": "Eric Yang (eric@junto.foundation), Raymond Powell (ray@cogov.tech)",
+  "version": "1.1.1",
+  "author": "Eric Yang (eric@junto.foundation), Raymond Powell (ray@cogov.tech), Joel Serino (joel@cogov.tech)",
   "license": "(MIT) ",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "devray": "ipconfig getifaddr en0 && cross-env NODE_ENV=development webpack-dev-server --hot --host 0.0.0.0",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
-    "compile:sass": "node-sass sass/main.scss css/style.css -w",
-    "compile:sass-bg": "node-sass sass/main.scss css/style.css -w &",
+    "compile:sass": "node-sass sass/bulma.scss css/styles.css",
+    "compile:sass-og": "node-sass sass/main.scss css/style-og.css",
     "push": "git add . && git commit -m wip && git push",
     "publish:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publish-hostgator-input.txt",
     "publishall:hostgator": "node-sass sass/main.scss css/style.css && cross-env NODE_ENV=production webpack --progress --hide-modules && sftp -P 2222 cogov@cogov.tech < publishall-hostgator-input.txt",
     "ftp": "echo \"cd public_html\" | sftp -P 2222 cogov@cogov.tech"
   },
   "dependencies": {
+    "buefy": "^0.9.4",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"

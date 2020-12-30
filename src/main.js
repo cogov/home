@@ -1,10 +1,15 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import Buefy from 'buefy'
+
 import App from './App.vue'
 import { routes } from './routes.js'
+import 'buefy/dist/buefy.css'
 
-import sacred_geo from './assets/videos/sacred-geo.mp4'
-
+Vue.use(Buefy, {
+    // defaultIconPack: 'fas',
+    defaultContainerElement: '.page-body',
+})
 Vue.use(VueRouter)
 
 const router = new VueRouter({

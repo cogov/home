@@ -7,12 +7,6 @@
         padding: 0 4rem;
     }
 
-    & img {
-      border-radius: 12px;
-      box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
-      0 0px 0 1px rgba(10, 10, 10, 0.02);
-    }
-
     & a { 
         color:black; 
         font-weight: normal;
@@ -44,10 +38,9 @@
     }
 
     &__body {
-        font-size: 1.2rem;
+        font-size: 2rem;
         font-weight: 400;
         color: $cogov-grey;
-        margin-bottom: 2rem;
     }
 
 
