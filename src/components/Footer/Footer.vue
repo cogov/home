@@ -17,7 +17,7 @@
                     <p class="footer__social--text">Twitter</p>
                 </a>      
 
-                <a href="https://www.linkedin.com/in/rayzer42/" target="blank" class="removelink footer__social">
+                <a href="https://www.linkedin.com/company/cogov" target="blank" class="removelink footer__social">
                     <img class="footer__social--icon" src="/src/assets/images/cogov__linkedin.png" alt="">
                     <p class="footer__social--text">Linkedin</p>
                 </a>      
@@ -27,7 +27,7 @@
                     <p class="footer__social--text">Github</p>
                 </a>                                                                                                                             
             </div>
-        <p class="footer__copyright">Copyright &copy;2019 CoGov.Tech, All Rights Reserved.</p>
+        <p class="footer__copyright">Copyright &copy;2021 CoGov, All Rights Reserved.</p>
         
     </section>
 </template>

@@ -1,5 +1,5 @@
 
-@import '_base';                                     
+@import '_base';
  
 // pages
 @import './../src/pages/Home/Home';
@@ -12,7 +12,8 @@
 @import './../src/pages/Services/Services';
 @import './../src/pages/Protocol.Love/Protocol.Love';
 @import './../src/pages/Ecosystem/Ecosystem';
- 
+@import './../src/pages/Whitepaper/Whitepaper';
+
 // Global components
 @import './../src/components/Nav/Nav';
 @import './../src/components/NavOpen/NavOpen';  
