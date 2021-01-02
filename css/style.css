@@ -44,58 +44,66 @@ body {
   position: relative; }
 
 .vision {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .about {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .holochain {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .connect {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .declaration {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .protocol {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .services {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .protocolLove {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
 
 .protocolLove {
-  margin-top: 7rem;
+  margin-top: 4px;
   height: 100%;
   width: 100%;
   position: relative; }
+
+.vue-friendly-iframe {
+  width: 100%;
+  height: 680px; }
+
+.vue-friendly-iframe iframe {
+  width: 100%;
+  height: 680px; }
 
 .nav {
   position: fixed;
@@ -284,7 +292,7 @@ body {
       width: 100vw;
       background-image: linear-gradient(to right, #195C89, #333);
       opacity: .9;
-      z-index: 200; }
+      z-index: 9; }
     .homeHeader__backdrop--video {
       background-color: grey;
       height: 100%;
@@ -398,6 +406,9 @@ body {
   @media (max-width: 56.25em) {
     .homeAbout {
       padding: 0 4rem; } }
+  .homeAbout img {
+    border-radius: 12px;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02); }
   .homeAbout a {
     color: black;
     font-weight: normal;
@@ -418,9 +429,10 @@ body {
     font-weight: 600;
     color: #195C89; }
   .homeAbout__body {
-    font-size: 2rem;
+    font-size: 1.2rem;
     font-weight: 400;
-    color: #333; }
+    color: #333;
+    margin-bottom: 2rem; }
   .homeAbout__pillars {
     display: flex; }
     @media (max-width: 56.25em) {

@@ -11,6 +11,7 @@ import TechSpecs from './pages/TechSpecs/TechSpecs.vue'
 import ProtocolLove from './pages/Protocol.Love/Protocol.Love.vue'
 import Services from './pages/Services/Services.vue'
 import Ecosystem from './pages/Ecosystem/Ecosystem.vue'
+import Whitepaper from './pages/Whitepaper/Whitepaper.vue'
 
 export const routes = [
     { path: '/', component: Home },
@@ -26,6 +27,7 @@ export const routes = [
     { path: '/protocol.love', component: ProtocolLove },
     { path: '/services', component: Services },
     { path: '/ecosystem', component: Ecosystem },
+    { path: '/whitepaper', component: Whitepaper },
     //{ path: '/in-action', component: InAction },
     //{ path: '/civic-engageement-platform', component: CEP }
 
