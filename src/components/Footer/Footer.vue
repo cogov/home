@@ -27,7 +27,7 @@
                     <p class="footer__social--text">Github</p>
                 </a>                                                                                                                             
             </div>
-        <p class="footer__copyright">Copyright &copy;2019 CoGov.Tech, All Rights Reserved.</p>
+        <p class="footer__copyright">Copyright &copy;2021 CoGov, All Rights Reserved.</p>
         
     </section>
 </template>
